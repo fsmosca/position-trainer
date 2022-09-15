@@ -1,0 +1,49 @@
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "1.1"]
+[White "Nakamura, Hikaru"]
+[Black "Caruana, Fabiano"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2768"]
+[BlackElo "2776"]
+[ECO "A20"]
+[Opening "English opening"]
+[WhiteFideId "2016192"]
+[BlackFideId "2020009"]
+[EventDate "2022.08.29"]
+
+1. c4 e5 2. a3 Nc6 3. Nc3 f5 4. g3 Nf6 5. Bg2 a5 6. e3 d6 7. d4 Be7 8. Nge2 O-O
+9. O-O Kh8 10. Rb1 Qe8 11. b4 axb4 12. axb4 e4 13. f3 exf3 14. Bxf3 Nd8 15. Nf4
+c6 16. b5 Ne6 17. bxc6 bxc6 18. d5 Nxf4 19. exf4 c5 20. Re1 Qf7 21. Bb2 Bd7 22.
+Qd3 Rab8 23. Nb5 Ne4 24. Bxe4 fxe4 25. Qxe4 Rfe8 26. Qf3 Bf8 27. Rxe8 Rxe8 28.
+Bc3 Qg6 29. Re1 Rxe1+ 30. Bxe1 Qc2 31. Nc3 Be7 32. Qd1 Qxd1 33. Nxd1 Kg8 34. Bc3
+h5 35. Ne3 Kf7 36. Kg2 g5 37. Kf3 Bc8 38. Ke4 Bh3 39. Kf3 Bd8 40. Bd2 Bd7 41.
+Bc3 Bh3 42. f5 Bf6 43. Bxf6 Kxf6 44. g4 hxg4+ 45. Kg3 Ke5 46. Nxg4+ 1-0
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "1.2"]
+[White "Aronian, Levon"]
+[Black "Xiong, Jeffery"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2690"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "13300474"]
+[BlackFideId "2047640"]
+[EventDate "2022.08.29"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. O-O Nd7 7. c3 O-O 8. d4
+Bd6 9. Bg5 Qe8 10. Nbd2 Qe6 11. Re1 a5 12. Bh4 a4 13. a3 Re8 14. Bg3 exd4 15.
+cxd4 Nb6 16. Qc2 Qg6 17. Ne5 Qh5 18. Nd3 Qb5 19. Rac1 Be6 20. Nc5 Bxg3 21. hxg3
+Rad8 22. Nf3 Bb3 23. Qc3 Nd7 24. Nxb3 axb3 25. Nd2 Nf6 26. e5 Ng4 27. f3 Nh6 28.
+g4 c5 29. Qxc5 Qd3 30. Qc3 Rxd4 31. Nxb3 Qxc3 32. Rxc3 Rd5 33. Rxc7 Rb5 34. Re3
+f5 35. Nd4 Rxb2 36. Nxf5 Nxf5 37. gxf5 Rd8 38. e6 1-0
