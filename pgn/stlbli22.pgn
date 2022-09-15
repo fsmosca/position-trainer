@@ -1,0 +1,2394 @@
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "1.1"]
+[White "Nakamura, Hikaru"]
+[Black "Caruana, Fabiano"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2768"]
+[BlackElo "2776"]
+[ECO "A20"]
+[Opening "English opening"]
+[WhiteFideId "2016192"]
+[BlackFideId "2020009"]
+[EventDate "2022.08.29"]
+
+1. c4 e5 2. a3 Nc6 3. Nc3 f5 4. g3 Nf6 5. Bg2 a5 6. e3 d6 7. d4 Be7 8. Nge2 O-O
+9. O-O Kh8 10. Rb1 Qe8 11. b4 axb4 12. axb4 e4 13. f3 exf3 14. Bxf3 Nd8 15. Nf4
+c6 16. b5 Ne6 17. bxc6 bxc6 18. d5 Nxf4 19. exf4 c5 20. Re1 Qf7 21. Bb2 Bd7 22.
+Qd3 Rab8 23. Nb5 Ne4 24. Bxe4 fxe4 25. Qxe4 Rfe8 26. Qf3 Bf8 27. Rxe8 Rxe8 28.
+Bc3 Qg6 29. Re1 Rxe1+ 30. Bxe1 Qc2 31. Nc3 Be7 32. Qd1 Qxd1 33. Nxd1 Kg8 34. Bc3
+h5 35. Ne3 Kf7 36. Kg2 g5 37. Kf3 Bc8 38. Ke4 Bh3 39. Kf3 Bd8 40. Bd2 Bd7 41.
+Bc3 Bh3 42. f5 Bf6 43. Bxf6 Kxf6 44. g4 hxg4+ 45. Kg3 Ke5 46. Nxg4+ 1-0
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "1.2"]
+[White "Aronian, Levon"]
+[Black "Xiong, Jeffery"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2690"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "13300474"]
+[BlackFideId "2047640"]
+[EventDate "2022.08.29"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. O-O Nd7 7. c3 O-O 8. d4
+Bd6 9. Bg5 Qe8 10. Nbd2 Qe6 11. Re1 a5 12. Bh4 a4 13. a3 Re8 14. Bg3 exd4 15.
+cxd4 Nb6 16. Qc2 Qg6 17. Ne5 Qh5 18. Nd3 Qb5 19. Rac1 Be6 20. Nc5 Bxg3 21. hxg3
+Rad8 22. Nf3 Bb3 23. Qc3 Nd7 24. Nxb3 axb3 25. Nd2 Nf6 26. e5 Ng4 27. f3 Nh6 28.
+g4 c5 29. Qxc5 Qd3 30. Qc3 Rxd4 31. Nxb3 Qxc3 32. Rxc3 Rd5 33. Rxc7 Rb5 34. Re3
+f5 35. Nd4 Rxb2 36. Nxf5 Nxf5 37. gxf5 Rd8 38. e6 1-0
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "1.3"]
+[White "Firouzja, Alireza"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2778"]
+[BlackElo "2792"]
+[ECO "A20"]
+[Opening "English opening"]
+[WhiteFideId "12573981"]
+[BlackFideId "4168119"]
+[EventDate "2022.08.29"]
+
+1. c4 e5 2. d3 Nf6 3. Nf3 Nc6 4. a3 d5 5. cxd5 Nxd5 6. e4 Nb6 7. Be2 Be7 8. O-O
+O-O 9. Be3 f5 10. b4 f4 11. Bc1 a6 12. Bb2 Bf6 13. Nbd2 g5 14. h3 Be6 15. Rc1
+Qd6 16. Nb3 Rad8 17. Nc5 Bc8 18. Re1 h6 19. Qc2 a5 20. bxa5 Nxa5 21. d4 Nc6 22.
+d5 Ne7 23. Nd3 c6 24. dxc6 Be6 25. Ndxe5 bxc6 26. Bd4 Qc7 27. Nxc6 Bxd4 28.
+Nfxd4 Rd6 29. e5 Rxc6 30. Nxc6 Nf5 31. Qc5 Kg7 32. Nd4 Qd7 33. Nxf5+ 1-0
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "1.4"]
+[White "Shankland, Sam"]
+[Black "Dominguez Perez, Leinier"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2720"]
+[BlackElo "2754"]
+[ECO "A33"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[WhiteFideId "2004887"]
+[BlackFideId "3503240"]
+[EventDate "2022.08.29"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 e6 6. e4 Bb4 7. Nxc6 bxc6 8.
+Bd3 e5 9. O-O O-O 10. Qc2 Bc5 11. a3 d6 12. b4 Bd4 13. Rb1 Be6 14. Ne2 Bb6 15.
+h3 Nd7 16. Ng3 Qh4 17. Kh2 Bd4 18. Bb2 c5 19. Ne2 Bxf2 20. Ng1 Qg3+ 21. Kh1 Bxg1
+22. Kxg1 cxb4 23. axb4 a5 24. Rf3 Qg5 25. b5 Rfc8 26. Ba3 Qd8 27. Qf2 Nc5 28.
+Rd1 Qe7 29. Re3 h6 30. Bf1 Nb7 31. Rc3 Nc5 32. Qe3 Rc7 33. Rc2 Rac8 34. Rcd2 Nb7
+35. Bxd6 Nxd6 36. Rxd6 Bxc4 37. b6 Rb7 38. Qc3 Be6 39. Qxa5 Qg5 40. Qa3 Rcb8 41.
+Rb1 Qe7 42. Qd3 Bc4 43. Qd2 Bxf1 44. Kxf1 Qh4 45. Qd5 Qf4+ 46. Kg1 Kh7 47. Kh1
+f6 48. Qd3 Qf2 49. Qb5 Ra8 50. Qf1 Qc5 51. Qf5+ Kh8 52. Qe6 Rab8 53. Rbd1 Qc2
+54. Rd8+ Rxd8 55. Rxd8+ Kh7 56. Qf5+ g6 57. Qe6 Qc1+ 58. Kh2 Qf4+ 59. Kh1 Qf1+
+60. Kh2 Qf4+ 61. Kh1 Qf1+ 62. Kh2 1/2-1/2
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "1.5"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2758"]
+[BlackElo "2757"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[WhiteFideId "13401319"]
+[BlackFideId "623539"]
+[EventDate "2022.08.29"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. g3 Bg7 6. Bg2 Nxc3 7. bxc3 c5 8.
+Nf3 O-O 9. O-O Nc6 10. Rb1 cxd4 11. cxd4 Nxd4 12. Nxd4 Qxd4 13. Be3 Qc4 14. Bd5
+Qa6 15. Qb3 Qxe2 16. Bc5 Be6 17. Bxe6 Qxe6 18. Qxe6 fxe6 19. Rxb7 Bf6 20. Bxa7
+Rfc8 21. a4 Kf7 22. Rd1 Rc4 23. a5 Ra4 24. Bb6 R8xa5 25. Bxa5 Rxa5 26. Rb6 Ra2
+27. Rc6 Be5 28. Kf1 Bd6 29. Rc8 Rb2 30. Rd3 Be5 31. Re3 Bd4 32. Rf3+ Bf6 33. Rc6
+Rb1+ 34. Kg2 Rb2 35. Re3 Bd4 36. Rf3+ Bf6 37. Rf4 Rb5 38. Re4 Be5 39. Rh4 h5 40.
+Re4 Bd6 41. Re3 Rf5 42. Rf3 Kg7 43. h3 Rd5 44. Re3 Kf7 45. Rf3+ Kg7 46. Rc4 Rf5
+47. Re4 Kf6 48. Rfe3 e5 49. Rc4 Kf7 50. Rf3 Rf6 51. Rc8 Kg7 52. Rd8 Bc5 53. Rd7
+Rb6 54. Rc7 Bd6 55. Rc8 e4 56. Re3 Rb4 57. Rec3 Rb2 58. R8c4 Be5 59. Re3 Bf6 60.
+Rcxe4 Ra2 61. Re2 Ra3 62. Rc4 Rb3 63. Re3 Rb2 64. Rce4 Ra2 65. Re2 Ra3 66. f4
+Kf7 67. R4e3 Ra4 68. Kf3 Rb4 69. Rd3 Ra4 70. Rd5 Ra3+ 71. Re3 Ra1 72. g4 hxg4+
+73. hxg4 Ra7 74. g5 Bg7 75. Red3 Ke6 76. Rb5 Ra6 77. Rb7 Kf7 78. Rdb3 Rc6 79.
+Re3 Bf8 80. Ra7 Rb6 81. Rea3 Rc6 82. R7a6 Rxa6 83. Rxa6 e6 84. Ra7+ Kg8 85. Ke4
+Bb4 86. Ke5 1-0
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "2.1"]
+[White "Xiong, Jeffery"]
+[Black "Firouzja, Alireza"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2690"]
+[BlackElo "2778"]
+[ECO "D02"]
+[Opening "Queen's bishop game"]
+[WhiteFideId "2047640"]
+[BlackFideId "12573981"]
+[EventDate "2022.08.29"]
+
+1. d4 Nf6 2. Nf3 d5 3. Bf4 c5 4. e3 Nc6 5. Nbd2 Bg4 6. c3 e6 7. Qb3 Qc8 8. h3
+Bh5 9. g4 Bg6 10. Nh4 Be7 11. Nxg6 hxg6 12. Be2 Qd7 13. Kf1 cxd4 14. exd4 Bd6
+15. Be3 Qc7 16. Kg2 Bf4 17. Bxf4 Qxf4 18. Qxb7 O-O 19. Nf3 Rfc8 20. Qa6 Rab8 21.
+Rab1 Ne4 22. Rhd1 Rc7 23. Qd3 g5 24. Qc2 Ne7 25. Bd3 Ng6 26. Re1 f5 27. gxf5 g4
+28. Bxe4 gxf3+ 29. Kh1 dxe4 30. fxg6 Qf5 31. Kh2 Qf4+ 32. Kh1 Qf5 33. Kh2 Qf4+
+34. Kh1 Qf5 35. Kh2 1/2-1/2
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "2.2"]
+[White "Caruana, Fabiano"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2757"]
+[ECO "A05"]
+[Opening "Reti opening"]
+[WhiteFideId "2020009"]
+[BlackFideId "623539"]
+[EventDate "2022.08.29"]
+
+1. Nf3 Nf6 2. b3 g6 3. Bb2 Bg7 4. g3 d6 5. d4 O-O 6. Bg2 a5 7. O-O a4 8. c4 Bf5
+9. bxa4 Qd7 10. Nc3 Ne4 11. Nd5 Nf6 12. Nc3 Ne4 13. Nb5 c6 14. Nc3 Nxc3 15. Bxc3
+c5 16. Qb3 Na6 17. e3 Be4 18. Nh4 Bxg2 19. Nxg2 Rfc8 20. Nf4 cxd4 21. exd4 e6
+22. Rac1 Nb8 23. a5 Nc6 24. d5 Nxa5 25. Bxa5 Rxa5 26. dxe6 fxe6 27. Rfe1 Bh6 28.
+Rcd1 Bxf4 29. gxf4 Rf5 30. Rd4 Rcf8 31. Qe3 R5f6 32. Red1 Qc7 33. Qe2 Qf7 34.
+Rxd6 Rxf4 35. R1d2 Qf5 36. Qxe6+ Qxe6 37. Rxe6 Rxc4 38. Re7 Rf7 39. Rxf7 Kxf7
+40. Rd7+ Kf6 41. Rxb7 Ra4 42. Rb2 Kf5 43. Kf1 Kf4 44. Kg2 Ra3 45. f3 h5 46. h4
+Kf5 47. Kg3 Ra4 48. Rc2 Ra3 49. Rb2 Ra4 50. Rc2 Ra3 51. Rb2 Ra4 1/2-1/2
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "2.3"]
+[White "Dominguez Perez, Leinier"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2754"]
+[BlackElo "2758"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "3503240"]
+[BlackFideId "13401319"]
+[EventDate "2022.08.29"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 O-O 6. h3 a5 7. c3 d6 8. Re1 h6
+9. Nbd2 Be6 10. Bb5 Nd7 11. Nf1 d5 12. Be3 Bd6 13. Ng3 dxe4 14. dxe4 Ne7 15. a4
+Nf6 16. Qe2 Qc8 17. Bc4 Rd8 18. Rad1 Ng6 19. Nd2 Bf8 20. Bxe6 Qxe6 21. Nc4 b6
+22. b3 Nd7 23. Qg4 Qxg4 24. hxg4 Bc5 25. Nf1 Bxe3 26. Rxe3 Nc5 27. Rb1 f6 28. g3
+Rd7 29. f3 Rad8 30. Kg2 Rd1 31. Rb2 Nf8 32. Ree2 R1d3 33. Red2 Nfe6 34. Rdc2 Nb7
+35. Nfe3 Nd6 36. Nxd6 Rxe3 37. Nc4 Red3 38. Rd2 Rxc3 39. Rxd8+ Nxd8 40. Rd2 Ne6
+41. Rd7 Rxb3 42. Re7 Nd4 43. Rxc7 Rc3 44. Rc8+ Kh7 45. Nxb6 Rxf3 46. Nd7 Kg6 47.
+Rc7 h5 48. Nf8+ Kh6 49. gxh5 Ra3 50. g4 Rxa4 51. Ra7 Ra2+ 52. Kh3 Ra3+ 53. Kg2
+a4 54. Ng6 Ne6 55. Nh4 Kg5 56. Nf5 Kxg4 57. Re7 Nf4+ 58. Kf2 Ra2+ 59. Ke1 Nxh5 0-1
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "2.4"]
+[White "Nakamura, Hikaru"]
+[Black "Aronian, Levon"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2768"]
+[BlackElo "2775"]
+[ECO "A06"]
+[Opening "Reti opening"]
+[WhiteFideId "2016192"]
+[BlackFideId "13300474"]
+[EventDate "2022.08.29"]
+
+1. Nf3 d5 2. e3 c5 3. b3 Nc6 4. Bb5 f6 5. c4 d4 6. b4 e5 7. bxc5 Bxc5 8. exd4
+Bxd4 9. Nxd4 Qxd4 10. O-O Nh6 11. Ba3 Qxa1 12. Bxc6+ bxc6 13. Qh5+ Kd8 14. Nc3
+Qxf1+ 15. Kxf1 Bg4 16. Qh4 Bf5 17. Kg1 Bg6 18. f4 Nf5 19. Qf2 Nd4 20. fxe5 fxe5
+21. Qh4+ Kc8 22. Qe7 Re8 23. Qxg7 Nf5 24. Qf6 Kb7 25. Ne4 Rad8 26. g4 Nd4 27.
+Qg7+ Kc8 28. Nd6+ Rxd6 29. Bxd6 Ne6 30. Qxa7 Rd8 31. c5 Be4 32. a4 Bd5 33. a5 1-0
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "2.5"]
+[White "Nepomniachtchi, Ian"]
+[Black "Shankland, Sam"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2792"]
+[BlackElo "2720"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "4168119"]
+[BlackFideId "2004887"]
+[EventDate "2022.08.29"]
+
+1. c4 e6 2. g3 d5 3. Bg2 Nf6 4. Nf3 Be7 5. d4 O-O 6. O-O dxc4 7. Qc2 a6 8. a4
+Bd7 9. Qxc4 Bc6 10. Bg5 Nbd7 11. e3 h6 12. Bxf6 Nxf6 13. Nbd2 a5 14. Rfd1 Bb4
+15. Qe2 Qe7 16. Nc4 Rfd8 17. Nfe5 Bxg2 18. Kxg2 c5 19. dxc5 Qxc5 20. Qf3 Rd5 21.
+Qf4 Rad8 22. Rdc1 Qc7 23. Nf3 Rc5 24. Qxc7 Rxc7 25. Nd4 Rdc8 26. b3 Nd5 27. Nb5
+Rc5 28. Nbd6 R8c7 29. Nb5 Rc8 30. Rd1 Nc3 31. Nxc3 Bxc3 32. Ra2 Rb8 33. Rd3 Bf6
+34. Nb6 Rc6 35. Nc4 b5 36. axb5 Rxb5 37. Rxa5 Rb7 38. Nd6 Rd7 39. Ra8+ Kh7 40.
+Rf8 Rcxd6 41. Rxd6 Rxd6 42. Rxf7 Rb6 43. Ra7 Rxb3 44. Ra6 e5 45. h4 h5 46. Ra4
+Kg6 47. Kf3 Kf5 48. Ra5 Rb2 49. Kg2 Rc2 50. Ra4 Be7 51. Ra7 Kf6 52. Ra6+ Kf7 53.
+Ra7 Ke6 54. Ra6+ Bd6 55. Ra7 g6 56. Ra6 Rd2 57. Kf1 e4 58. Ke1 Rb2 59. Kf1 Kd5
+60. Ra5+ Bc5 61. Ra8 Rb6 62. Rd8+ Rd6 63. Re8 Rf6 64. Kg2 Bd6 65. Rc8 Ke5 66.
+Re8+ Kf5 67. Ra8 Be5 68. Ra5 Re6 69. Rb5 g5 70. hxg5 Kxg5 71. Ra5 Kf5 72. Ra8
+Rg6 73. Kf1 Kg4 74. Re8 Bxg3 75. fxg3 Kf3 76. Re5 Kxe3 77. Rxh5 Rf6+ 78. Kg2 Ke2
+79. Ra5 e3 80. g4 Rf2+ 81. Kg3 Rf3+ 82. Kg2 Rf2+ 83. Kg3 Rf3+ 84. Kg2 Rf2+ 85.
+Kg3 Rf3+ 86. Kg2 Rf2+ 1/2-1/2
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "3.1"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Nepomniachtchi, Ian"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2758"]
+[BlackElo "2792"]
+[ECO "D41"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 5.cd"]
+[WhiteFideId "13401319"]
+[BlackFideId "4168119"]
+[EventDate "2022.08.29"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. cxd5 cxd4 6. Qxd4 exd5 7. e4 dxe4 8.
+Qxd8+ Kxd8 9. Ng5 Be6 10. Nxe6+ fxe6 11. Bg5 Nc6 12. O-O-O+ Ke8 13. Kb1 Bb4 14.
+Bxf6 gxf6 15. Nxe4 Ke7 16. a3 Ba5 17. Nc5 Rad8 18. Rc1 Rd2 19. Ne4 Rd4 20. Nc5
+Bb6 21. Bb5 Ne5 22. Na4 Ba5 23. Rhd1 Rhd8 24. Rxd4 Rxd4 25. Nc5 Bb6 26. Na4 Bd8
+27. Nc5 Rd5 28. Ba4 Bb6 29. Nxb7 Rd2 30. Rc2 Rxf2 31. Rxf2 Bxf2 32. Na5 Kd6 33.
+Bb3 Nd3 34. Bc2 Ne1 35. g4 Nf3 36. h3 h6 37. Bd3 Ke5 38. Nc6+ Kf4 39. Nd8 e5 40.
+Nf7 e4 41. Ba6 e3 42. Kc2 Nd4+ 43. Kd1 Kf3 44. Bb7+ Kg3 45. Ba6 Kf3 46. Bb7+ Kf4
+47. Ba6 Bg1 48. Ke1 Kf3 49. Bb7+ Kg3 50. Ba6 Kxh3 51. Nxh6 Bf2+ 52. Kf1 Nf3 53.
+b4 Nd2+ 54. Ke2 Nb1 55. Kf3 Nxa3 56. Bd3 Kh4 57. Nf5+ Kg5 58. Nd6 Be1 59. Ne4+
+Kg6 60. b5 Ba5 61. Kxe3 Bb6+ 62. Kd2 f5 63. Ng3 Kg5 64. gxf5 Bc7 65. f6 Bxg3 66.
+f7 Bd6 67. Kc3 Bc5 68. Bc4 Kf4 69. Be6 Ke5 70. Ba2 Bf8 71. Kb3 Nxb5 72. Ka4 Nc7
+73. Ka5 Kd6 74. Bc4 Kc5 75. Bb3 Bh6 76. Ba2 Kc6 77. Bb1 Bg7 78. Be4+ Kc5 79. Bb1
+Kd6 80. Bd3 Ke7 81. Bc4 Bd4 0-1
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "3.2"]
+[White "Shankland, Sam"]
+[Black "Xiong, Jeffery"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2720"]
+[BlackElo "2690"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange, positional line, 5...c6"]
+[WhiteFideId "2004887"]
+[BlackFideId "2047640"]
+[EventDate "2022.08.29"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 c6 6. e3 Bd6 7. Bd3 O-O 8. Nf3
+Be6 9. Ne5 c5 10. O-O Nc6 11. Nxc6 bxc6 12. dxc5 Bxc5 13. Rc1 h6 14. Bf4 Bd6 15.
+Qa4 c5 16. Rfd1 Rb8 17. b3 Bxf4 18. Qxf4 Rb4 19. Qe5 Re8 20. Be2 Bg4 21. Qg3 Nh5
+22. Qxg4 Rxg4 23. Bxg4 Nf6 24. Bf3 d4 25. Ne2 g5 26. h3 Qa5 27. exd4 cxd4 28.
+Nxd4 Qxa2 29. Rc6 Rd8 30. Rc4 h5 31. g3 g4 32. hxg4 hxg4 33. Bg2 Qb2 34. Ra4 a5
+35. Rc4 Kh7 36. Ra4 Kg6 37. Rc4 Rd6 38. Ra4 Rd8 39. Rc4 Kh7 40. Ra4 Kg8 41. Rc4
+Nh7 42. Ra4 Kh8 43. Rc4 Ng5 44. Rc5 Ne6 45. Rh5+ Kg8 46. Bd5 Nxd4 47. Rg5+ Kf8
+48. Kg2 Ne6 49. Rxg4 Qe2 50. Bf3 Qxd1 51. Bxd1 Rxd1 52. Ra4 Rd5 53. b4 axb4 54.
+Rxb4 Kg7 55. Re4 Kf6 56. Re2 Ra5 57. Rc2 Ra3 58. Rd2 Ng5 59. Re2 Kf5 60. Rb2 Ne4
+61. Rb5+ Ke6 62. Rb2 Rd3 63. Re2 Kf5 64. Kf1 Rd1+ 65. Kg2 Rd2 66. Kf3 Ng5+ 67.
+Ke3 Rxe2+ 68. Kxe2 0-1
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "3.3"]
+[White "Aronian, Levon"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2776"]
+[ECO "E60"]
+[Opening "King's Indian, 3.Nf3"]
+[WhiteFideId "13300474"]
+[BlackFideId "2020009"]
+[EventDate "2022.08.29"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 d6 4. Nc3 Bf5 5. Bg5 Bg7 6. e3 O-O 7. Bd3 Bxd3 8. Qxd3
+Nbd7 9. O-O h6 10. Bh4 g5 11. Bg3 Nh5 12. Qd1 Nxg3 13. hxg3 c5 14. Rc1 a6 15.
+Qd3 e6 16. Rfd1 cxd4 17. exd4 Rc8 18. b4 a5 19. Nb5 Rc6 20. d5 exd5 21. Qxd5 Nb6
+22. Qd3 axb4 23. Nxd6 Na4 24. Nf5 Qxd3 25. Rxd3 Re8 26. N3d4 Rc5 27. Nxg7 Kxg7
+28. Rb1 Nc3 29. Rxb4 Re1+ 30. Kh2 g4 31. Nf3 gxf3 32. gxf3 Ne2 33. f4 Rg1 34.
+Rd5 Rxd5 35. cxd5 Ra1 36. d6 Rd1 37. Rxb7 Rxd6 38. Rb3 Nc1 39. Rb2 Ra6 40. Rc2
+Nxa2 41. Rc4 Rb6 42. Kh3 Rb2 43. f3 Nb4 44. g4 Nd3 45. f5 Rb4 46. Rc3 Nf4+ 47.
+Kh4 Rb1 48. Rc2 Rg1 49. Rd2 Rg2 50. Rd6 Ne2 51. Kh3 Rg3+ 52. Kh4 Rxf3 53. g5
+Rf4+ 54. Kh5 Rxf5 55. Rxh6 Rf1 56. Ra6 Rg1 57. Ra4 Ng3+ 58. Kh4 Nf5+ 0-1
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "3.4"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Dominguez Perez, Leinier"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2757"]
+[BlackElo "2754"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, close variation"]
+[WhiteFideId "623539"]
+[BlackFideId "3503240"]
+[EventDate "2022.08.29"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d3 Nf6 6. d4 g6 7. Bd3 Bg7 8. O-O
+O-O 9. a4 c5 10. Na3 Nc6 11. h3 Nd5 12. Be4 Nf6 13. Bxc6 bxc6 14. dxc5 dxc5 15.
+Bf4 Nd5 16. Be5 f6 17. Bg3 Re8 18. Re1 Be6 19. Qd2 Nb6 20. a5 Qxd2 21. Nxd2 Nd7
+22. Nac4 Bd5 23. Nd6 Rxe1+ 24. Rxe1 Ne5 25. c4 Bh6 26. cxd5 Bxd2 27. Rd1 Bxa5
+28. Bxe5 fxe5 29. Nc4 Bb6 30. dxc6 Rc8 31. Nxe5 Kg7 32. Rd6 Bc7 33. Rd7+ Kf6 34.
+Nc4 h5 35. Nd6 Bxd6 36. Rxd6+ Kf7 37. Kf1 g5 38. Ke2 Ke7 39. Rg6 Rb8 40. Rxg5
+Rxb2+ 41. Ke3 Kd6 42. Rxc5 Rb3+ 43. Kd4 1-0
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "3.5"]
+[White "Firouzja, Alireza"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2778"]
+[BlackElo "2768"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "12573981"]
+[BlackFideId "2016192"]
+[EventDate "2022.08.29"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5 8.
+Rxe5 O-O 9. d4 Bf6 10. Re1 Re8 11. c3 Rxe1 12. Qxe1 Nf5 13. Bf4 d6 14. Nd2 Bd7
+15. Bd3 Bg5 16. Qe4 d5 17. Qe5 Bxf4 18. Qxf4 Nd6 19. Re1 f6 20. Qf3 c6 21. Qh5
+g6 22. Bxg6 hxg6 23. Qxg6+ Kf8 24. Qh6+ Kf7 25. Qh7+ Kf8 26. Qh8+ Kf7 27. Qh7+
+Kf8 28. Qh8+ Kf7 29. Qh7+ 1/2-1/2
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "4.1"]
+[White "Nakamura, Hikaru"]
+[Black "Shankland, Sam"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2768"]
+[BlackElo "2720"]
+[ECO "A05"]
+[Opening "Reti opening"]
+[WhiteFideId "2016192"]
+[BlackFideId "2004887"]
+[EventDate "2022.08.29"]
+
+1. Nf3 Nf6 2. e3 c5 3. b3 g6 4. Bb2 Bg7 5. g3 O-O 6. Bg2 d5 7. O-O Nc6 8. Ne5
+Nxe5 9. Bxe5 Be6 10. d3 Qd7 11. Re1 Bh3 12. Bh1 h5 13. Nd2 Rad8 14. Qe2 Rfe8 15.
+Rad1 h4 16. e4 hxg3 17. hxg3 Bg4 18. f3 Be6 19. Bg2 Bh6 20. Nf1 Nh5 21. Bb2 dxe4
+22. dxe4 Qc7 23. f4 c4 24. Bd4 b5 25. Bf3 Nf6 26. b4 c3 27. a3 Bg7 28. Qxb5 Bg4
+29. Nh2 Bxf3 30. Nxf3 Qc8 31. Qe2 Qg4 32. Qg2 Nh5 33. Bxg7 Kxg7 34. Kf2 Rd6 35.
+e5 Rxd1 36. Rxd1 Rh8 37. Rd3 Qf5 38. Nd4 Qg4 39. Ne2 f6 40. Re3 Kf7 41. Qd5+ Kg7
+42. exf6+ Nxf6 43. Rxe7+ Kh6 44. Qh1+ Nh5 45. Qf3 Qh3 46. Qg2 Qg4 47. Qb7 Nf6
+48. Rf7 Re8 49. Qh1+ Nh5 50. Qf3 Qh3 51. Nd4 Rd8 52. Qe3 Qh2+ 53. Ke1 Nxg3 54.
+f5+ g5 55. Qe6+ Kh5 56. Rh7+ 1-0
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "4.2"]
+[White "Aronian, Levon"]
+[Black "Firouzja, Alireza"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2778"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "13300474"]
+[BlackFideId "12573981"]
+[EventDate "2022.08.29"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. O-O Nd7 7. c3 h6 8. d4
+exd4 9. cxd4 Bd6 10. Nc3 O-O 11. Be3 Nb6 12. Ne5 Bxe5 13. dxe5 Nc4 14. Bc5 Qxd1
+15. Raxd1 Re8 16. f4 b6 17. b3 Bg4 18. Rc1 Nxe5 19. fxe5 bxc5 20. Na4 c4 21. Rf4
+Be6 22. Nc5 cxb3 23. axb3 Rab8 24. Ra1 Bxb3 25. Rxa7 Bc4 26. Rxc7 Rbc8 27. Rxc8
+Rxc8 28. Kf2 Ra8 29. Ke3 Be6 30. Rf2 Re8 31. Rd2 Bc4 32. Rd6 Bf1 33. e6 fxe6 34.
+g3 e5 35. Rxc6 Bh3 36. Nd3 Bf1 37. Rc5 Bxd3 38. Kxd3 Kf7 39. Kc4 Kf6 40. Rc6+
+Kg5 41. Kd5 Re7 42. Re6 Ra7 43. Rxe5+ Kg4 44. Ke6 g5 45. Rf5 Ra2 46. h4 gxh4 47.
+gxh4 Kxh4 48. Kf7 Kg4 49. Rf6 Ra7+ 50. Kg6 Re7 51. Kxh6 Rxe4 52. Kg6 Rf4 53.
+Rxf4+ Kxf4 1/2-1/2
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "4.3"]
+[White "Nepomniachtchi, Ian"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2792"]
+[BlackElo "2757"]
+[ECO "D87"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Spassky variation"]
+[WhiteFideId "4168119"]
+[BlackFideId "623539"]
+[EventDate "2022.08.29"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Ne2 O-O 9. O-O Nc6 10. Be3 b6 11. Rc1 Bb7 12. Qd2 Rc8 13. Rfd1 cxd4 14. cxd4 e6
+15. Bb5 Na5 16. f3 Rxc1 17. Rxc1 a6 18. Bd3 Nc6 19. Bb1 Qd7 20. h4 Rd8 21. Rd1
+Na5 22. Bg5 Nc4 23. Qf4 e5 24. Qc1 Rc8 25. dxe5 Qe8 26. Bf6 Nxe5 27. Qf4 Qe6 28.
+Bxg7 Kxg7 29. h5 Qe7 30. h6+ Kg8 31. a4 Bc6 32. Ba2 Be8 33. Rd5 Rc5 34. Nc3 Bc6
+35. Rxe5 Rxe5 36. Bxf7+ Kh8 37. Nd5 Qg5 38. Qh2 Qc1+ 39. Kf2 Qd2+ 40. Kf1 Qd1+
+41. Kf2 Qd4+ 42. Kf1 Bxa4 43. Qf4 Bb5+ 44. Ke1 Qg1+ 45. Kd2 Qd4+ 46. Ke1 Qg1+
+47. Kd2 Qd4+ 48. Ke1 Qg1+ 1/2-1/2
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "4.4"]
+[White "Xiong, Jeffery"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2690"]
+[BlackElo "2758"]
+[ECO "A21"]
+[Opening "English, Kramnik-Shirov counterattack"]
+[WhiteFideId "2047640"]
+[BlackFideId "13401319"]
+[EventDate "2022.08.29"]
+
+1. c4 e5 2. Nc3 Bb4 3. Nd5 Be7 4. d4 d6 5. e4 Nf6 6. Nxe7 Qxe7 7. f3 exd4 8.
+Qxd4 O-O 9. Ne2 c6 10. Bg5 d5 11. e5 c5 12. Qf4 Re8 13. exf6 Qe6 14. O-O-O d4
+15. Ng3 Nc6 16. fxg7 Nb4 17. Ne4 1-0
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "4.5"]
+[White "Caruana, Fabiano"]
+[Black "Dominguez Perez, Leinier"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2754"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange, positional line"]
+[WhiteFideId "2020009"]
+[BlackFideId "3503240"]
+[EventDate "2022.08.29"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 d5 4. cxd5 exd5 5. Bg5 Bb4 6. Qa4+ Nc6 7. Nf3 h6 8.
+Bxf6 Qxf6 9. e3 O-O 10. Rc1 Rd8 11. Bd3 Bg4 12. Be2 Bf8 13. O-O Ne7 14. Qb3 Rab8
+15. Ne5 Bxe2 16. Nxe2 c6 17. Nd3 Nf5 18. Ng3 Nxg3 19. hxg3 Bd6 20. Qd1 g6 21.
+Qf3 Qe7 22. Rb1 h5 23. b4 a6 24. a4 Kg7 25. b5 cxb5 26. axb5 a5 27. b6 a4 28.
+Rb5 Qe4 29. Rd1 Be7 30. Nf4 a3 31. Nxd5 Qxf3 32. gxf3 Bf8 33. Nc7 Bd6 34. Rb3
+Rd7 35. Nb5 Ra8 36. Ra1 a2 37. Na7 1-0
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "5.1"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Xiong, Jeffery"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2757"]
+[BlackElo "2690"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, close variation"]
+[WhiteFideId "623539"]
+[BlackFideId "2047640"]
+[EventDate "2022.08.29"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d3 Nf6 6. d4 g6 7. Bd3 Bg7 8. O-O
+O-O 9. Re1 c5 10. dxc5 dxc5 11. Nc3 Nc6 12. Bf4 Nb4 13. Bc4 Bf5 14. Re2 Nxc2 15.
+Rd2 Nd4 16. Nxd4 cxd4 17. Rxd4 Qb6 18. Bb3 Ne4 19. Rxe4 Bxc3 20. Re2 Bf6 21. Be3
+Qa6 22. Rc1 Bg4 23. f3 Rfd8 24. Qe1 Be6 25. Bxe6 Qxe6 26. b3 Re8 27. Rcc2 Qa6
+28. Bf2 Rxe2 29. Qxe2 Qxe2 30. Rxe2 a6 31. g4 Rc8 32. Kg2 h5 33. h3 hxg4 34.
+hxg4 Kg7 35. f4 Kf8 36. g5 Be7 37. Bd4 Bd6 38. Kf3 Rc1 39. Ke4 Rf1 40. Be5 Ke7
+41. Bxd6+ Kxd6 42. Rd2+ Ke6 43. Re2 Kd6 44. Rd2+ Ke6 45. Re2 Kd6 1/2-1/2
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "5.2"]
+[White "Dominguez Perez, Leinier"]
+[Black "Nepomniachtchi, Ian"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2754"]
+[BlackElo "2792"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[WhiteFideId "3503240"]
+[BlackFideId "4168119"]
+[EventDate "2022.08.29"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be3 Qc7 7. Qf3 b5 8. Nxc6
+Qxc6 9. O-O-O Bb7 10. Qg3 Rc8 11. Bd3 b4 12. Ne2 Nf6 13. f3 h5 14. h4 g6 15. Bd4
+Bg7 16. Nf4 Qc7 17. Kb1 Nxe4 18. Bxe4 Bxd4 19. Bxg6 Be5 20. Bxf7+ Kxf7 21. Qg6+
+Kf8 22. g3 Rg8 23. Qh7 Rg7 24. Ng6+ Rxg6 25. Qxg6 Bg7 26. Rhe1 Kg8 27. Rd2 Bxf3
+28. Rf1 Qc6 29. Rdf2 Qe4 30. Qg5 Be2 31. Rc1 Qd4 0-1
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "5.3"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2758"]
+[BlackElo "2768"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "13401319"]
+[BlackFideId "2016192"]
+[EventDate "2022.08.29"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. a3 c5 8. cxd5
+Nxd5 9. Nxd5 exd5 10. dxc5 Nxc5 11. Be2 Bf6 12. Be5 Bf5 13. O-O Be4 14. Bxf6
+Qxf6 15. Rc1 Ne6 16. Nd4 Rac8 17. Qd2 Nxd4 18. Qxd4 Qxd4 19. exd4 Rfd8 20. f3
+Bc2 21. Kf2 Kf8 22. Ke3 Ke7 23. Kd2 Bf5 24. Bd3 Bxd3 25. Kxd3 Kd6 26. Rfe1 Rxc1
+27. Rxc1 Re8 28. a4 a5 29. Kd2 b6 30. Re1 Rxe1 31. Kxe1 Ke6 32. g4 g5 33. Kf2 f6
+34. Ke3 h6 35. Kf2 Ke7 36. Ke3 Ke6 37. Kf2 Ke7 38. Ke3 Ke6 1/2-1/2
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "5.4"]
+[White "Firouzja, Alireza"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2778"]
+[BlackElo "2776"]
+[ECO "A20"]
+[Opening "English opening"]
+[WhiteFideId "12573981"]
+[BlackFideId "2020009"]
+[EventDate "2022.08.29"]
+
+1. c4 e5 2. d3 Nf6 3. Nf3 Nc6 4. a3 d5 5. cxd5 Nxd5 6. e4 Nb6 7. Be2 Be7 8. Be3
+O-O 9. O-O f5 10. b4 a6 11. Nbd2 f4 12. Bc5 Be6 13. Rc1 Bd6 14. Nb3 Kh8 15. d4
+Bxb3 16. Qxb3 Nxd4 17. Bxd4 exd4 18. e5 Be7 19. Rfd1 Qd5 20. Qb1 c6 21. Rxd4 Qe6
+22. Bd3 g6 23. h4 Rad8 24. Rxd8 Rxd8 25. Re1 Na4 26. Qc2 b5 27. Re4 c5 28. Rxf4
+c4 29. Bxc4 bxc4 30. Qxa4 c3 31. Qc2 Rc8 32. Rd4 Qf5 33. Qc1 c2 34. Rd2 Qf4 35.
+Kf1 a5 36. Ke2 Qc4+ 37. Rd3 axb4 38. axb4 Rd8 39. Ne1 Bxb4 40. Qxc2 Qe4+ 41. Re3
+Qxc2+ 42. Nxc2 Rd2+ 43. Kf3 Rxc2 44. e6 Be7 45. Rb3 Kg7 46. g4 Kf6 47. Rb6 Ke5
+48. Kg3 Rc3+ 49. f3 Kd5 50. h5 g5 51. Kg2 Rc2+ 52. Kf1 h6 53. Ra6 Ke5 54. Rb6
+Rd2 55. Ke1 Rd6 56. Rb5+ Kxe6 57. Ke2 Kf6 58. f4 gxf4 59. Rf5+ Ke6 60. Rxf4 Bg5
+61. Re4+ Kd5 62. Ra4 Rb6 63. Kf3 Rb3+ 64. Kf2 Ke5 65. Rc4 Ra3 66. Rb4 Bh4+ 67.
+Ke2 Rg3 68. Ra4 Rg2+ 69. Kf3 Rf2+ 70. Ke3 Rf1 71. Ra5+ Ke6 72. Ra6+ Kf7 73. Rxh6
+Ra1 74. Rg6 Ra5 75. Rc6 Bg5+ 76. Ke4 Be7 77. Kf4 Kg7 78. Rg6+ Kf7 79. Rc6 Ra1
+80. Ke4 Rf1 81. Rb6 Bg5 82. Rb7+ Kg8 83. Rb8+ Kf7 84. Rb7+ Be7 85. g5 Rh1 86.
+g6+ Kf6 87. g7 Kxg7 88. Rxe7+ Kh6 89. Re5 Re1+ 90. Kf4 Rxe5 91. Kxe5 Kxh5 1/2-1/2
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "5.5"]
+[White "Shankland, Sam"]
+[Black "Aronian, Levon"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2720"]
+[BlackElo "2775"]
+[ECO "E37"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, main line, 7.Qc2"]
+[WhiteFideId "2004887"]
+[BlackFideId "13300474"]
+[EventDate "2022.08.29"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 c5 8.
+dxc5 Nc6 9. Nf3 Qa5+ 10. Bd2 Qxc5 11. e3 Nxd2 12. Nxd2 O-O 13. Bd3 h6 14. O-O
+Ne5 15. Bh7+ Kh8 16. cxd5 Qd6 17. f4 Ng4 18. Nc4 Qd8 19. h3 exd5 20. hxg4 dxc4
+21. Bf5 Bxf5 22. gxf5 Qb6 23. Rae1 Rfe8 24. Qxc4 Rxe3 25. Rxe3 Qxe3+ 26. Kh2 Qe7
+27. Rd1 Re8 28. b4 b6 29. Qd4 Qh4+ 30. Kg1 Kg8 31. f6 gxf6 32. Qf2 Qh5 33. Rd3
+Qf5 34. Qf3 Kg7 35. Kh2 Re4 36. Qg3+ Kh7 37. Rd8 Qxf4 38. Qxf4 Rxf4 39. Rd7 a5
+40. bxa5 bxa5 41. Rxf7+ Kg6 42. Rc7 Re4 43. Rc5 Re5 44. Rc4 h5 45. g3 Rg5 46.
+Rc3 Rg4 47. Rc5 Ra4 48. Rc3 Rd4 49. Kh3 a4 50. Re3 Kg5 51. Rc3 h4 52. gxh4+
+Rxh4+ 53. Kg3 Rd4 54. Kf3 f5 55. Ke3 Rh4 56. Kf2 Rh2+ 57. Kg3 Rb2 58. Rc4 Rb3+
+59. Kf2 Rxa3 60. Rb4 Ra1 0-1
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "6.1"]
+[White "Caruana, Fabiano"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2792"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Marshall variation"]
+[WhiteFideId "2020009"]
+[BlackFideId "4168119"]
+[EventDate "2022.08.29"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O 8. Re1
+Bf5 9. Nbd2 Re8 10. g3 h6 11. Nh4 Bh7 12. Qf3 Nc6 13. c3 Qf6 14. Bxe4 dxe4 15.
+Qxf6 gxf6 16. Nc4 Bf8 17. Bf4 Rac8 18. Ne3 Ne7 19. Ng4 Nd5 20. Bxh6 f5 21. Bxf8
+fxg4 22. Bh6 Re6 23. Be3 b5 24. a4 a6 25. axb5 axb5 26. Ng2 Rc6 27. Ra5 Rb8 28.
+Bf4 Bf5 29. Ne3 Be6 30. Nxd5 Bxd5 31. h3 gxh3 32. Kh2 Kg7 33. Be5+ Kg6 34. Re3
+Rc4 35. Ra7 Rb7 36. Ra8 f6 37. Bf4 b4 38. Kxh3 bxc3 39. bxc3 Rb3 40. Ra5 c6 41.
+Rc5 Rxc5 42. dxc5 Kf5 43. Bd6 Rb1 44. g4+ Kg6 45. c4 Bxc4 46. Rxe4 Rh1+ 47. Kg3
+Bd5 48. Re2 Rg1+ 49. Kf4 Rc1 50. Re3 Rb1 51. Re7 Rb3 52. Re3 Rxe3 53. fxe3 Kf7
+54. e4 Bb3 55. e5 fxe5+ 56. Kxe5 Kg6 57. Bb8 Ba4 58. Kd6 Bb5 59. Ke5 Ba4 60. Kd6
+Bb5 61. Ke5 Ba4 1/2-1/2
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "6.2"]
+[White "Nakamura, Hikaru"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2768"]
+[BlackElo "2757"]
+[ECO "B54"]
+[Opening "Sicilian"]
+[Variation "Prins (Moscow) variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "623539"]
+[EventDate "2022.08.29"]
+
+1. Nf3 c5 2. e4 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 Nc6 6. Nc3 e5 7. Nb3 Be6 8. Be3
+d5 9. exd5 Nxd5 10. Nxd5 Qxd5 11. Qxd5 Bxd5 12. O-O-O O-O-O 13. Bd3 Kc7 14. c3
+Be7 15. Rhe1 h5 16. Kc2 h4 17. Nd2 Be6 18. Ne4 b6 19. b3 f6 20. Nf2 g5 21. Be4
+Rxd1 22. Nxd1 Nb8 23. Bc1 f5 24. Bd3 Nd7 25. h3 Rf8 26. Ne3 Nc5 27. Bc4 Bxc4 28.
+Nxc4 e4 29. fxe4 Nxe4 30. Nd2 Kd7 31. Nxe4 fxe4 32. Re2 Rf1 33. a4 Bf6 34. Bd2
+Rg1 35. Be3 Ra1 36. Bc1 Bxc3 37. Rxe4 Bf6 38. Rg4 Kc6 39. Bxg5 Ra2+ 40. Kd3 Bxg5
+41. Rxg5 a5 42. Rg4 Kc5 43. Rg5+ Kc6 44. Rg4 Kc5 45. g3 hxg3 46. Rxg3 b5 47.
+Rg5+ Kc6 48. Rxb5 1-0
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "6.3"]
+[White "Firouzja, Alireza"]
+[Black "Shankland, Sam"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2778"]
+[BlackElo "2720"]
+[ECO "D34"]
+[Opening "QGD"]
+[Variation "Tarrasch, Prague variation, Normal position"]
+[WhiteFideId "12573981"]
+[BlackFideId "2004887"]
+[EventDate "2022.08.29"]
+
+1. c4 e6 2. g3 d5 3. Bg2 Nf6 4. Nf3 Be7 5. O-O O-O 6. d3 c5 7. cxd5 exd5 8. d4
+Nc6 9. Nc3 Ne4 10. Be3 Nxc3 11. bxc3 c4 12. Qb1 g6 13. Ne5 Bd6 14. Bf4 Rb8 15.
+Qb5 Ne7 16. Bh6 a6 17. Qb2 Re8 18. e4 dxe4 19. Nxc4 Bc7 20. Rfe1 Be6 21. Na3 Nf5
+22. Bd2 Nd6 23. Bf4 f5 24. d5 Bf7 25. c4 g5 26. Be5 Rxe5 27. Qxe5 Nxc4 28. Qxf5
+Nxa3 29. Bxe4 Bg6 30. Qe6+ Kg7 31. Bxg6 1-0
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "6.4"]
+[White "Xiong, Jeffery"]
+[Black "Dominguez Perez, Leinier"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2690"]
+[BlackElo "2754"]
+[ECO "B50"]
+[Opening "Sicilian"]
+[WhiteFideId "2047640"]
+[BlackFideId "3503240"]
+[EventDate "2022.08.29"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 Nf6 4. d4 cxd4 5. Qxd4 Nc6 6. Qd3 g6 7. Nd5 Bg7 8. c3
+O-O 9. Bg5 Nxd5 10. exd5 Ne5 11. Nxe5 Bxe5 12. Qd2 Bd7 13. a4 Rc8 14. Be2 Re8
+15. Be3 e6 16. dxe6 Rxe6 17. O-O Bc6 18. h3 Qh4 19. Bg4 h6 20. Bxe6 fxe6 21.
+Bxh6 Kh7 22. Bg5 Qe4 23. f3 Qc4 24. Qf2 Kg8 25. Rfe1 Rf8 26. Qh4 Qc5+ 27. Be3
+Qd5 28. Rad1 Qb3 29. Bd4 Qxa4 1-0
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "6.5"]
+[White "Aronian, Levon"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2758"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Anderssen variation"]
+[WhiteFideId "13300474"]
+[BlackFideId "13401319"]
+[EventDate "2022.08.29"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Bc5 7. Nc3 h6 8. Nd5 d6
+9. c3 Rb8 10. O-O O-O 11. Re1 Ba7 12. Be3 Bxe3 13. Nxe3 Na5 14. Bc2 c5 15. d4
+Nc6 16. d5 Ne7 17. a4 Ng4 18. Nxg4 Bxg4 19. axb5 axb5 20. Qd3 c4 21. Qd1 f5 22.
+h3 fxe4 23. Bxe4 Bf5 24. Nd2 Qb6 25. Re3 Rf6 26. Rf3 Rbf8 27. Bxf5 Rxf5 28. Rxf5
+Rxf5 29. Ne4 Rf4 30. Ra8+ Kh7 31. Qc2 g6 32. g3 Rf7 33. Qd2 Kg7 34. Re8 Qc7 35.
+Kg2 Qd7 36. Rb8 g5 37. Kh2 Qf5 38. Qe2 Nxd5 39. Rxb5 Nc7 40. Rb7 d5 41. Nd6 Qd3
+42. Qxe5+ Kg6 43. Nxf7 1-0
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "7.1"]
+[White "Dominguez Perez, Leinier"]
+[Black "Nakamura, Hikaru"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2754"]
+[BlackElo "2768"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "3503240"]
+[BlackFideId "2016192"]
+[EventDate "2022.08.29"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. O-O d5 7. Nbd2 dxe4 8.
+dxe4 a5 9. a4 Qe7 10. h3 Nb8 11. Re1 c6 12. Bf1 Bd6 13. Nc4 Bc7 14. b4 Rd8 15.
+Bd2 axb4 16. cxb4 Ne8 17. Qc2 f6 18. Reb1 Nd6 19. Be3 Nxc4 20. Bxc4+ Be6 21. Nd2
+Nd7 22. b5 Rdc8 23. bxc6 bxc6 24. Rb7 Qe8 25. Qb3 Nf8 26. Bxe6+ Qxe6 27. Qxe6+
+Nxe6 28. Nc4 Ra6 29. a5 c5 30. g3 Kf8 31. Nb6 Bxb6 32. Rxb6 Rxb6 33. axb6 Ke7
+34. f4 Kd6 35. Kf2 Rb8 36. f5 Nf8 37. Ra7 0-1
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "7.2"]
+[White "Shankland, Sam"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2720"]
+[BlackElo "2776"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Sveshnikov variation"]
+[WhiteFideId "2004887"]
+[BlackFideId "2020009"]
+[EventDate "2022.08.29"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3
+b5 9. Bxf6 gxf6 10. Nd5 f5 11. g3 fxe4 12. Bg2 Bg7 13. Bxe4 O-O 14. Ne3 Bd7 15.
+Qh5 h6 16. Rd1 Qf6 17. O-O Rad8 18. Rd2 Ne7 19. Rfd1 Bc8 20. c4 Qe6 21. c5 d5
+22. Nxd5 Nc6 23. Nc2 Nd4 24. Nxd4 exd4 25. Bf3 Bb7 26. Nf4 Bxf3 27. Qxf3 Qxa2
+28. b3 Qa3 29. Rc2 Rc8 30. Rdc1 Rfe8 31. Nh5 Bh8 32. Kg2 a5 33. Qg4+ Kf8 34. Qf3
+a4 35. bxa4 Qxf3+ 36. Kxf3 bxa4 37. Nf4 Rb8 38. Ra2 Rb3+ 39. Kg2 a3 40. Rd1 Rc3
+41. Rd3 Ra8 42. Rf3 Ke8 43. Nd3 Ra7 44. g4 Bg7 45. h4 Bf8 46. h5 Be7 47. Kg3 Kf8
+48. Kg2 Kg7 49. Kg3 Bg5 50. Kg2 Be7 51. Kg3 Rb7 52. Kg2 Rbb3 53. Re2 Bf8 54. Ne5
+Rxf3 55. Nxf3 Bxc5 56. Rc2 Bb6 57. Rc4 d3 58. Ra4 Bc5 59. Ra5 Bb4 60. Ra4 d2 0-1
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "7.3"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Aronian, Levon"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2757"]
+[BlackElo "2775"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "623539"]
+[BlackFideId "13300474"]
+[EventDate "2022.08.29"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5 8.
+Rxe5 O-O 9. Nc3 Bf6 10. Re1 Re8 11. Nd5 Rxe1 12. Qxe1 b6 13. d3 Bb7 14. Nxf6+
+Qxf6 15. Qb4 c5 16. Qg4 Nf5 17. c3 Bc6 18. Bd2 Re8 19. a4 d5 20. a5 d4 21. axb6
+axb6 22. c4 g6 23. b4 Ra8 24. Re1 Qd6 25. b5 Bb7 26. Qf4 Qd8 27. g3 Ng7 28. Bh3
+f5 29. Qe5 Bf3 30. Bg2 Bxg2 31. Kxg2 Qd7 32. Bh6 Qb7+ 33. Kg1 Rf8 34. Qd6 Re8 1-0
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "7.4"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Firouzja, Alireza"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2758"]
+[BlackElo "2778"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[WhiteFideId "13401319"]
+[BlackFideId "12573981"]
+[EventDate "2022.08.29"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 dxc4 8.
+Bxc4 c5 9. O-O cxd4 10. Ne4 Qf5 11. Qa4+ Nc6 12. Qxb4 Qxe4 13. Bb5 Bd7 14. Bxc6
+Bxc6 15. Qxd4 Qg6 16. Nh4 Qg5 17. Qf4 Qxf4 18. exf4 Rd8 19. Rfd1 Ke7 20. g3 g5
+21. Ng2 Bf3 22. Rxd8 Rxd8 23. fxg5 hxg5 24. h4 gxh4 25. Nxh4 Bc6 26. Ng2 Rd2 27.
+b3 b5 28. b4 Kd6 29. a3 Rd3 30. Ne3 f5 31. Kf1 Rb3 32. Rd1+ Ke5 33. Re1 Be4 34.
+Ra1 f4 35. gxf4+ Kxf4 36. a4 a6 37. axb5 axb5 38. Ra6 Kf3 39. Ke1 Rb1+ 40. Kd2
+Rb2+ 41. Kc3 Rxf2 42. Nd1 Rc2+ 43. Kb3 Rd2 44. Nc3 Bd3 45. Ka3 Bc4 46. Rb6 Rc2 0-1
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "7.5"]
+[White "Nepomniachtchi, Ian"]
+[Black "Xiong, Jeffery"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2792"]
+[BlackElo "2690"]
+[ECO "A37"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[WhiteFideId "4168119"]
+[BlackFideId "2047640"]
+[EventDate "2022.08.29"]
+
+1. c4 c5 2. g3 g6 3. Bg2 Bg7 4. Nf3 Nc6 5. Nc3 d6 6. O-O e6 7. e3 Nge7 8. d4 O-O
+9. b3 Nf5 10. Ne2 cxd4 11. exd4 e5 12. Bb2 e4 13. Ne1 d5 14. cxd5 Qxd5 15. Nc2
+Re8 16. Nc3 Qd8 17. d5 Qa5 18. Qe1 Ncd4 19. Nxe4 Qxe1 20. Raxe1 Nxc2 21. Nf6+
+Bxf6 22. Rxe8+ Kg7 23. Bxf6+ Kxf6 24. Rc1 Nd6 25. Rd8 Ke7 26. Rh8 Nd4 27. Rc7+
+Kf6 28. a4 b5 29. Rd8 bxa4 30. bxa4 Rb8 31. h4 Rb6 32. a5 Ra6 33. Bf1 Rxa5 34.
+Rxd6+ Ke5 35. Rd8 Bg4 36. Re7+ Kf6 37. Re4 Ra4 38. Rde8 Bf5 39. Rf4 1-0
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "8.1"]
+[White "Shankland, Sam"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2720"]
+[BlackElo "2758"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Schmidt variation"]
+[WhiteFideId "2004887"]
+[BlackFideId "13401319"]
+[EventDate "2022.08.29"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Bd3 d5 7. exd5 cxd5
+8. O-O Be7 9. c4 O-O 10. Nc3 Bb7 11. Qf3 Rb8 12. Nxd5 Bxd5 13. cxd5 Qxd5 14. Be2
+Bd6 15. Qxd5 Nxd5 16. Bf3 Nb4 17. a3 Nc2 18. Ra2 Nd4 19. Bd1 Nb3 20. Be3 a5 21.
+a4 Rb4 22. Bxb3 Rxb3 23. Bd2 Bb4 24. Bxb4 Rxb4 25. Rc1 Rd8 26. g3 g6 27. Rxc7
+Rd2 28. Ra7 Rb6 29. Ra1 Rbxb2 30. Rf1 Rd5 31. Re1 Rf5 32. f4 Rd5 33. g4 Rc5 34.
+g5 Ra2 35. h4 Kg7 36. Ra8 h5 37. Rd1 Rb2 38. Re1 Rbc2 39. Rd1 Ra2 40. Re1 Rxa4
+41. Ree8 Ra1+ 42. Kf2 Rc2+ 43. Kf3 Ra3+ 44. Ke4 Re2+ 45. Kd4 Ra4+ 0-1
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "8.2"]
+[White "Firouzja, Alireza"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2778"]
+[BlackElo "2757"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[WhiteFideId "12573981"]
+[BlackFideId "623539"]
+[EventDate "2022.08.29"]
+
+1. Nf3 c5 2. c4 Nc6 3. Nc3 e5 4. e3 Nf6 5. Qc2 g6 6. a3 Bg7 7. Be2 O-O 8. O-O d6
+9. d3 b6 10. Rb1 h6 11. b4 Be6 12. Qa4 Rc8 13. Bb2 Qd7 14. Nd2 Rfd8 15. Nde4 Ne8
+16. Bf3 f5 17. Nd2 Nf6 18. Bd5 Kh7 19. Bxe6 Qxe6 20. b5 Na5 21. e4 Qd7 22. Nd5
+Nxd5 23. cxd5 c4 24. dxc4 Nb7 25. Qxa7 Qc7 26. Qa4 f4 27. Qd1 Nc5 28. Bc3 Ra8
+29. Bb4 h5 30. Bxc5 Qxc5 31. a4 Ra7 32. a5 bxa5 33. b6 Rb7 34. Rb5 Qd4 35. c5
+dxc5 36. Qc2 c4 37. Nf3 Qd3 38. Qxd3 cxd3 39. Rxa5 Rxb6 40. Ra3 Bf6 41. h4 Rb4
+42. Re1 d2 43. Nxd2 Bxh4 44. Nf3 Bf6 45. Ra6 Rf8 46. Re6 g5 47. Nxe5 Bxe5 48.
+Rxe5 Kg6 49. Re6+ Rf6 50. Rxf6+ Kxf6 51. e5+ Ke7 52. e6 Rd4 53. Re5 Rd1+ 54. Kh2
+g4 55. Rxh5 Rd2 56. Rg5 Rxf2 57. Rxg4 f3 58. Kg1 Rd2 59. Rg7+ Kf6 60. Rf7+ Kg6
+61. gxf3 Rxd5 62. f4 1-0
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "8.3"]
+[White "Caruana, Fabiano"]
+[Black "Xiong, Jeffery"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2690"]
+[ECO "D00"]
+[Opening "Queen's pawn, Mason variation"]
+[WhiteFideId "2020009"]
+[BlackFideId "2047640"]
+[EventDate "2022.08.29"]
+
+1. d4 d5 2. Bf4 Bf5 3. e3 e6 4. Nf3 Nf6 5. Bd3 Bxd3 6. cxd3 Bd6 7. Ne5 O-O 8.
+O-O Nbd7 9. Nc3 a6 10. e4 Nb6 11. Qf3 c5 12. dxc5 Bxc5 13. a4 Rc8 14. a5 Nbd7
+15. Nxd7 Qxd7 16. Be5 Be7 17. Qg3 Nh5 18. Qf3 Nf6 19. Rfd1 Rfd8 20. h3 dxe4 21.
+dxe4 Qc6 22. Bd4 h6 23. Qg3 Nh5 24. Qg4 Nf6 25. Qf3 Qc4 26. Bb6 Rxd1+ 27. Rxd1
+Bb4 28. Rd4 Qb3 29. e5 Bxc3 30. exf6 Qxb2 31. Qxb7 Qc1+ 32. Kh2 Bxd4 33. Bxd4
+Qc7+ 34. Qxc7 Rxc7 35. fxg7 Rc4 36. Bb6 Kxg7 37. g4 h5 38. Kg3 Kg6 39. f3 e5 40.
+Bd8 Rc3 41. Kg2 f5 42. gxf5+ Kxf5 43. h4 Ra3 44. Kf2 Ke6 45. Ke2 Kf5 46. Kf2 e4
+47. fxe4+ Kxe4 48. Kg2 Kf4 49. Kf2 Ra2+ 50. Ke1 Kf3 51. Kd1 Ra4 52. Kc2 Ra3 53.
+Kb2 Rd3 54. Bf6 Kg4 55. Kc2 Rd5 0-1
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "8.4"]
+[White "Nakamura, Hikaru"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2768"]
+[BlackElo "2792"]
+[ECO "A20"]
+[Opening "English opening"]
+[WhiteFideId "2016192"]
+[BlackFideId "4168119"]
+[EventDate "2022.08.29"]
+
+1. c4 e5 2. a3 c6 3. d4 exd4 4. Nf3 d5 5. Nxd4 Nf6 6. cxd5 Nxd5 7. e4 Nf6 8. f3
+Bc5 9. Be3 O-O 10. Nc3 Re8 11. Nc2 Qe7 12. Bxc5 Qxc5 13. Qd4 Qg5 14. Qe3 Qg6 15.
+O-O-O Nbd7 16. g4 Nb6 17. Bd3 Be6 18. h4 Nfd7 19. e5 f5 20. Nd4 Nc4 21. Bxc4
+Bxc4 22. gxf5 Qh5 23. e6 Nf6 24. Ne4 c5 25. Nxc5 Rac8 26. Ne4 Bxe6+ 27. Kd2 Bxf5
+28. Nxf6+ gxf6 29. Qf4 Bg6 30. Rc1 Rcd8 31. Rc4 Qd5 32. Kc3 b5 33. Rc7 a5 34. b4
+axb4+ 35. axb4 Ra8 36. Qxf6 Ra3+ 37. Kd2 Ra2+ 38. Kd1 Ra1+ 39. Kd2 Ra2+ 40. Kd1
+Ra1+ 41. Kd2 Qa2+ 42. Nc2 Qd5+ 43. Nd4 Ra2+ 1/2-1/2
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "8.5"]
+[White "Aronian, Levon"]
+[Black "Dominguez Perez, Leinier"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2754"]
+[ECO "A36"]
+[Opening "English"]
+[Variation "ultra-symmetrical variation"]
+[WhiteFideId "13300474"]
+[BlackFideId "3503240"]
+[EventDate "2022.08.29"]
+
+1. c4 c5 2. Nc3 g6 3. g3 Bg7 4. Bg2 Nc6 5. d3 e6 6. h4 h6 7. h5 g5 8. f4 g4 9.
+Bxc6 bxc6 10. e4 f5 11. e5 d6 12. exd6 Qxd6 13. Be3 Nf6 14. Nge2 O-O 15. Qd2 Rb8
+16. Na4 Nd7 17. Rd1 Bd4 18. b3 e5 19. Kf1 Re8 20. Re1 Rb7 21. Bf2 Bxf2 22. Kxf2
+Nf6 23. Nec3 Rbe7 24. fxe5 Qd4+ 25. Kg2 Rxe5 26. Rxe5 Rxe5 27. Qxh6 Re3 28. Qg5+
+Kf8 29. h6 Qe5 30. Qf4 Qxf4 31. gxf4 Kg8 32. Nxc5 Be6 33. Nd1 Re2+ 34. Kf1 Rd2
+35. Ke1 1-0
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "9.1"]
+[White "Dominguez Perez, Leinier"]
+[Black "Firouzja, Alireza"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2754"]
+[BlackElo "2778"]
+[ECO "C50"]
+[Opening "Giuoco Pianissimo"]
+[WhiteFideId "3503240"]
+[BlackFideId "12573981"]
+[EventDate "2022.08.29"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. O-O d6 6. c3 O-O 7. h3 a5 8. Re1 Ba7
+9. Nbd2 Ne7 10. d4 Ng6 11. Bb3 c6 12. Bc2 exd4 13. cxd4 d5 14. e5 Nh5 15. Nf1
+Nhf4 16. Bxf4 Nxf4 17. Qd2 Ne6 18. Ng3 f6 19. Nf5 fxe5 20. Nxe5 g6 21. Nh6+ Kg7
+22. Neg4 Nxd4 23. Qc3 Bxg4 24. Nxg4 h5 25. Re6 hxg4 26. Rxg6+ Kf7 27. Re1 Re8
+28. Rxg4 Rxe1+ 29. Qxe1 Qf6 30. Bg6+ Kf8 31. Qe3 Ne6 32. Qh6+ Ke7 33. Kh2 Bxf2
+34. Qh7+ Kd6 35. Bf5 Rh8 36. Qg6 Qxg6 37. Rxg6 Re8 0-1
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "9.2"]
+[White "Nepomniachtchi, Ian"]
+[Black "Aronian, Levon"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2792"]
+[BlackElo "2775"]
+[ECO "A22"]
+[Opening "English opening"]
+[WhiteFideId "4168119"]
+[BlackFideId "13300474"]
+[EventDate "2022.08.29"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 e4 4. Ng5 c6 5. Ngxe4 Nxe4 6. Nxe4 d5 7. cxd5 cxd5 8.
+Ng3 h5 9. e3 h4 10. Ne2 Nc6 11. d4 Qf6 12. Nc3 Qg6 13. a3 Bf5 14. Qf3 O-O-O 15.
+Be2 Kb8 16. Bd2 Bd6 17. Rc1 a6 18. b4 Ne7 19. b5 a5 20. b6 Rc8 21. O-O Qe6 22.
+Rfe1 g5 23. Bf1 Bg4 24. Qxg4 Qxg4 25. Nb5 Qd7 26. Bxa5 Rxc1 27. Rxc1 Rc8 28. Rb1
+Rc4 29. e4 Ra4 30. Bd2 Bf4 31. Bb4 dxe4 32. g3 Nd5 33. Bc5 hxg3 34. hxg3 Qg4 35.
+Bg2 Ne3 36. Rb3 Qd1+ 0-1
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "9.3"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Shankland, Sam"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2757"]
+[BlackElo "2720"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "623539"]
+[BlackFideId "2004887"]
+[EventDate "2022.08.29"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. Nc3 Bd7 10. h3 h6 11. b3 Kc8 12. Bb2 Be7 13. Rad1 Rd8 14. Ne2 g5
+15. Rfe1 a5 16. a4 c5 17. c4 Bc6 18. Rxd8+ Kxd8 19. Rd1+ Ke8 20. Ne1 h5 21. f3
+Rd8 22. Rxd8+ Kxd8 23. g4 hxg4 24. hxg4 Ng7 25. Kf2 Ne6 26. Nd3 b6 27. Ng3 Ke8
+28. Nf5 Bd8 29. Bc1 Kf8 30. Be3 Kg8 31. Nc1 Kh7 32. Ne2 Kg6 33. Nc3 f6 34. Nd5
+Kf7 35. Nh6+ Kg7 36. Nf5+ Kf7 37. Nxf6 Bxf6 38. exf6 Kxf6 39. Bd2 Ke5 40. Bc3+
+Kf4 41. Bd2+ Ke5 42. Ne7 Be8 43. Bc3+ Nd4 44. Ke3 Kd6 45. Nf5+ Nxf5+ 46. gxf5
+Bd7 47. f6 Be8 48. f4 gxf4+ 49. Kxf4 Ke6 50. Kg5 c6 51. Kh6 Kf7 52. Be5 b5 53.
+Bc7 bxc4 54. bxc4 Kxf6 55. Bxa5 Bf7 56. Bb6 Bxc4 57. Bxc5 Ke6 58. a5 Kd5 59. Bb6
+c5 60. Bxc5 Kxc5 61. a6 Bxa6 1/2-1/2
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "9.4"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2758"]
+[BlackElo "2776"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[WhiteFideId "13401319"]
+[BlackFideId "2020009"]
+[EventDate "2022.08.29"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 c5 8. cxd5
+exd5 9. Be2 cxd4 10. Nxd4 Nc6 11. a3 Bxc3+ 12. bxc3 O-O 13. O-O Rd8 14. a4 b6
+15. Nxc6 Qxc6 16. Qd4 Be6 17. a5 Rac8 18. Rfc1 Qc5 19. axb6 axb6 20. h3 Rd6 21.
+Ba6 Rc7 22. Bd3 Rdc6 23. Ra8+ Rc8 24. Rxc8+ Rxc8 25. Qxc5 bxc5 26. c4 Kf8 27.
+cxd5 Bxd5 28. e4 Be6 29. Bc4 Ke7 30. f4 Bxc4 31. Rxc4 Kd6 32. Kf2 Ra8 33. Rc2
+Ra3 34. Rd2+ Kc6 35. Rd8 Ra7 36. Ke3 g6 37. e5 Kb5 38. g4 Rc7 39. Kd3 c4+ 40.
+Kc3 Kc5 41. h4 Ra7 42. Kb2 Ra4 43. Rf8 c3+ 44. Kxc3 Rxf4 45. e6 Kd6 46. Rxf7
+Rxg4 47. e7 Kd7 48. h5 gxh5 49. Rf6 Kxe7 50. Rxh6 h4 51. Kd3 Kf7 52. Ke3 Kg7 53.
+Rh5 Kg6 54. Rh8 Kg7 55. Rh5 Kg6 56. Rh8 Kg7 57. Rh5 1/2-1/2
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.29"]
+[Round "9.5"]
+[White "Xiong, Jeffery"]
+[Black "Nakamura, Hikaru"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2690"]
+[BlackElo "2768"]
+[ECO "B10"]
+[Opening "Caro-Kann"]
+[Variation "anti-Caro-Kann defence"]
+[WhiteFideId "2047640"]
+[BlackFideId "2016192"]
+[EventDate "2022.08.29"]
+
+1. e4 c6 2. c4 e5 3. Nf3 Nf6 4. Nc3 Qc7 5. d4 Bb4 6. dxe5 Nxe4 7. Qd4 Nc5 8. Be3
+Ne6 9. Qh4 d6 10. exd6 Qxd6 11. Rd1 Qe7 12. Qg3 O-O 13. Bd3 f5 14. Qh4 Qxh4 15.
+Nxh4 Nc5 16. O-O Nxd3 17. Rxd3 Be6 18. b3 Nd7 19. Ne2 Ne5 20. Rdd1 Nxc4 21. bxc4
+Bxc4 22. Rd4 Bxe2 23. Rxb4 Bxf1 24. Kxf1 b6 25. Rd4 c5 26. Rd7 f4 27. Bc1 Rad8
+28. Rxd8 Rxd8 29. Bxf4 Rd1+ 30. Ke2 Ra1 31. Be5 Rxa2+ 32. Ke3 Ra3+ 33. Ke2 a5
+34. Nf5 g6 35. Nd6 Rb3 36. f4 a4 37. Kd2 b5 38. Kc2 c4 39. g4 a3 40. f5 gxf5 41.
+gxf5 a2 42. f6 c3 43. f7+ Kf8 44. Bf4 Rb2+ 45. Kxc3 Rxh2 46. Bxh2 a1=Q+ 0-1
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "10.1"]
+[White "Caruana, Fabiano"]
+[Black "Nakamura, Hikaru"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2768"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, Capablanca variation"]
+[WhiteFideId "2020009"]
+[BlackFideId "2016192"]
+[EventDate "2022.08.29"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. d3 d5 5. cxd5 Nxd5 6. g3 Nxc3 7. bxc3 Bc5 8.
+Bg2 O-O 9. O-O Bb6 10. Bg5 Qd6 11. Nd2 Qg6 12. Be3 Be6 13. a4 Bxe3 14. fxe3 Qh6
+15. e4 Na5 16. Rb1 b6 17. Nf3 f6 18. Nh4 Rad8 19. Qc2 Qe3+ 20. Kh1 Qc5 21. Nf5
+g6 22. Nh4 Qe7 23. Nf3 c5 24. Rf2 Kg7 25. c4 Nc6 26. Nd2 Nb4 27. Qb3 Bd7 28. Nf1
+f5 29. exf5 Rxf5 30. Rxf5 Bxf5 31. Qc3 Bd7 32. Ra1 Qd6 33. a5 Qd4 34. Qxd4 exd4
+35. axb6 axb6 36. Ra7 Kg8 37. Nd2 Bg4 38. Re7 Kf8 39. Re4 Bf5 40. Rf4 Kg7 41. g4
+Bd7 42. Ne4 h6 43. h4 Rf8 44. Rxf8 Kxf8 45. Nf6 Ba4 46. Kg1 Kf7 47. g5 hxg5 48.
+hxg5 Na2 49. Bd5+ Kg7 50. Kf2 Nc3 51. Bf3 Kf7 52. Ke1 Ke6 53. Kf2 Kf5 54. Nh7
+Nd1+ 55. Kg3 Nc3 56. Bg4+ Ke5 57. Nf8 Be8 58. Nh7 b5 59. cxb5 Bxb5 60. Nf6 c4
+61. dxc4 Bxc4 62. Kf2 Kf4 63. Bf3 Kxg5 64. Ne4+ Kf4 65. Nd2 Nd1+ 66. Ke1 Ne3 67.
+Bb7 Bd5 68. Bxd5 Nxd5 69. Kf2 Nc3 70. Nf3 Ne4+ 71. Ke1 d3 72. Nd4 d2+ 73. Kd1 g5
+74. Nf3 0-1
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "10.2"]
+[White "Xiong, Jeffery"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2690"]
+[BlackElo "2775"]
+[ECO "D27"]
+[Opening "QGA"]
+[Variation "classical, Rubinstein variation"]
+[WhiteFideId "2047640"]
+[BlackFideId "13300474"]
+[EventDate "2022.08.29"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. a4 Nc6 8. Qe2
+Qc7 9. Rd1 b6 10. Nc3 Bb7 11. d5 exd5 12. Bxd5 Bd6 13. e4 O-O 14. e5 Bxe5 15.
+Bxc6 Bxh2+ 16. Nxh2 Bxc6 17. Bg5 Rfe8 18. Qd3 Ne4 19. Nxe4 Rxe4 20. a5 bxa5 21.
+Bd8 Qb7 22. Bxa5 Qxb2 23. Bc3 Qb8 24. Rxa6 Rxa6 25. Qxa6 Re6 26. Qa5 Rd6 27.
+Rxd6 Qxd6 28. Nf1 h6 29. Ne3 Be4 30. Qa4 Bg6 31. Qb5 Kh7 32. Qc4 f6 33. Bb2 Qd2
+34. Qc1 Qxc1+ 35. Bxc1 Bd3 36. Bb2 h5 37. Kh2 Kg6 38. Kg3 Kg5 39. f4+ Kg6 40.
+Kh4 Be4 41. Ba3 c4 42. Bb2 Bd3 43. g3 Be2 44. f5+ Kh6 45. Bc3 Kh7 46. Nd5 Bg4
+47. Ne7 Kh6 48. Bb4 Kh7 49. Bd2 Kh8 50. Nd5 Bxf5 51. Kxh5 Kh7 52. Ne3 Be6 53.
+Bc3 g6+ 54. Kh4 Kg7 55. g4 Kf7 56. Kg3 g5 57. Kf3 Kg6 58. Ke4 Bxg4 59. Nxg4 f5+
+60. Kf3 fxg4+ 61. Kxg4 Kf7 62. Kxg5 Ke6 63. Kf4 Kd5 64. Kf5 Kc5 65. Ke5 Kb5 66.
+Kd4 Ka4 67. Kxc4 1/2-1/2
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "10.3"]
+[White "Nepomniachtchi, Ian"]
+[Black "Firouzja, Alireza"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2792"]
+[BlackElo "2778"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[WhiteFideId "4168119"]
+[BlackFideId "12573981"]
+[EventDate "2022.08.29"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 c5 6. O-O Nc6 7. dxc5 Qxd1 8.
+Rxd1 Bxc5 9. Nbd2 c3 10. bxc3 O-O 11. Nb3 Be7 12. c4 Bd7 13. Bb2 Rfd8 14. Nfd4
+Rac8 15. Rac1 Be8 16. h4 Nxd4 17. Rxd4 b6 18. Rxd8 Rxd8 19. Bd4 Ba4 20. e3 Rc8
+21. c5 Bxb3 22. axb3 bxc5 23. b4 Nd7 24. Bf1 Rc7 25. Bb5 Bd6 26. Bb2 Nb6 27. Rd1
+Be7 28. Be5 Rc8 29. Ba6 Re8 30. bxc5 Bxc5 31. Rc1 Bf8 32. Rc7 Re7 33. Rc6 Rd7
+34. Bd4 h6 35. h5 Bd6 36. Bb5 Rd8 37. Kg2 Bb8 38. Bxb6 axb6 39. Rxb6 Kf8 40. Rb7
+Be5 41. f4 Rb8 42. Rxb8+ Bxb8 43. Kf3 Ke7 44. Ba4 Ba7 45. Bb5 Bb6 46. Ba4 Ba7
+47. Bb5 Bb6 48. Ba4 Ba7 1/2-1/2
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "10.4"]
+[White "Dominguez Perez, Leinier"]
+[Black "Shankland, Sam"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2754"]
+[BlackElo "2720"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "3503240"]
+[BlackFideId "2004887"]
+[EventDate "2022.08.29"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6. c3 a6 7. a4 h6 8. Re1 Ba7
+9. Nbd2 Be6 10. Bxe6 fxe6 11. b4 O-O 12. Nf1 Ne7 13. h3 Ng6 14. Ra2 Qe7 15. Be3
+Bxe3 16. Rxe3 a5 17. b5 Nd7 18. g3 Rf7 19. N1d2 Raf8 20. Nc4 b6 21. d4 exd4 22.
+cxd4 e5 23. dxe5 Ngxe5 24. Nfxe5 Nxe5 25. Nxe5 Qxe5 26. Rc2 g5 27. Qg4 Kh7 28.
+Kg2 Qa1 29. e5 dxe5 30. Qe4+ Kg7 31. Qxe5+ Qxe5 32. Rxe5 Rd8 33. Re4 Rd6 34.
+Rec4 Rdf6 35. h4 Kg6 36. hxg5 hxg5 37. Rc6 Rxc6 38. Rxc6+ Kf5 39. f3 g4 40.
+fxg4+ Kxg4 41. Rc4+ Kg5 42. g4 Kh4 43. Kh2 Rd7 44. Kg2 Rf7 45. Kh2 Rd7 46. Kg2
+Rf7 1/2-1/2
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "10.5"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2757"]
+[BlackElo "2758"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 8...Be6"]
+[WhiteFideId "623539"]
+[BlackFideId "13401319"]
+[EventDate "2022.08.29"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Be3 Be7 10. c3 Na5 11. Nd4 O-O 12. f3 Nc5 13. f4 Ncxb3 14. axb3 c5 15.
+Nxe6 fxe6 16. g3 d4 17. cxd4 cxd4 18. Bf2 Bb4 19. Qf3 Rc8 20. Rd1 Qd5 21. Qxd5
+exd5 22. Rxa5 Bxa5 23. Bxd4 Rc2 24. Nc3 Rxb2 25. Nxd5 Rd2 26. Rxd2 Bxd2 27. e6
+Rd8 28. e7 Re8 29. Bc5 Kf7 30. Nc7 Rc8 31. e8=Q+ Rxe8 32. Nxe8 Kxe8 33. Kf2 a5
+34. Ke2 Bc3 35. Kd3 Bf6 36. Bb6 a4 37. bxa4 bxa4 38. Kc4 Kd7 39. Kb4 Kc6 40. Ba7
+Kd5 41. Kxa4 Ke4 42. Kb5 Kf3 43. Bb8 h5 44. Kc4 Kg2 45. Kd5 Kxh2 46. f5 Kh3 47.
+Ke6 Kg4 48. Bc7 Bc3 49. Bb8 Bb2 50. Bc7 Bd4 51. Bb8 Bc3 52. Bc7 Bb2 53. Bb8 Bc3
+54. Bc7 Bb2 55. Bb8 Bc3 56. Bc7 Bb2 1/2-1/2
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "11.1"]
+[White "Firouzja, Alireza"]
+[Black "Xiong, Jeffery"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2778"]
+[BlackElo "2690"]
+[ECO "A36"]
+[Opening "English"]
+[Variation "ultra-symmetrical variation"]
+[WhiteFideId "12573981"]
+[BlackFideId "2047640"]
+[EventDate "2022.08.29"]
+
+1. c4 c5 2. g3 g6 3. Bg2 Bg7 4. Nc3 Nc6 5. d3 e6 6. h4 h6 7. Nh3 Nf6 8. Nf4 d6
+9. Qd2 Bd7 10. b3 Qe7 11. Bb2 a6 12. e3 Rb8 13. d4 cxd4 14. exd4 b5 15. O-O bxc4
+16. d5 Ne5 17. Ba3 cxb3 18. axb3 Rxb3 19. dxe6 fxe6 20. Bxd6 Nc4 21. Qd1 Qxd6
+22. Qxb3 Nd2 23. Rad1 g5 24. Nxe6 Bxe6 25. Rxd2 Bxb3 26. Rxd6 gxh4 27. gxh4 Kf7
+28. Rxa6 Rc8 29. Ne4 Nxe4 30. Bxe4 Bd4 31. Rxh6 Rg8+ 32. Kh1 Rg4 33. Bg2 Kg7 34.
+Rh5 Kg6 35. Rg5+ Rxg5 36. hxg5 Kxg5 37. Kg1 Kf4 38. Rb1 Be6 39. Rb4 Ke5 40. Rb5+
+Kd6 41. Be4 Bc4 42. Rh5 Bf7 43. Rf5 Be6 44. Rg5 Bf7 45. Kg2 Ke7 46. f4 Bb3 47.
+Rb5 Bf7 48. Kg3 Kf6 49. Ra5 Bc3 50. Ra6+ Ke7 51. Kg4 Be6+ 52. Bf5 Bd5 53. Bd3
+Be6+ 54. Kf3 Bd5+ 55. Be4 Bf7 56. Rc6 Bd4 57. Rh6 Bc3 58. Rh1 Kf6 59. Rc1 Bd4
+60. Kg4 Be6+ 61. f5 Bf7 62. Rc6+ Ke5 63. Bd3 Bd5 64. Ra6 Be3 65. Kh5 Bf7+ 66.
+Kg4 Bb3 67. Ra5+ Kf6 68. Rb5 Bd1+ 69. Kg3 Ba4 70. Ra5 Bb3 71. Be4 Bc4 72. Ra4
+Bb5 73. Rb4 Bd7 74. Kg4 Bc5 75. Rb7 Ba4 76. Rc7 Bd1+ 77. Kh3 Bd6 78. Rd7 Ke5 79.
+Bd3 Ba4 80. Ra7 Bb3 81. Ra6 Be7 82. Kg4 Bd1+ 83. Kg3 Bb3 84. Rb6 Bd5 85. Kg4 Kd4
+86. Bc2 Bc5 87. Rb5 Be7 88. Bb3 Be4 89. Rb6 Bd3 90. f6 Bc5 91. f7 Ke5 92. Rb8
+Be2+ 93. Kg3 1-0
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "11.2"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2757"]
+[BlackElo "2776"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, close variation"]
+[WhiteFideId "623539"]
+[BlackFideId "2020009"]
+[EventDate "2022.08.29"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d3 Nf6 6. d4 d5 7. Bd3 Bd6 8. Qe2+
+Be6 9. Ng5 Qe7 10. Nxe6 fxe6 11. c3 O-O 12. O-O c5 13. Nd2 Nc6 14. Nf3 Rae8 15.
+Bd2 Qc7 16. g3 e5 17. dxe5 Nxe5 18. Nxe5 Rxe5 19. Qd1 Qd7 20. Bf4 Re7 21. Bxd6
+Qxd6 22. Qd2 g6 23. Rad1 Kg7 24. Bc2 Rfe8 25. Rfe1 Re5 26. Kg2 b6 27. h3 Qc6 28.
+Rxe5 Rxe5 29. Re1 d4+ 30. Kg1 Qe6 31. Rxe5 Qxe5 32. cxd4 cxd4 33. a3 Nd7 34. b4
+Qd5 35. Qe2 Ne5 36. Qe4 Qxe4 37. Bxe4 Nc4 38. Bd3 Nb2 0-1
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "11.3"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Dominguez Perez, Leinier"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2758"]
+[BlackElo "2754"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "3.e4"]
+[WhiteFideId "13401319"]
+[BlackFideId "3503240"]
+[EventDate "2022.08.29"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 Bb4+ 5. Bd2 Bxd2+ 6. Nbxd2 exd4 7. Bxc4 Nc6
+8. O-O Nge7 9. Ng5 Ne5 10. Bb3 N7c6 11. Qh5 Bg4 12. Bxf7+ Ke7 13. Qh4 h6 14.
+Ne6+ g5 15. Nxd8 gxh4 16. Nxc6+ Nxc6 17. f3 Bd7 18. Bb3 Na5 19. Rac1 Rac8 20.
+Rc5 b6 21. Re5+ Kf6 22. Rd5 Be6 23. Rxd4 Nxb3 24. Nxb3 c5 25. Rd2 Rhd8 26. Rfd1
+Rxd2 27. Rxd2 a5 28. Kf2 a4 29. Nc1 b5 30. a3 b4 31. Ke3 bxa3 32. bxa3 Rb8 33.
+Rc2 c4 34. Ne2 Rb3+ 35. Rc3 Rb2 36. h3 Bf7 37. f4 Bh5 38. g4 hxg3 39. Nxg3 Bf7
+40. e5+ Ke6 41. Ke4 Rb3 42. f5+ Ke7 43. Kd4 1-0
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "11.4"]
+[White "Aronian, Levon"]
+[Black "Nakamura, Hikaru"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2768"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "13300474"]
+[BlackFideId "2016192"]
+[EventDate "2022.08.29"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. Nc3 Bd7 10. b3 h6 11. Bb2 Kc8 12. Rad1 b6 13. Rd3 c5 14. Rfd1 Be6
+15. Rd8+ Kb7 16. Rxa8 Kxa8 17. Nd5 Kb7 18. Nf4 Bc8 19. Rd8 Ne7 20. e6 Bxe6 21.
+Nxe6 fxe6 22. Re8 Ng6 23. Rxe6 Ne7 24. Bxg7 Bxg7 25. Rxe7 Bc3 26. Kf1 a5 27. g4
+a4 28. bxa4 Rf8 29. Re3 Ba1 30. Nd2 Bd4 31. Rf3 Ra8 32. Rf4 Rxa4 33. c3 Rxa2 34.
+cxd4 Rxd2 35. dxc5 b5 36. h4 Rd5 37. Re4 Rxc5 38. f4 Rc1+ 39. Kf2 Rc2+ 40. Ke3
+c5 41. f5 Rc1 42. f6 Re1+ 43. Kf4 Rf1+ 44. Ke5 b4 45. Rf4 Rxf4 46. Kxf4 b3 47.
+f7 b2 48. f8=Q b1=Q 49. Qxc5 Qf1+ 50. Ke5 Qe1+ 51. Kf5 Qxh4 52. Qe3 Ka6 53. Qe6+
+Ka5 54. Qe5+ Ka4 55. Qf4+ Kb5 56. Kg6 Qh3 57. Qf5+ Kc6 58. Qh5 Qc3 59. Qxh6 Qd3+
+60. Kf7+ Kb7 61. Qf6 Qh7+ 62. Kf8 Qc2 63. g5 Qc8+ 64. Kg7 Qg4 65. g6 Ka7 66.
+Qe7+ Ka6 67. Kf7 Qh5 68. Qf6+ Ka7 69. Kf8 Ka8 70. g7 Qc5+ 71. Kf7 Qd5+ 72. Qe6
+Qh5+ 73. Kf8 Qc5+ 74. Ke8 Qb5+ 75. Kf7 Qh5+ 76. Kg8 Qh2 77. Qd5+ Ka7 78. Kf7
+Qf2+ 79. Kg6 Qc2+ 80. Qf5 Qg2+ 81. Kf6 Qb2+ 82. Qe5 Qf2+ 83. Ke7 Qg2 84. Qc5+
+Kb7 85. Qb4+ Ka7 86. Qa3+ Kb6 87. Qb3+ Kc7 88. g8=Q Qe4+ 89. Kf8 1-0
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "11.5"]
+[White "Shankland, Sam"]
+[Black "Nepomniachtchi, Ian"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2720"]
+[BlackElo "2792"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[WhiteFideId "2004887"]
+[BlackFideId "4168119"]
+[EventDate "2022.08.29"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 c5 6. O-O Nc6 7. Qa4 Bd7 8. Qxc4
+b5 9. Qc3 b4 10. Qd3 cxd4 11. Nxd4 Rc8 12. Nxc6 Bxc6 13. Qxd8+ Kxd8 14. Rd1+ Kc7
+15. Bxc6 Kxc6 16. Be3 Bc5 17. Bxc5 Kxc5 18. a3 Rhd8 19. Nd2 Kb5 20. Nf3 b3 21.
+Kf1 Rxd1+ 22. Rxd1 Rc2 23. Rb1 Ka4 24. Ke1 Ne4 25. Nd4 Rc4 26. Rd1 e5 27. Nf5
+Rc2 28. f3 Nc5 29. Rb1 Ne6 30. Ne3 Nd4 31. Nxc2 bxc2 32. Rc1 Kb3 0-1
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "12.1"]
+[White "Nepomniachtchi, Ian"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2792"]
+[BlackElo "2758"]
+[ECO "D06"]
+[Opening "QGD"]
+[Variation "symmetrical (Austrian) defence"]
+[WhiteFideId "4168119"]
+[BlackFideId "13401319"]
+[EventDate "2022.08.29"]
+
+1. d4 d5 2. c4 c5 3. cxd5 Qxd5 4. Nf3 cxd4 5. Nc3 Qa5 6. Nxd4 Nf6 7. a3 g6 8. g3
+Bg7 9. Bg2 O-O 10. Nb3 Qh5 11. h3 Nc6 12. Bf4 Rd8 13. Qc1 Na5 14. Nxa5 Qxa5 15.
+b4 Qa6 16. O-O Be6 17. Be5 Rac8 18. Qb2 Ne8 19. Bxg7 Nxg7 20. Rac1 Nf5 21. Ne4
+b6 22. e3 Nd6 23. Nxd6 Rxd6 24. h4 h5 25. Rxc8+ Qxc8 26. Rc1 Qd8 27. Qc2 a5 28.
+Bf3 Rd3 29. bxa5 bxa5 30. Qc5 a4 31. Qb4 Qd6 32. Qxa4 Qxa3 33. Qe8+ Kg7 34. Rb1
+Rb3 35. Rd1 Rd3 36. Rxd3 Qxd3 37. Qxe7 Qb1+ 38. Kg2 Bc4 39. Qe5+ Kh7 40. Kh2 Qc2
+41. Kg2 Qb1 42. Kh2 Qc2 43. Kg2 Qb1 1/2-1/2
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "12.2"]
+[White "Xiong, Jeffery"]
+[Black "Shankland, Sam"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2690"]
+[BlackElo "2720"]
+[ECO "B50"]
+[Opening "Sicilian"]
+[WhiteFideId "2047640"]
+[BlackFideId "2004887"]
+[EventDate "2022.08.29"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 Nf6 4. d4 cxd4 5. Qxd4 Nc6 6. Qd3 Bd7 7. Nd5 e6 8.
+Nxf6+ Qxf6 9. c3 Qg6 10. Bf4 e5 11. Bg3 Be7 12. Rd1 O-O 13. Be2 f5 14. exf5 Bxf5
+15. Qb5 Be4 16. Nd2 Bxg2 17. Rg1 Bh3 18. Qxb7 Rfc8 19. Nf3 Rab8 20. Qa6 Qf7 21.
+Rd2 Kh8 22. Bh4 Bxh4 23. Nxh4 Qf4 24. Nf3 Bg4 25. Rg3 e4 26. Ng5 Bxe2 27. Qxe2
+Rxb2 28. Rxb2 Qc1+ 29. Qd1 Qxb2 30. Nf7+ Kg8 31. Nh6+ Kh8 32. Nf7+ Kg8 33. Nh6+
+Kh8 34. Nf7+ Kg8 1/2-1/2
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "12.3"]
+[White "Nakamura, Hikaru"]
+[Black "Firouzja, Alireza"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2768"]
+[BlackElo "2778"]
+[ECO "A13"]
+[Opening "English"]
+[Variation "Wimpey system"]
+[WhiteFideId "2016192"]
+[BlackFideId "12573981"]
+[EventDate "2022.08.29"]
+
+1. Nf3 d5 2. e3 Nf6 3. c4 e6 4. b3 c5 5. Bb2 Nc6 6. cxd5 exd5 7. Bb5 Bd6 8. O-O
+O-O 9. d4 cxd4 10. Nxd4 Bc7 11. Nd2 Nxd4 12. Bxd4 Qd6 13. g3 Ba5 14. a3 Bh3 15.
+Re1 Bxd2 16. Qxd2 Ne4 17. Qe2 Rac8 18. Bd3 Bf5 19. b4 Qg6 20. Red1 Ng5 21. f4
+Bxd3 22. Qxd3 Nf3+ 23. Kg2 Rc2+ 24. Qxc2 Qxc2+ 25. Kxf3 Rc8 26. Re1 Qxh2 27.
+Rac1 Rc2 28. Rxc2 Qxc2 29. Bxa7 f6 30. Bd4 Kf7 31. Re2 Qe4+ 32. Kf2 b5 33. Rd2
+g5 34. fxg5 fxg5 35. Kg1 Kg6 36. Bc5 Qf3 37. Kh2 Qe4 38. Bd4 h5 39. Rf2 h4 40.
+gxh4 Qxh4+ 41. Kg2 Qe4+ 42. Kg1 Qb1+ 43. Kh2 Qd3 44. Kg3 Qe4 45. Kh2 Kh5 46. Kg3
+Qg4+ 47. Kh2 Qd1 48. Rg2 Kg6 49. Bc5 Qh5+ 50. Kg1 Qd1+ 51. Kh2 Qh5+ 52. Kg1 Qf3
+53. Bd4 Qd1+ 54. Kh2 Qd3 55. Bc5 Qxa3 56. Rd2 Qb3 57. Kg3 Qc4 58. Rd4 Qf1 59.
+Rd2 Qe1+ 60. Rf2 Kh5 61. Kg2 Kg4 62. Ra2 Qg3+ 63. Kh1 Kh3 0-1
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "12.4"]
+[White "Dominguez Perez, Leinier"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2754"]
+[BlackElo "2757"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[WhiteFideId "3503240"]
+[BlackFideId "623539"]
+[EventDate "2022.08.29"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Ne7 6. O-O h6 7. Nbd2 Nd7 8. Nb3 g5
+9. a4 Bg7 10. a5 Qc7 11. Bd2 Ng6 12. Ne1 c5 13. g4 Be4 14. f3 cxd4 15. fxe4 dxe4
+16. Nxd4 Bxe5 17. Nb5 Qc5+ 18. Kh1 a6 19. Nc3 Qc6 20. Ng2 Rd8 21. Qe1 O-O 22.
+Qf2 f5 23. gxf5 exf5 24. Ra4 Nc5 25. Rc4 Rxd2 26. Rxc5 Qd6 27. b4 Kh7 28. Qe1
+Bxc3 29. Rxc3 f4 30. Bd3 e3 31. Rc4 f3 32. Rg1 0-1
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "12.5"]
+[White "Caruana, Fabiano"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2775"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "2020009"]
+[BlackFideId "13300474"]
+[EventDate "2022.08.29"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5 8.
+Rxe5 O-O 9. Nc3 Ne8 10. Nd5 Bd6 11. Re1 c6 12. Ne3 Be7 13. Nf5 Bf6 14. Qe2 Nc7
+15. Nd6 Ne6 16. c3 Qc7 17. Nxc8 Raxc8 18. d4 d5 19. Qg4 Rce8 20. Bd2 g6 21. a4
+a5 22. Bd3 h5 23. Qg3 Qxg3 24. hxg3 b6 25. Rab1 Kg7 26. b4 axb4 27. Rxb4 Bd8 28.
+Be3 Bc7 29. Rc1 Ra8 30. Bc2 Ra5 31. c4 c5 32. dxc5 bxc5 33. Rbb1 dxc4 34. Bd1
+Rd8 35. Rxc4 Be5 36. Bf3 Bd4 37. Bc1 Rd6 38. Kf1 Raa6 39. Rb3 Bf6 40. Rb7 Nd4
+41. Bd1 Nc6 42. Be2 Na5 43. Rc7 Bd8 44. Rc8 Nxc4 45. Bxc4 Rac6 46. Rxc6 Rxc6 47.
+Bd2 Rd6 48. Ke2 Kg8 49. a5 Rd4 50. Bb5 c4 51. a6 Bb6 52. Be3 Re4 53. Kf3 Rxe3+
+54. fxe3 c3 55. Ke2 c2 56. Kd2 Bxe3+ 57. Kxc2 Kf8 58. Kd3 Bf2 59. Ke4 Ke7 60.
+Kd5 Kd8 61. Kc6 Kc8 62. Bc4 Kb8 63. Bxf7 Bxg3 64. Bxg6 h4 65. Bf5 Ka7 66. Kb5
+Bh2 67. Kc6 Bg3 68. Kb5 Bh2 69. Kc6 Bg3 1/2-1/2
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "13.1"]
+[White "Shankland, Sam"]
+[Black "Nakamura, Hikaru"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2720"]
+[BlackElo "2768"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[WhiteFideId "2004887"]
+[BlackFideId "2016192"]
+[EventDate "2022.08.29"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 a6 4. Be3 d6 5. Qd2 b5 6. f3 Nd7 7. h4 Ngf6 8. O-O-O
+Nb6 9. Bh6 Bf8 10. Bxf8 Rxf8 11. Nh3 Bxh3 12. Rxh3 h5 13. Bd3 e6 14. e5 Nfd7 15.
+f4 d5 16. Ne2 Qe7 17. Kb1 c5 18. dxc5 Qxc5 19. c3 O-O-O 20. Nd4 Kb7 21. b3 Rc8
+22. Rc1 Rc7 23. Rhh1 Rfc8 24. Rc2 Qe7 25. g3 Nc5 26. Rhc1 Ka8 27. Ka1 Rb7 28.
+Qe3 Qd8 29. Bf1 Rbc7 30. Bg2 Ncd7 31. Qe2 Ka7 32. Qe3 Kb8 33. Kb2 Qe7 34. Bf1
+Nc5 35. Ka1 Ncd7 36. Kb2 Qc5 37. Kb1 Rb7 38. Qd2 Ka8 39. Ka1 Nb8 40. Bd3 Nc6 41.
+Nf3 Qa3 42. Rg1 Na5 43. Nd4 Nc6 44. Nf3 Rbc7 45. Kb1 Nd7 46. Qc1 Qa5 47. Qe3
+Ncb8 48. Rgc1 Rxc3 49. Qd2 b4 50. Nd4 R8c7 51. a4 Qc5 52. Ne2 Rxb3+ 53. Ka2 Ra3+
+54. Kb1 Qa5 55. Rxc7 Qxa4 56. Qb2 Rb3 57. Nd4 Rxb2+ 58. Kxb2 Qa3+ 59. Kc2 Nb6
+60. Nb3 Qa2+ 0-1
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "13.2"]
+[White "Firouzja, Alireza"]
+[Black "Aronian, Levon"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2778"]
+[BlackElo "2775"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, Marini variation"]
+[WhiteFideId "12573981"]
+[BlackFideId "13300474"]
+[EventDate "2022.08.29"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. a3 d5 5. cxd5 Nxd5 6. Qc2 Nxc3 7. bxc3 Bd6 8.
+g3 O-O 9. Bg2 Re8 10. d3 Bf5 11. O-O e4 12. Nh4 exd3 13. exd3 Bd7 14. Rb1 b6 15.
+Nf3 Rc8 16. Nd2 Bf5 17. Bxc6 Bxg3 18. hxg3 Bxd3 19. Qb3 Re6 20. Bd5 Rf6 21. Ne4
+Rf5 22. Bxf7+ Rxf7 23. Ng5 Qf6 24. Nxf7 Qxf7 25. Qxf7+ Kxf7 26. Be3 Ke6 27. Rbd1
+Bxf1 28. Kxf1 c5 29. c4 h5 30. Ke2 Rh8 31. Bg5 a6 32. a4 Rb8 33. Bf4 Rb7 34.
+Rd6+ Ke7 35. Rd5 g6 36. a5 bxa5 37. Rxc5 Rb2+ 38. Bd2 1-0
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "13.3"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2757"]
+[BlackElo "2792"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Marshall variation"]
+[WhiteFideId "623539"]
+[BlackFideId "4168119"]
+[EventDate "2022.08.29"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O 8. c4
+c6 9. Nc3 Nxc3 10. bxc3 dxc4 11. Bxc4 Bf5 12. Ng5 h6 13. Qf3 Bg6 14. Ne4 Bxh2+
+15. Kxh2 Qh4+ 16. Qh3 Qxh3+ 17. gxh3 Bxe4 18. Rg1 Re8 19. Bxh6 g6 20. Rge1 Nd7
+21. Bf1 Bd5 22. c4 Rxe1 23. Rxe1 Be6 24. Rb1 b6 25. Re1 Rc8 26. a4 Nf6 27. Bg5
+Ne8 28. Rc1 Nd6 29. h4 Rc7 30. Bf4 Rd7 31. d5 cxd5 32. cxd5 Bf5 33. Be5 Kf8 34.
+f3 Ke7 35. Re1 f6 36. Bc3+ Kf7 37. Bb4 Kg7 38. Ba6 Bc2 39. Bxd6 Rxd6 40. Re7+
+Kf8 41. Rxa7 Bxa4 42. Bc4 Be8 43. Rb7 g5 44. hxg5 fxg5 45. Kg3 Bd7 46. f4 g4 47.
+Be2 Rxd5 48. Rxb6 Ra5 49. Bxg4 Bxg4 50. Kxg4 Kf7 51. Rb7+ Kf6 52. Rb6+ Kf7 53.
+Rb7+ Kf6 54. Rb6+ Kf7 55. Rb7+ 1/2-1/2
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "13.4"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Xiong, Jeffery"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2758"]
+[BlackElo "2690"]
+[ECO "D30"]
+[Opening "Queen's gambit declined"]
+[WhiteFideId "13401319"]
+[BlackFideId "2047640"]
+[EventDate "2022.08.29"]
+
+1. d4 d5 2. c4 e6 3. Nf3 dxc4 4. Qa4+ Bd7 5. Qxc4 Bc6 6. Nc3 Bxf3 7. gxf3 c6 8.
+e4 Nd7 9. Be3 Ngf6 10. O-O-O Be7 11. Kb1 O-O 12. h4 Qa5 13. Qb3 Nb6 14. h5 Rfd8
+15. Rg1 Qxh5 16. Be2 Qa5 17. a3 c5 18. f4 Rac8 19. f5 exf5 20. dxc5 Rxd1+ 21.
+Rxd1 Bxc5 22. Bd2 Nbd7 23. e5 Nxe5 24. Nd5 Qd8 25. Bg5 Bd6 26. Nxf6+ gxf6 27.
+Qg3 fxg5 0-1
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "13.5"]
+[White "Dominguez Perez, Leinier"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2754"]
+[BlackElo "2776"]
+[ECO "C72"]
+[Opening "Ruy Lopez"]
+[Variation "modern Steinitz defence, 5.O-O"]
+[WhiteFideId "3503240"]
+[BlackFideId "2020009"]
+[EventDate "2022.08.29"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bd7 6. c3 g6 7. d4 Bg7 8. Re1 Nf6
+9. Nbd2 O-O 10. Bc2 Re8 11. h3 b5 12. Nf1 Na5 13. Ng3 c5 14. d5 Nc4 15. b3 Nb6
+16. Bg5 h6 17. Be3 a5 18. Qd2 Kh7 19. Nh2 a4 20. f4 exf4 21. Bxf4 Qc7 22. Rac1
+axb3 23. axb3 Ra2 24. Nf3 Bc8 25. Re2 Nbd7 26. Rf1 Ne5 27. Nxe5 dxe5 28. Be3 Rf8
+29. Bd3 Rxd2 0-1
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "14.1"]
+[White "Xiong, Jeffery"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2690"]
+[BlackElo "2757"]
+[ECO "A35"]
+[Opening "English"]
+[Variation "symmetrical, four knights system"]
+[WhiteFideId "2047640"]
+[BlackFideId "623539"]
+[EventDate "2022.08.29"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 Nc6 4. e4 e5 5. d3 d6 6. a3 Be7 7. Rb1 O-O 8. b4 b6
+9. g3 Nd4 10. Bg2 Be6 11. O-O Bg4 12. Be3 Qd7 13. bxc5 bxc5 14. Bxd4 cxd4 15.
+Na2 Rfb8 16. Qc2 Rb6 17. Rb4 Qc8 18. Rfb1 Nd7 19. Nd2 Bd8 20. Rxb6 axb6 21. Nb4
+Rxa3 22. Nd5 Be6 23. Nb3 Nc5 24. Nxc5 Qxc5 25. Rb5 Ra1+ 26. Rb1 Qa5 27. Bf1 Ra2
+28. Rb2 Rxb2 29. Qxb2 Qe1 30. Qb4 Qxb4 31. Nxb4 Bd7 32. Nd5 Kf8 33. f4 b5 34.
+cxb5 Bxb5 35. Be2 Ba5 36. Kf2 Ke8 37. h4 Kd8 38. Bf1 Bd7 39. Be2 Bd2 40. Bh5 f6
+41. Ke2 Ba5 42. f5 Bc6 43. Bf7 h6 44. Kf3 Ba4 45. Ke2 Bc6 46. Kf3 Be1 47. Nb6
+Kc7 48. Nc4 Ba4 49. Nb2 Bc2 50. Ke2 Bc3 51. Nc4 Ba4 52. Bd5 Be8 53. g4 h5 54. g5
+Kd7 55. Nb6+ Kc7 56. Nc4 Bb4 57. g6 Ba4 58. Nb2 Bb5 59. Nd1 Ba4 60. Nf2 Kd8 61.
+Nh1 Ke7 62. Ng3 Ba3 63. Nxh5 Kf8 64. Ng3 Bc1 65. Nh1 Be3 66. Nf2 Bb5 67. Ng4 Bf4
+68. Bc4 Bc6 69. Bd5 Bb5 70. Bc4 Bc6 71. Bb3 Bb5 72. h5 Bg5 73. Bc4 Bc6 74. Kd1
+Ba4+ 75. Ke2 Bc6 76. Nf2 Ba4 77. Bd5 Bh6 78. Bc4 Bg5 79. Ng4 Bc6 1/2-1/2
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "14.2"]
+[White "Nepomniachtchi, Ian"]
+[Black "Dominguez Perez, Leinier"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2792"]
+[BlackElo "2754"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "3.e4"]
+[WhiteFideId "4168119"]
+[BlackFideId "3503240"]
+[EventDate "2022.08.29"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 Bb4+ 5. Nc3 Nf6 6. Nxe5 b5 7. Be2 Nxe4 8.
+O-O Bxc3 9. bxc3 Nxc3 10. Qc2 Nxe2+ 11. Qxe2 O-O 12. Ba3 Nd7 13. Bxf8 Qxf8 14.
+a4 Nxe5 15. Qxe5 b4 16. d5 Bb7 17. a5 Qc5 18. Rfd1 Rd8 19. h4 c3 20. Rd3 Rxd5
+21. Rxd5 Bxd5 22. Re1 h6 23. Qf5 Qc6 24. Qc8+ Kh7 25. Re8 c2 26. Rh8+ Kg6 27.
+Qg4+ Kf6 28. Qf4+ Ke6 29. Qg4+ Ke7 30. Qxb4+ Kd7 31. Qg4+ Be6 32. Qd4+ Bd5 33.
+Qg4+ Ke7 34. Qb4+ Ke6 35. Qg4+ Ke7 36. Qb4+ Qd6 37. Qe1+ Qe6 38. Qb4+ Qd6 39.
+Qe1+ Be6 40. Qe3 Qd1+ 41. Kh2 c1=Q 42. Qe5 Qd6 0-1
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "14.3"]
+[White "Nakamura, Hikaru"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2768"]
+[BlackElo "2758"]
+[ECO "A05"]
+[Opening "Reti opening"]
+[WhiteFideId "2016192"]
+[BlackFideId "13401319"]
+[EventDate "2022.08.29"]
+
+1. Nf3 Nf6 2. e3 g6 3. d4 Bg7 4. c4 O-O 5. Be2 d6 6. O-O Bf5 7. b3 e5 8. Bb2 Nc6
+9. Nbd2 exd4 10. Nxd4 Nxd4 11. Bxd4 c6 12. Qc1 Nd7 13. Nf3 Ne5 14. Rd1 Qe7 15.
+Ne1 Rfd8 16. Qb2 d5 17. c5 Re8 18. b4 a6 19. a4 Qf8 20. Rac1 Nd7 21. Nf3 Bg4 22.
+Bxg7 Qxg7 23. Nd4 Bxe2 24. Qxe2 h5 25. b5 axb5 26. axb5 Ne5 27. h3 Qf6 28. Ra1
+Nc4 29. bxc6 bxc6 30. Qc2 Rxa1 31. Rxa1 Qe7 32. Nxc6 Qxc5 33. Nd4 Rb8 34. Nf3
+Qd6 35. Qc3 Qb4 36. Qd3 Qb2 37. Qd1 Nd6 38. Ne1 Ne4 39. Nd3 Qf6 40. Rc1 d4 41.
+Rc4 Nc3 42. Qc2 Re8 43. h4 Qa6 44. Rxd4 Qa1+ 45. Kh2 Ne2 46. Qxe2 Qxd4 47. g3
+Qe4 48. Nf4 Rb8 49. Qd3 Qf3 50. Qc2 Rd8 51. Nh3 Rd1 52. Ng1 Qd5 53. e4 Qd2 54.
+Qxd2 Rxd2 55. Kg2 Kg7 56. Kf3 Kf6 57. Ke3 Ra2 58. Nf3 Ra3+ 59. Ke2 Ke7 60. Ne5
+Ke6 61. Nd3 Kd6 62. Ke3 f6 63. Ke2 Ra2+ 64. Ke3 Ra3 65. Ke2 Ke6 66. Nf4+ Kf7 67.
+f3 Ra2+ 68. Ke3 Ra3+ 69. Ke2 Ra2+ 70. Ke3 Rb2 71. Nd3 Rg2 72. Kf4 Rd2 73. Nb4
+Rb2 74. Nd3 Rb3 75. Nc1 Ra3 76. Ne2 Ra5 77. Nd4 g5+ 78. Ke3 Ra3+ 79. Kf2 g4 80.
+fxg4 hxg4 81. Nf5 Rf3+ 82. Kg2 Kg6 83. Ne7+ Kh5 84. Nd5 Kg6 85. Ne7+ Kh6 86. Nd5
+Kg7 87. Ne7 Ra3 88. Nf5+ Kg6 89. Kf2 Rb3 90. Ne7+ Kf7 91. Nf5 Rf3+ 92. Kg2 Kg6
+93. Ne7+ 1/2-1/2
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "14.4"]
+[White "Caruana, Fabiano"]
+[Black "Firouzja, Alireza"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2778"]
+[ECO "A13"]
+[Opening "English opening"]
+[Variation "Agincourt variation"]
+[WhiteFideId "2020009"]
+[BlackFideId "12573981"]
+[EventDate "2022.08.29"]
+
+1. c4 e6 2. Nf3 d5 3. g3 dxc4 4. Qa4+ Nd7 5. Qxc4 a6 6. Qc2 b5 7. Bg2 Bb7 8. O-O
+Ngf6 9. d3 c5 10. Nc3 Be7 11. a4 Qb6 12. b3 O-O 13. Bb2 Rac8 14. e4 Rfd8 15. Qe2
+c4 16. bxc4 bxc4 17. dxc4 Nxe4 18. a5 Nxc3 19. Bxc3 Qb3 20. Rfc1 Qxc4 21. Qxc4
+Rxc4 22. Ne5 Rc7 23. Bxb7 Rxb7 24. Nc6 Re8 25. Nxe7+ Rxe7 26. Bd4 h6 27. Rc8+
+Kh7 28. Rac1 e5 29. Be3 Re6 30. Kg2 Nf6 31. R1c6 Rb5 32. R6c7 Kg6 33. Rf8 Nd5
+34. Rcxf7 Nxe3+ 35. fxe3 Rxa5 36. Ra7 Ra2+ 37. Kf3 Rf6+ 38. Rxf6+ gxf6 39. g4
+Ra4 40. h3 h5 41. Ra8 hxg4+ 42. hxg4 a5 43. Ra7 Ra1 44. Ra8 a4 45. Rg8+ Kf7 46.
+Ra8 a3 47. Kf2 a2 48. Kg2 Ke6 49. Ra6+ Kd5 50. Ra4 Kc5 51. Ra8 Kc4 52. Ra7 Kd3
+53. Ra3+ Ke4 54. Kh2 Kf3 55. Ra6 Kxe3 0-1
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "14.5"]
+[White "Aronian, Levon"]
+[Black "Shankland, Sam"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2720"]
+[ECO "D34"]
+[Opening "QGD"]
+[Variation "Tarrasch, Prague variation, Normal position"]
+[WhiteFideId "13300474"]
+[BlackFideId "2004887"]
+[EventDate "2022.08.29"]
+
+1. c4 e6 2. g3 d5 3. Bg2 Nf6 4. Nf3 Be7 5. O-O O-O 6. d3 c5 7. cxd5 exd5 8. d4
+Nc6 9. Nc3 Be6 10. dxc5 Bxc5 11. Na4 Be7 12. Be3 Re8 13. Nc5 Bc8 14. Rc1 h6 15.
+Nd3 Bg4 16. h3 Bf5 17. Nd4 Be4 18. Bxe4 Nxe4 19. Qa4 Bf6 20. Nxc6 bxc6 21. Bd4
+Bxd4 22. Qxd4 Nd2 23. Rfd1 Rxe2 24. Qf4 g5 25. Qg4 Qe7 26. Rxc6 Qe4 27. Rxh6
+Nf3+ 28. Kh1 Kg7 29. Rh5 f5 30. Qxe4 dxe4 31. Kg2 Rd8 32. g4 f4 33. Nxf4 Rxd1
+34. Nxe2 Re1 35. h4 Nxh4+ 36. Rxh4 gxh4 37. Nc3 e3 38. fxe3 Rxe3 39. Nb5 Kg6 40.
+Kf2 Rd3 41. Nxa7 h3 42. Nc6 Kg5 43. Ne5 Rd2+ 44. Kg3 h2 45. Nf3+ Kg6 46. Nxh2
+Rxb2 47. Nf3 Rxa2 48. Ne5+ Kg5 49. Nf3+ Kg6 50. Ne5+ Kg5 51. Nf3+ Kg6 1/2-1/2
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "15.1"]
+[White "Nepomniachtchi, Ian"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2792"]
+[BlackElo "2776"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, Euwe defence"]
+[WhiteFideId "4168119"]
+[BlackFideId "2020009"]
+[EventDate "2022.08.29"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Nf6 5. e5 Nh5 6. Nc3 O-O 7. d4 d6 8. O-O
+Bg4 9. h3 Be6 10. d5 Bf5 11. Nd4 Bg6 12. e6 Bf6 13. exf7+ Rxf7 14. Ne6 Qe7 15.
+Bd3 Nd7 16. Bxg6 hxg6 17. Nxc7 Rc8 18. Ne6 Bxc3 19. bxc3 Rxc3 20. Rb1 Ne5 21.
+Nxf4 Ng3 22. Re1 Qh4 23. Rb4 g5 24. Bd2 Rc4 25. Rxc4 Nxc4 26. Re8+ Kh7 27. Rh8+
+Kxh8 28. Ng6+ Kg8 29. Nxh4 gxh4 30. Bg5 Nb6 31. Bxh4 Rf1+ 32. Qxf1 Nxf1 33. Kxf1
+Nxd5 34. Bg3 Nb4 35. Bxd6 Nxa2 36. Ke2 Nc3+ 37. Kd3 Nd5 38. Kd4 Nf6 39. Bb8 a6
+40. g4 Kf7 41. Bf4 Ke6 42. Bd2 Nd7 43. c4 b5 44. cxb5 axb5 45. Kc3 Nf6 46. Kb4
+Ne4 47. Be1 Ng5 48. Bc3 Nxh3 49. Bxg7 Nf2 50. Kxb5 Nxg4 51. Ka4 Ne5 52. Bxe5 1/2-1/2
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "15.2"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Nakamura, Hikaru"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2757"]
+[BlackElo "2768"]
+[ECO "B06"]
+[Opening "Robatsch (modern) defence"]
+[WhiteFideId "623539"]
+[BlackFideId "2016192"]
+[EventDate "2022.08.29"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. h3 c5 5. dxc5 Qa5+ 6. Bd2 Qxc5 7. Nc3 Nf6 8. Bd3
+O-O 9. O-O a6 10. Re1 e5 11. Be3 Qc7 12. a4 Nc6 13. Bc4 Be6 14. Bb3 h6 15. Qd2
+Kh7 16. Red1 Rad8 17. Qe2 Rd7 18. Rac1 Rc8 19. Nd5 Bxd5 20. Bxd5 Nxd5 21. Rxd5
+Ne7 22. Rd3 Qc4 23. Nd2 Qxa4 24. b3 Qb5 25. Nc4 d5 26. exd5 Rxd5 27. Rcd1 Rcd8
+28. Bb6 Rxd3 29. Rxd3 Rxd3 30. Qxd3 Nd5 31. Ba7 Nf4 32. Qf3 Qd7 33. Bb8 f6 34.
+Nd6 b5 35. Qa8 a5 36. Kh2 a4 37. bxa4 bxa4 38. c4 Nd3 39. Qd5 Nb4 40. Qb5 Nc6
+41. Ne4 a3 42. Bd6 a2 43. Qb2 f5 44. Qxa2 fxe4 45. c5 Qf5 46. Kg1 Nd4 47. Qc4
+Qf4 48. c6 e3 49. fxe3 Nf3+ 0-1
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "15.3"]
+[White "Shankland, Sam"]
+[Black "Firouzja, Alireza"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2720"]
+[BlackElo "2778"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[WhiteFideId "2004887"]
+[BlackFideId "12573981"]
+[EventDate "2022.08.29"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 c5 6. O-O Nc6 7. Qa4 Bd7 8. Qxc4
+b5 9. Qc3 b4 10. Qd3 cxd4 11. Nxd4 Ne5 12. Qa6 Rc8 13. Bf4 Ng6 14. Be3 Bc5 15.
+Nd2 O-O 16. Rac1 e5 17. Nc2 Be6 18. Rfd1 Bxe3 19. fxe3 Ng4 20. Qxa7 Rc7 21. Qa4
+Qc8 22. Nf1 b3 23. axb3 Rxc2 24. Rxc2 Qxc2 25. Rd2 Qxb3 26. Qxb3 Bxb3 27. Rd3
+Rb8 0-1
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "15.4"]
+[White "Dominguez Perez, Leinier"]
+[Black "Xiong, Jeffery"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2754"]
+[BlackElo "2690"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Nimzovich attack"]
+[WhiteFideId "3503240"]
+[BlackFideId "2047640"]
+[EventDate "2022.08.29"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 O-O 8.
+Qd2 Nd7 9. O-O-O c6 10. h4 Nf6 11. Bd3 Bg4 12. Rde1 Re8 13. Ng5 h6 14. f3 Bd7
+15. c4 d5 16. Bd4 hxg5 17. hxg5 Ne4 18. fxe4 Bxg5 19. Be3 Bxe3 20. Rxe3 Qg5 21.
+cxd5 cxd5 22. Rh8+ Kxh8 23. Rh3+ Bxh3 24. Qxg5 dxe4 25. Qh4+ Kg8 26. Bxe4 Be6
+27. Qh7+ Kf8 28. Qh8+ Ke7 29. Qxg7 Rab8 30. Qg5+ Kd6 31. Qf4+ Kd7 32. Qd2+ Ke7
+33. Qb4+ Kf6 34. Qd4+ Ke7 35. Qxa7 Kf8 36. Bxb7 Kg8 37. Bf3 Bf5 38. b3 Rbc8 39.
+c4 Rcd8 40. Kb2 Rd2+ 41. Kc3 Rc2+ 42. Kb4 Bg6 43. a4 Rb2 44. Ka3 Rb1 45. a5 Kh7
+46. a6 Re6 47. Bb7 Bc2 48. Ka2 Ree1 49. Qd4 Bxb3+ 50. Ka3 Bc2 51. a7 Rb3+ 52.
+Ka2 Re2 53. Qh4+ Kg7 54. Qg4+ 1-0
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "15.5"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Aronian, Levon"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2758"]
+[BlackElo "2775"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[WhiteFideId "13401319"]
+[BlackFideId "13300474"]
+[EventDate "2022.08.29"]
+
+1. d4 Nf6 2. Bg5 d5 3. Bxf6 gxf6 4. c4 e5 5. e3 exd4 6. Qxd4 Nc6 7. Qxd5 Qxd5 8.
+cxd5 Nb4 9. Na3 Nxd5 10. O-O-O Nc3 11. bxc3 Bxa3+ 12. Kc2 Be6 13. Ne2 Bd6 14.
+Nd4 Ke7 15. Bd3 c5 16. Nf5+ Bxf5 17. Bxf5 Rad8 18. a4 b6 19. Rd5 Bc7 20. Rxd8
+Rxd8 21. Bxh7 Rh8 22. Bf5 Rxh2 23. Rd1 Bd6 24. Bh3 c4 25. Kd2 f5 26. f4 Ke6 27.
+Ke2 Be7 28. Kf2 a6 29. Rb1 Kd5 30. Rd1+ Kc5 31. Kg3 Rxh3+ 32. gxh3 Bf6 33. Rc1
+b5 34. axb5 axb5 35. Kf3 b4 36. cxb4+ Kxb4 37. Rb1+ Ka3 38. Rb7 Bc3 39. Ke2 Bb4
+40. h4 Kb3 41. h5 c3 42. Kd3 1-0
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "16.1"]
+[White "Nakamura, Hikaru"]
+[Black "Dominguez Perez, Leinier"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2768"]
+[BlackElo "2754"]
+[ECO "A05"]
+[Opening "Reti opening"]
+[WhiteFideId "2016192"]
+[BlackFideId "3503240"]
+[EventDate "2022.08.29"]
+
+1. Nf3 Nf6 2. e3 c5 3. b3 g6 4. Bb2 Bg7 5. g3 b6 6. Bg2 Bb7 7. O-O O-O 8. d3 d5
+9. Nbd2 Nc6 10. Qe2 Qc7 11. c4 Rfd8 12. a3 e5 13. cxd5 Nxd5 14. Rac1 Qe7 15.
+Rfd1 Rac8 16. Bh3 Rc7 17. e4 Nf6 18. Nc4 Nd7 19. Ne3 Nd4 20. Nxd4 exd4 21. Nc4
+f5 22. Bg2 fxe4 23. dxe4 Ne5 24. Nxe5 Bxe5 25. Qc4+ Kh8 26. f4 Bg7 27. e5 Bxg2
+28. Kxg2 g5 29. Rxd4 gxf4 30. gxf4 Rg8 31. Kh1 cxd4 32. Qxc7 Qh4 33. e6 Qf2 34.
+Qc2 Qxf4 35. Re1 Qf3+ 36. Qg2 Qxg2+ 37. Kxg2 d3 38. Bxg7+ Kxg7 39. Kf3 Kf6 40.
+e7 Re8 41. Re3 d2 42. Rd3 Rxe7 43. Rxd2 Rc7 44. Rd6+ Ke5 45. Rd3 b5 46. Kg4 a5
+47. Rh3 Kd4 48. Rh5 Rb7 49. a4 bxa4 50. bxa4 Ra7 51. Rb5 Rg7+ 52. Kh5 Ra7 53.
+Kh6 Kc4 54. h4 Kd4 55. h5 Kc4 56. Rb1 Rd7 57. Rb5 Ra7 58. Kg5 Kd4 59. Kf6 Ra6+
+60. Ke7 Kc4 61. Kd7 Rf6 62. Ke7 Rf1 63. Rxa5 Kb4 64. Ra6 Rf5 65. h6 Rf2 66. Rf6
+Rh2 67. Kf8 Kxa4 68. Kg7 Kb5 69. Kxh7 Kc5 70. Kg7 1-0
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "16.2"]
+[White "Caruana, Fabiano"]
+[Black "Shankland, Sam"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2720"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[WhiteFideId "2020009"]
+[BlackFideId "2004887"]
+[EventDate "2022.08.29"]
+
+1. Nf3 c5 2. b3 d6 3. Bb2 e5 4. c4 Nc6 5. e3 g6 6. Be2 Bg7 7. O-O Nge7 8. Nc3
+O-O 9. d3 h6 10. Nd2 Be6 11. Bf3 d5 12. cxd5 Nxd5 13. Nxd5 Bxd5 14. Qe2 Qd7 15.
+Rfd1 Rad8 16. a3 b6 17. Rab1 Rfe8 18. Ba1 Bxf3 19. Nxf3 a5 20. e4 Re6 21. Rd2
+Rd6 22. Rbd1 h5 23. h3 Qe6 24. Rb1 Bh6 25. Rdd1 f6 26. Qc2 Kh7 27. Bc3 Qd7 28.
+Ne1 Nd4 29. Bxd4 cxd4 30. b4 Rc8 31. Qa2 a4 32. b5 Qe6 33. Qb2 Rd7 34. Nc2 g5
+35. Nb4 g4 36. Qe2 Rg7 37. h4 g3 38. fxg3 Rxg3 39. Qxh5 Rcg8 40. Rb2 R8g6 41.
+Kh2 Kg7 42. Rc2 Bf4 43. Kg1 Qh3 44. Rc7+ Kf8 45. Qh8+ 1-0
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "16.3"]
+[White "Aronian, Levon"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2757"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[WhiteFideId "13300474"]
+[BlackFideId "623539"]
+[EventDate "2022.08.29"]
+
+1. d4 Nf6 2. Bg5 d5 3. Bxf6 gxf6 4. c4 c5 5. cxd5 Qxd5 6. e3 cxd4 7. Nc3 Qa5 8.
+exd4 Bg7 9. Bb5+ Bd7 10. Bxd7+ Nxd7 11. Ne2 O-O 12. O-O f5 13. Ng3 Nf6 14. d5 e6
+15. Qb3 Qb6 16. Qxb6 axb6 17. Rfe1 Rfe8 18. dxe6 fxe6 19. Rad1 Bf8 20. a3 Kf7
+21. Kf1 Rac8 22. Nge2 e5 23. Rc1 Bh6 24. Rcd1 Bf8 25. Rc1 Bh6 26. Rcd1 Bf8 1/2-1/2
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "16.4"]
+[White "Firouzja, Alireza"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2778"]
+[BlackElo "2758"]
+[ECO "A20"]
+[Opening "English opening"]
+[WhiteFideId "12573981"]
+[BlackFideId "13401319"]
+[EventDate "2022.08.29"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 c6 4. d4 e4 5. a3 d5 6. Nc3 Be7 7. Bg5 Nbd7 8. Qb3 O-O
+9. e3 h6 10. Bxf6 Nxf6 11. cxd5 cxd5 12. Nge2 Bd6 13. O-O Bb8 14. f3 exf3 15.
+Bxf3 Be6 16. Qxb7 Bd6 17. Qa6 Rb8 18. b4 Bh3 19. Rf2 Ng4 20. Bxg4 Bxg4 21. Nxd5
+Re8 22. Nec3 h5 23. e4 h4 24. e5 hxg3 25. hxg3 Bf8 26. Qd3 Qg5 27. Ne4 Qg6 28.
+Nef6+ 1-0
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "16.5"]
+[White "Xiong, Jeffery"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2690"]
+[BlackElo "2792"]
+[ECO "B40"]
+[Opening "Sicilian defence"]
+[WhiteFideId "2047640"]
+[BlackFideId "4168119"]
+[EventDate "2022.08.29"]
+
+1. e4 c5 2. Nf3 e6 3. c3 d5 4. exd5 Qxd5 5. Na3 Nf6 6. d4 a6 7. Nc4 Nbd7 8. Bg5
+Be7 9. Bxf6 Bxf6 10. dxc5 Qxd1+ 11. Rxd1 Nxc5 12. Nb6 Rb8 13. Bd3 Ke7 14. Bc2
+Nd7 15. Nxc8+ Rhxc8 16. h4 b5 17. a3 a5 18. g4 g6 19. g5 Bg7 20. h5 Rc7 21. hxg6
+hxg6 22. Rh7 Kf8 23. Rh4 Nb6 24. Bb3 Nd7 25. Bc2 Ne5 26. Nxe5 Bxe5 27. Bd3 Rc5
+28. Ke2 Bg7 29. Rg1 Rd8 30. Rg3 Rdd5 31. f4 Rd8 32. Rh1 Rcd5 33. Rd1 Rb8 34. Bc2
+Rc5 35. Bb3 b4 36. cxb4 axb4 37. Rgd3 Bxb2 38. Rd8+ Rxd8 39. Rxd8+ Ke7 40. axb4
+Rb5 41. Re8+ Kd6 42. Rd8+ Kc7 43. Rf8 Rf5 44. Bc2 Rxf4 45. Bxg6 f6 46. gxf6 Rxf6
+47. Rxf6 Bxf6 48. Kd3 Kb6 49. Bf7 Be7 50. Bxe6 Bxb4 1/2-1/2
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "17.1"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Shankland, Sam"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2758"]
+[BlackElo "2720"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[WhiteFideId "13401319"]
+[BlackFideId "2004887"]
+[EventDate "2022.08.29"]
+
+1. d4 Nf6 2. Bg5 d5 3. Bxf6 exf6 4. e3 Be6 5. Nd2 Nd7 6. Bd3 Nb6 7. Qf3 Bd6 8.
+Ne2 O-O 9. g4 c5 10. c3 cxd4 11. exd4 Re8 12. Kf1 Qd7 13. h3 Na4 14. Rb1 b5 15.
+Kg2 b4 16. Nf1 Rac8 17. cxb4 Bxb4 18. Ne3 Nb6 19. b3 Rc7 20. h4 Nc8 21. g5 Be7
+22. Nf4 Rd8 23. Nh5 fxg5 24. hxg5 Bxg5 25. Qg3 Qe7 26. Nxg7 Rc3 27. Nxe6 fxe6
+28. Rxh7 Qf6 29. Ng4 Qf4 30. Nh6+ Kf8 31. Rf7+ 1-0
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "17.2"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Firouzja, Alireza"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2757"]
+[BlackElo "2778"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "623539"]
+[BlackFideId "12573981"]
+[EventDate "2022.08.29"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5 8.
+Rxe5 O-O 9. Nc3 Ne8 10. Nd5 Bd6 11. Re1 c6 12. Ne3 Be7 13. c4 Nc7 14. d4 d5 15.
+cxd5 Bb4 16. Bd2 Bxd2 17. Qxd2 Nxd5 18. Nxd5 Qxd5 19. Re5 Qd6 20. Bc4 Bd7 21. a3
+Rae8 22. Qc3 Rxe5 23. dxe5 Qe7 24. Rd1 Be6 25. Bxe6 Qxe6 26. h3 f6 27. exf6 Qxf6
+28. Qxf6 Rxf6 29. Rd7 Rf7 30. Rd8+ Rf8 31. Rd7 Rf7 32. Rd8+ Rf8 33. Rd7 Rf7 1/2-1/2
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "17.3"]
+[White "Xiong, Jeffery"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2690"]
+[BlackElo "2776"]
+[ECO "D02"]
+[Opening "Queen's bishop game"]
+[WhiteFideId "2047640"]
+[BlackFideId "2020009"]
+[EventDate "2022.08.29"]
+
+1. d4 Nf6 2. Nf3 d5 3. Bf4 Bg4 4. Ne5 Bf5 5. e3 Nbd7 6. Bd3 Bxd3 7. cxd3 e6 8.
+Nc3 Nxe5 9. dxe5 Nd7 10. h4 h5 11. d4 Be7 12. Qe2 c6 13. O-O-O a5 14. Kb1 a4 15.
+g4 g6 16. Bg5 Nb6 17. f4 hxg4 18. Qxg4 Nc4 19. Qe2 Qa5 20. Bxe7 Kxe7 21. Rc1 Ra6
+22. Ka1 Rb6 23. Nd1 Rb3 24. Rxc4 dxc4 25. axb3 axb3+ 26. Kb1 Ra8 27. Kc1 Qb4 28.
+Kb1 Ra2 29. Qe1 Qa4 30. Kc1 Ra1+ 31. Kd2 c3+ 32. Kxc3 Rc1+ 33. Kd3 Qc4+ 34. Ke4
+Qd5+ 35. Kd3 c5 36. Rg1 Rc2 0-1
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "17.4"]
+[White "Nepomniachtchi, Ian"]
+[Black "Nakamura, Hikaru"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2792"]
+[BlackElo "2768"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence, modern variation"]
+[WhiteFideId "4168119"]
+[BlackFideId "2016192"]
+[EventDate "2022.08.29"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bb5+ Nbd7 6. O-O Be7 7. Be2 O-O 8.
+c4 c6 9. dxc6 bxc6 10. d4 Bd6 11. Nc3 Re8 12. c5 Bc7 13. Bc4 Ng4 14. Qb3 Re7 15.
+h3 Rb8 16. Qa4 Ne3 17. Bxe3 fxe3 18. Qxc6 Bb7 19. Qa4 Bg3 20. Qc2 Nf6 21. d5
+Nxd5 22. Ng5 Bf2+ 23. Rxf2 exf2+ 24. Qxf2 h6 25. Nxd5 Bxd5 26. Rd1 hxg5 27. Rxd5
+Rd7 28. Rd6 Qe7 29. Rxd7 Qxd7 30. c6 Qc7 31. Bd5 Rd8 32. Qf5 Qe7 33. Bf3 g6 34.
+Qc2 Qe5 35. b4 Kg7 36. a3 Re8 37. Qd2 Qa1+ 38. Kh2 Qe5+ 39. Kg1 Qf6 40. Kh2 Rd8
+41. Qe3 a6 42. a4 Qd6+ 43. Kh1 Qxb4 44. Qe5+ Kg8 45. Qxg5 Qb1+ 46. Kh2 Qb8+ 47.
+Kh1 Re8 48. Qd2 Qg3 49. Be2 Rb8 50. Qc2 Qf2 51. c7 Rc8 52. Qc4 Qb6 53. Qxa6 Qxc7
+54. Qd3 Qf4 55. Bf1 Rc1 56. Kg1 Qxa4 57. Qe3 Qc6 58. Qf4 Qc5+ 59. Kh1 Qc7 60.
+Qf3 Qc6 61. Qf4 Qc7 62. Qf3 Qc4 63. Kg1 Qd4+ 64. Kh1 Kg7 65. Kh2 Rc3 66. Qe2
+Qf4+ 67. Kh1 Qe3 68. Qb5 Rc1 69. Qb2+ f6 70. Qb7+ Kh6 71. Qa6 Qf2 0-1
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "17.5"]
+[White "Dominguez Perez, Leinier"]
+[Black "Aronian, Levon"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2754"]
+[BlackElo "2775"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "3503240"]
+[BlackFideId "13300474"]
+[EventDate "2022.08.29"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5 8.
+Rxe5 O-O 9. d4 Bf6 10. Re1 Re8 11. Bf4 Rxe1 12. Qxe1 Ne8 13. Nc3 Bxd4 14. Nd5 d6
+15. Bg5 f6 16. Bc4 Kh8 17. Be3 Bxb2 18. Rb1 Be5 19. f4 c6 20. Bd3 cxd5 21. Qh4
+h6 22. fxe5 dxe5 23. Bg6 Kg8 24. Bxh6 gxh6 25. Qxh6 Qe7 26. Rb3 Bg4 27. Qh4 Qd7
+28. h3 Be6 29. Bxe8 Rxe8 30. Rg3+ Kf8 31. Qxf6+ Bf7 32. Qg7+ Ke7 33. Qxe5+ Qe6
+34. Qc7+ Kf8 35. Qc5+ Re7 36. Qxa7 Bg6 37. Qd4 Rf7 38. Re3 Be4 39. Rg3 Qd6 40.
+Qh8+ Ke7 41. Rg8 Qf6 42. Qh5 Qf2+ 43. Kh2 Qf4+ 44. Kg1 Kd7 45. Qh8 Kc7 46. Rc8+
+Kb6 47. Qd8+ Kb5 48. Qe8+ Kb4 49. a3+ Kxa3 50. Ra8+ Kb2 51. Qb5+ Kc1 52. Ra1+
+Kd2 53. Qb4+ Kxc2 54. Ra2+ Kd1 55. Qb3+ Ke1 56. Qc3+ Kd1 57. Ra1+ 1-0
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "18.1"]
+[White "Firouzja, Alireza"]
+[Black "Dominguez Perez, Leinier"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2778"]
+[BlackElo "2754"]
+[ECO "A36"]
+[Opening "English"]
+[Variation "ultra-symmetrical variation"]
+[WhiteFideId "12573981"]
+[BlackFideId "3503240"]
+[EventDate "2022.08.29"]
+
+1. c4 c5 2. g3 g6 3. Bg2 Bg7 4. Nc3 Nc6 5. d3 d6 6. Qd2 e6 7. b3 Nge7 8. Bb2 O-O
+9. Nf3 d5 10. O-O d4 11. Na4 b6 12. e3 e5 13. exd4 exd4 14. a3 a5 15. Rfe1 Rb8
+16. Bc1 h6 17. Qd1 g5 18. Ra2 Bd7 19. h4 g4 20. Nh2 h5 21. f3 Ne5 22. fxg4 hxg4
+23. Rae2 f6 24. Re4 Bc6 25. Nxg4 Bxe4 26. Rxe4 Nxg4 27. Rxg4 f5 28. Rg5 Rf6 29.
+Bf4 Rc8 30. Be5 Rg6 31. Bd5+ Kf8 32. Qh5 Bxe5 33. Rxg6 Nxg6 34. Qxg6 Qc7 35.
+Nxb6 Rd8 36. Qg8+ Ke7 37. Qf7+ 1-0
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "18.2"]
+[White "Aronian, Levon"]
+[Black "Nepomniachtchi, Ian"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2775"]
+[BlackElo "2792"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[WhiteFideId "13300474"]
+[BlackFideId "4168119"]
+[EventDate "2022.08.29"]
+
+1. d4 Nf6 2. Bg5 d5 3. Bxf6 gxf6 4. c4 c5 5. cxd5 Qxd5 6. e3 cxd4 7. Nc3 Qa5 8.
+exd4 Bg7 9. Bb5+ Bd7 10. Qg4 Bxb5 11. Qxg7 Rf8 12. Qxh7 Nc6 13. Nf3 e6 14. d5
+Nb4 15. dxe6 O-O-O 16. e7 Nd3+ 17. Kf1 Nc1+ 18. Kg1 Rd1+ 19. Nxd1 Ne2+ 20. Kf1
+Nd4+ 21. Kg1 Ne2+ 22. Kf1 Nf4+ 23. Kg1 Qe1+ 24. Nxe1 Ne2+ 25. Kf1 Ng3+ 26. Kg1
+Ne2+ 27. Kf1 Ng3+ 28. Kg1 Ne2+ 1/2-1/2
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "18.3"]
+[White "Shankland, Sam"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2720"]
+[BlackElo "2757"]
+[ECO "A20"]
+[Opening "English opening"]
+[WhiteFideId "2004887"]
+[BlackFideId "623539"]
+[EventDate "2022.08.29"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 d5 4. cxd5 Nxd5 5. Nf3 Nc6 6. O-O Nb6 7. Nc3 Be7 8. a3
+O-O 9. d3 Be6 10. Be3 Nd5 11. Nxd5 Bxd5 12. Rc1 Re8 13. Qa4 a6 14. Nd2 Bxg2 15.
+Kxg2 Qd5+ 16. Nf3 Bd6 17. Qc4 Qxc4 18. Rxc4 Nd8 19. Nd2 Ne6 20. g4 Rad8 21. Ne4
+Be7 22. Rfc1 c6 23. b4 g6 24. g5 Rd5 25. h4 h6 26. Rh1 hxg5 27. hxg5 Kg7 28. Kf3
+Rh8 29. Rxh8 Kxh8 30. Kg4 Kg7 31. Rc1 Kf8 32. Bc5 a5 33. Rc3 Ke8 34. e3 a4 35.
+Bxe7 Kxe7 36. Nc5 Nxc5 37. bxc5 Ke6 38. Kf3 Rd8 39. Ke4 Rh8 40. Rc4 Rh4+ 41. f4
+exf4 42. exf4 Rh1 43. Rxa4 Re1+ 44. Kf3 Kd5 45. Re4 Rxe4 46. dxe4+ Kxc5 47. f5
+Kd6 48. Kf4 b5 49. e5+ Ke7 50. e6 gxf5 51. exf7 Kxf7 52. Kxf5 c5 53. Ke5 Kg6 54.
+Kd5 c4 55. Kd4 Kxg5 56. a4 bxa4 57. Kxc4 a3 58. Kb3 a2 59. Kxa2 1/2-1/2
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "18.4"]
+[White "Caruana, Fabiano"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2776"]
+[BlackElo "2758"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "2020009"]
+[BlackFideId "13401319"]
+[EventDate "2022.08.29"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qa4 b6 8. Qxc4
+Bb7 9. Bg5 h6 10. Bxf6 Bxf6 11. Nc3 Nd7 12. e4 c5 13. e5 cxd4 14. exf6 dxc3 15.
+fxg7 Kxg7 16. Rad1 Rc8 17. Qg4+ Kh7 18. bxc3 Qe7 19. Qa4 Nf6 20. Qxa7 Qc7 21.
+Qa4 Kg7 22. Rc1 Ra8 23. Qb3 Qc5 24. Rb1 Bd5 25. Qxb6 Qxc3 26. Rfc1 Qa3 27. Ne5
+Bxg2 28. Kxg2 Qxa2 29. Qd4 Ra4 30. Qd1 Re4 31. Ra1 Qb2 32. Nc4 Qb4 33. Rab1 Qe7
+34. Qf3 Rd8 35. Ne3 Rd2 36. Rd1 Ra2 37. Re1 Qa7 38. h3 h5 39. g4 hxg4 40. hxg4
+Qc5 41. Qg3 Qg5 42. Kg1 Nxg4 43. Ng2 Rxe1+ 44. Rxe1 Rxf2 45. Re4 f5 46. Rxe6
+Qc1+ 47. Re1 Qc5 48. Kh1 Rc2 49. Qh4 Nf2+ 50. Kh2 Ng4+ 51. Kh1 Kg6 52. Re6+ Kf7
+53. Re1 Nf2+ 54. Kh2 Ng4+ 55. Kh1 Rc1 56. Qh7+ Kf6 57. Qh8+ Kg6 58. Nf4+ Kg5 59.
+Ne6+ 1-0
+
+[Event "Saint Louis Blitz 2022"]
+[Site "Saint Louis USA"]
+[Date "2022.08.30"]
+[Round "18.5"]
+[White "Nakamura, Hikaru"]
+[Black "Xiong, Jeffery"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2768"]
+[BlackElo "2690"]
+[ECO "A20"]
+[Opening "English opening"]
+[WhiteFideId "2016192"]
+[BlackFideId "2047640"]
+[EventDate "2022.08.29"]
+
+1. c4 e5 2. a3 Nf6 3. d3 g6 4. Nf3 Nc6 5. b4 d5 6. cxd5 Nxd5 7. Bb2 Bg7 8. e3
+Qe7 9. Nbd2 O-O 10. Rc1 Rd8 11. Qc2 a5 12. b5 Na7 13. e4 Nf4 14. a4 Bg4 15. g3
+Bxf3 16. Nxf3 Ne6 17. Bh3 c6 18. b6 Nc8 19. O-O Nxb6 20. Qb3 Ra6 21. Ba3 Qf6 22.
+Bg2 Bf8 23. Bb2 Nc5 24. Rxc5 Bxc5 25. Bxe5 Qe7 26. Ba1 Nd7 27. Bh3 Rb6 28. Qc3
+Qf6 29. Qxf6 Nxf6 30. Bxf6 Rxd3 31. Ne5 Bd4 32. Nxd3 Bxf6 33. e5 Be7 34. Rd1 Rb3
+35. e6 f5 36. Bf1 Kg7 37. h4 Kf6 38. Nf4 Rb4 39. Rd7 Rb2 40. Bg2 Rb4 41. Bf3 Rb2
+42. Kg2 Rb4 43. Bd1 Rb2 44. Kh3 Rb4 45. f3 Rb1 46. g4 fxg4+ 47. fxg4 h6 48. Nxg6
+Kxe6 49. Rxe7+ Kf6 50. Rd7 1-0
+
