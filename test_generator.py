@@ -61,13 +61,13 @@ def generate_test_positions(pgn_file, engine_file, outputfile='test.json', mem=1
             if game is None:
                 break
 
-            ev = game.headers['Event']
+            ev = game.headers.get('Event', '?')
             wp = game.headers['White']
             bp = game.headers['Black']
-            wr = game.headers['WhiteElo']
-            br = game.headers['BlackElo']
+            wr = game.headers.get('WhiteElo', '?')
+            br = game.headers.get('BlackElo', '?')
             da = game.headers['Date']
-            rnd = game.headers['Round']
+            rnd = game.headers.get('Round', '?')
 
             # Parse the moves.
             for node in game.mainline():
