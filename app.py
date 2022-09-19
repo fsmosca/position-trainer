@@ -1,5 +1,6 @@
+import json
+
 import streamlit as st
-from library.analysis import score_proba, analyze
 from library.upload import upload_pgn
 import chess.pgn
 import chess.svg
@@ -29,11 +30,14 @@ analysis_sec = 1.0
 engine_file = 'engine/sf15.exe'  # Todo: load by button
 
 
-def render_svg(svg):
+def render_svg(svg, turn):
     """Renders the given svg string."""
+    stm = 'White' if turn else 'Black'
     b64 = base64.b64encode(svg.encode('utf-8')).decode("utf-8")
     html = r'<img src="data:image/svg+xml;base64,%s"/>' % b64
+    
     html += '<p></p>'
+    html += 'Side to move: ' + '<strong>' + stm + '</strong>'
     st.write(html, unsafe_allow_html=True)
 
 
@@ -44,34 +48,30 @@ def increment():
 
 
 def main():
-    tab1, tab2 = st.tabs(['PGN file', 'Evaluation'])
+    tab1, tab2 = st.tabs(['Load Test Positions', 'Evaluation'])
     
     with tab1:
         cols = st.columns([1, 1, 1])
         with cols[1]:
             fp = None
-            with st.expander('Upload pgn file'):
+            with st.expander('Upload json test file'):
                 fp = upload_pgn()
+                if fp is not None:
+                    data = json.load(fp)                    
+                    keys = data.keys()
 
-            with st.expander('Analyze game'):
-                with st.form('analyze games'):
-                    anatime_sec = st.number_input('analysis time in sec', 0.1, 60.0, 0.5, key='key_anatimesec',
-                                                  help='min=0.1, max=60.0, def=0.5')
-                    maxdepth = st.number_input('analysis depth', 1, 1000, 16, key='key_anadepth',
-                                               help='min=1, max=1000, def=16')
-                    start_move_num = st.number_input('start move number', 1, 60, 12, key='key_startmovenum')
-                    submit = st.form_submit_button('analyze')
+                    for i, epd in zip(range(len(data)), keys):
+                        st.session_state.games.update({i: [epd, data[epd]]})
 
-                if submit:
+                else:
                     st.session_state.games = {}
                     st.session_state.posnum = 0
 
-                analyze(fp, engine_file, anatime_sec, maxdepth, start_move_num, submit)
-
+                st.write(f'numpos {len(st.session_state.games)}')
+                    
     with tab2:
         if len(st.session_state.games) == 0:
             st.warning('There are no test positions generated')
-
 
         # Display the fen, board and legal moves.
         if len(st.session_state.games):
@@ -87,17 +87,18 @@ def main():
                     c = st.session_state.posnum
 
             fen = st.session_state.games[c][0]
-            game_move_san = st.session_state.games[c][1]
-            game_score_cp = st.session_state.games[c][2]
-            game_score_rate = st.session_state.games[c][3]
-            engine_move_san = st.session_state.games[c][4]
-            engine_score_cp = st.session_state.games[c][5]
-            engine_score_rate = st.session_state.games[c][6]
-            wp = st.session_state.games[c][7]
-            bp = st.session_state.games[c][8]
-            wr = st.session_state.games[c][9]
-            br = st.session_state.games[c][10]
-            da = st.session_state.games[c][11]
+            game_move_san = st.session_state.games[c][1]['game']['move']
+            game_score_cp = st.session_state.games[c][1]['game']['score']
+            game_score_rate = st.session_state.games[c][1]['game']['rate']
+            engine_move_san = st.session_state.games[c][1]['engine']['move']
+            engine_score_cp = st.session_state.games[c][1]['engine']['score']
+            engine_score_rate = st.session_state.games[c][1]['engine']['rate']
+            wp = st.session_state.games[c][1]['header']['White']
+            bp = st.session_state.games[c][1]['header']['Black']
+            wr = st.session_state.games[c][1]['header']['WhiteElo']
+            br = st.session_state.games[c][1]['header']['BlackElo']
+            da = st.session_state.games[c][1]['header']['Date']
+            event = st.session_state.games[c][1]['header']['Event']
 
             board = chess.Board(fen)
             turn = board.turn
@@ -105,13 +106,14 @@ def main():
 
             with cols[0]:
                 svg_board = chess.svg.board(board, size=400, flipped=flipped)
-                render_svg(svg_board)
+                render_svg(svg_board, board.turn)
 
                 with st.expander('Position info'):
                     st.markdown(f'''
                     **PosNum: {st.session_state.posnum + 1}**  
                     **{fen}**  
-                    **{wp} {wr}  - {bp} {br}, {da}**
+                    **{wp} {wr}  - {bp} {br}**  
+                    **{event}, {da}**
                     ''')
 
             # Display the legal move for selection.
@@ -134,25 +136,35 @@ def main():
                     sel_score_cp = game_score_cp
                     sel_score_rate = game_score_rate
                 else:
-                    movetime_sec = analysis_sec
-                    efile = engine_file
-                    engine = chess.engine.SimpleEngine.popen_uci(efile)
-
-                    info = engine.analyse(board, chess.engine.Limit(time=movetime_sec), root_moves=[board.parse_san(sel_move_san)])
-                    sel_score_cp = info['score'].relative.score(mate_score=32000)
-                    sel_score_rate = round(score_proba(sel_score_cp), 2)
-                    engine.quit()
+                    c = st.session_state.posnum
+                    sel_score_cp = st.session_state.games[c][1]['user'][sel_move_san]['score']
+                    sel_score_rate = st.session_state.games[c][1]['user'][sel_move_san]['rate']
 
                 with cols[1]:
-                    data = {
+                    resdata = {
                         'Category': ['Selected', 'Game', 'Engine'],
                         'Move': [sel_move_san, game_move_san, engine_move_san],
                         'ScoreCP': [sel_score_cp, game_score_cp, engine_score_cp],
                         'ScoreRate': [sel_score_rate, game_score_rate, engine_score_rate]
                     }
 
-                    dfres = pd.DataFrame(data)
+                    st.markdown('''
+                    ##### Test result summary
+                    ''')
+
+                    dfres = pd.DataFrame(resdata)
                     st.dataframe(dfres)
+
+                    with st.expander('ASSESSMENT', expanded=True):
+                        game_player = wp if board.turn else bp
+                        if sel_score_cp >= engine_score_cp:
+                            st.write(f'You played like an engine and better than {game_player}!!')
+                        elif sel_score_cp > game_score_cp:
+                            st.write(f'You played better than {game_player}!')
+                        elif sel_score_cp < game_score_cp:
+                            st.write(f'You played below the level of {game_player}.')
+                        else:
+                            st.write(f'You played the same level as {game_player}')
 
 
 if __name__ == '__main__':
