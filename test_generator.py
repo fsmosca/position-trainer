@@ -22,7 +22,8 @@ def score_proba(score_cp):
 
 def build_test_info(board, epd, game_move_san, game_score_cp, game_score_rate,
                     engine_move_san, engine_score_cp, engine_score_rate,
-                    user_moves, ev, da, rnd, wp, bp, wr, br):
+                    user_moves, ev, da, rnd, wp, bp, wr, br,
+                    engine_id_name, movetime, depth):
     return {epd: {'stm': 'white' if board.turn else 'black',
                     'fmvn': board.fullmove_number,
                     'hmvc': board.halfmove_clock,
@@ -33,6 +34,9 @@ def build_test_info(board, epd, game_move_san, game_score_cp, game_score_rate,
                                'score': engine_score_cp,
                                'rate': engine_score_rate},
                     'user': user_moves,
+                    'analysis_engine': engine_id_name, 
+                    'analysis_movetime': movetime, 
+                    'analysis_depth': depth, 
                     'header': {'Event': ev, 'Date': da,
                                 'Round': rnd, 'White': wp,
                                 'Black': bp, 'WhiteElo': wr,
@@ -49,6 +53,7 @@ def generate_test_positions(pgn_file, engine_file, outputfile='test.json', mem=1
     engine = chess.engine.SimpleEngine.popen_uci(engine_file)
     engine.configure({'Hash': mem})
     engine.configure({'Threads': threads})
+    engine_id_name = engine.id['name']
 
     with open(pgn_file, 'r') as fp:
         while True:
@@ -124,7 +129,8 @@ def generate_test_positions(pgn_file, engine_file, outputfile='test.json', mem=1
                         board, epd, game_move_san, game_score_cp,
                         game_score_rate, engine_move_san,
                         engine_score_cp, engine_score_rate,
-                        user_moves, ev, da, rnd, wp, bp, wr, br)                    
+                        user_moves, ev, da, rnd, wp, bp, wr, br,
+                        engine_id_name, movetime, depth)                    
 
                     # Read the json file and save it with new info.
                     if Path(outputfile).exists():
