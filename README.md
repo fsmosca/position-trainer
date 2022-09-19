@@ -61,4 +61,233 @@ The command `streamlit run app.py` will run streamlit server and a browser will 
 The engine that is used to analyze the moves is in the `engine folder`. It is a stockfish 15 for modern hardware. You may replace it
 but be sure to keep the filename sf15.exe.
 
+## Load test sets from json test file
 
+Future version of the app will use the output from the **test_generator.py** program.
+
+### Generate test positions
+
+```
+python test_generator.py --pgn-file ./pgn/stlbli22_4games.pgn --engine-file ./engine/sf15.exe --engine-hash-mb 128 --output-file mytest.json --movetime 1000
+```
+
+### Sample output
+
+```
+{
+    "1r2r2k/3bbqpp/3p4/1NpP4/2P1QP2/6P1/1B5P/1R2R1K1 w - -": {
+        "stm": "white",
+        "fmvn": 26,
+        "hmvc": 1,
+        "game": {
+            "move": "Qf3",
+            "score": 5,
+            "rate": 0.5
+        },
+        "engine": {
+            "move": "Nc7",
+            "score": 319,
+            "rate": 0.77
+        },
+        "user": {
+            "Nc7": {
+                "score": 333,
+                "rate": 0.78
+            },
+            "Na7": {
+                "score": -412,
+                "rate": 0.17
+            },
+            "Nxd6": {
+                "score": -375,
+                "rate": 0.19
+            },
+            "Nd4": {
+                "score": -602,
+                "rate": 0.09
+            },
+            "Nc3": {
+                "score": -459,
+                "rate": 0.15
+            },
+            "Na3": {
+                "score": -354,
+                "rate": 0.2
+            },
+            "Qxh7+": {
+                "score": -986,
+                "rate": 0.02
+            },
+            "Qxe7": {
+                "score": -735,
+                "rate": 0.06
+            },
+            "Qg6": {
+                "score": -1151,
+                "rate": 0.01
+            },
+            "Qe6": {
+                "score": -674,
+                "rate": 0.07
+            },
+            "Qf5": {
+                "score": -1272,
+                "rate": 0.01
+            },
+            "Qe5": {
+                "score": -893,
+                "rate": 0.03
+            },
+            "Qd4": {
+                "score": -1014,
+                "rate": 0.02
+            },
+            "Qf3": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Qe3": {
+                "score": -51,
+                "rate": 0.45
+            },
+            "Qd3": {
+                "score": -176,
+                "rate": 0.34
+            },
+            "Qg2": {
+                "score": -47,
+                "rate": 0.46
+            },
+            "Qe2": {
+                "score": -71,
+                "rate": 0.43
+            },
+            "Qc2": {
+                "score": -263,
+                "rate": 0.27
+            },
+            "Qh1": {
+                "score": -58,
+                "rate": 0.44
+            },
+            "Bxg7+": {
+                "score": -424,
+                "rate": 0.16
+            },
+            "Bf6": {
+                "score": -494,
+                "rate": 0.13
+            },
+            "Be5": {
+                "score": -345,
+                "rate": 0.21
+            },
+            "Bd4": {
+                "score": -600,
+                "rate": 0.09
+            },
+            "Bc3": {
+                "score": -133,
+                "rate": 0.38
+            },
+            "Ba3": {
+                "score": -287,
+                "rate": 0.25
+            },
+            "Bc1": {
+                "score": -700,
+                "rate": 0.06
+            },
+            "Ba1": {
+                "score": -211,
+                "rate": 0.31
+            },
+            "Kg2": {
+                "score": -194,
+                "rate": 0.32
+            },
+            "Kf2": {
+                "score": -178,
+                "rate": 0.34
+            },
+            "Kh1": {
+                "score": -241,
+                "rate": 0.28
+            },
+            "Kf1": {
+                "score": -212,
+                "rate": 0.31
+            },
+            "Re3": {
+                "score": -470,
+                "rate": 0.14
+            },
+            "Re2": {
+                "score": -504,
+                "rate": 0.13
+            },
+            "Rf1": {
+                "score": -204,
+                "rate": 0.31
+            },
+            "Red1": {
+                "score": -220,
+                "rate": 0.3
+            },
+            "Rec1": {
+                "score": -270,
+                "rate": 0.26
+            },
+            "Rbd1": {
+                "score": -34,
+                "rate": 0.47
+            },
+            "Rbc1": {
+                "score": -28,
+                "rate": 0.47
+            },
+            "Ra1": {
+                "score": -28,
+                "rate": 0.47
+            },
+            "f5": {
+                "score": -71,
+                "rate": 0.43
+            },
+            "g4": {
+                "score": -476,
+                "rate": 0.14
+            },
+            "h3": {
+                "score": -323,
+                "rate": 0.22
+            },
+            "h4": {
+                "score": -228,
+                "rate": 0.29
+            }
+        },
+        "header": {
+            "Event": "Saint Louis Blitz 2022",
+            "Date": "2022.08.29",
+            "Round": "1.1",
+            "White": "Nakamura, Hikaru",
+            "Black": "Caruana, Fabiano",
+            "WhiteElo": "2768",
+            "BlackElo": "2776"
+        }
+    }
+}
+```
+
+### Show the help
+
+```
+python test_generator.py --help
+```
+
+## Credits
+
+* Uri Blass  
+This training system is suggested by Uri in [talkchess forum](http://talkchess.com/forum3/viewtopic.php?f=2&t=80593).
+* [Python chess](https://python-chess.readthedocs.io/en/latest/)
