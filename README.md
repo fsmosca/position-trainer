@@ -3,6 +3,14 @@ Simulate from positions with bad moves.
 
 ## Setup
 
+### 1. Open the app in the web
+
+Go to this address https://fsmosca-position-trainer-app-nfsbbl.streamlitapp.com/
+
+Download the json file inside the data folder. It is a test file that is needed for training.
+
+### 2. Run the app locally from your browser
+
 * [Download](https://www.python.org/downloads/) and Install python version >= 3.7
 * Clone this repository see sample below.
 
