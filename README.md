@@ -3,11 +3,11 @@ Simulate from positions with bad moves.
 
 ## Setup
 
-### 1. Open the app in the web
+### 1. Open the app from the cloud.
 
 Go to this address https://fsmosca-position-trainer-app-nfsbbl.streamlitapp.com/
 
-Download the json file inside the data folder. It is a test file that is needed for training.
+Download the json file inside the data folder. or from [here](https://drive.google.com/file/d/17vAgfjVbjCh8oFYLzcfdZsr_KhaW0hJY/view?usp=sharing). It is a test file that is needed for training.
 
 ### 2. Run the app locally from your browser
 
@@ -303,3 +303,4 @@ python test_generator.py --help
 * Uri Blass  
 This training system is suggested by Uri in [talkchess forum](http://talkchess.com/forum3/viewtopic.php?f=2&t=80593).
 * [Python chess](https://python-chess.readthedocs.io/en/latest/)
+* [streamlit](https://streamlit.io/)
