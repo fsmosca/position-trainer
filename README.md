@@ -67,6 +67,10 @@ Future version of the app will use the output from the **test_generator.py** pro
 
 ### Generate test positions
 
+You need to install python chess with:  
+
+`pip install chess`
+
 ```
 python test_generator.py --pgn-file ./pgn/stlbli22_4games.pgn --engine-file ./engine/sf15.exe --engine-hash-mb 128 --output-file mytest.json --movetime 1000
 ```
