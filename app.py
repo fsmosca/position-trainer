@@ -10,7 +10,7 @@ import pandas as pd
 
 
 st.set_page_config(
-    page_title="Evaluator",
+    page_title="Position Trainer",
     page_icon="🧊",
     layout="wide"
 )
