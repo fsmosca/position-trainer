@@ -40,7 +40,7 @@ def build_test_info(board, epd, game_move_san, game_score_cp, game_score_rate,
 
 
 def generate_test_positions(pgn_file, engine_file, outputfile='test.json', mem=128,
-                            threads=1, movetime=0.1, depth=12, startmove=12,
+                            threads=1, movetime=0.1, depth=1000, startmove=12,
                             ratemargin=0.2):
     """
     Generate test positions.
