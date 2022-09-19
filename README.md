@@ -60,11 +60,9 @@ The command `streamlit run app.py` will run streamlit server and a browser will 
 
 ![image](https://user-images.githubusercontent.com/22366935/191024746-147cea23-b86f-43d8-a771-55d5755edf62.png)
 
-## Load test sets from json test file
+## Generate training file in json format
 
 Use the **test_generator.py** program to generate test positions.
-
-### Generate test positions
 
 You need to install python chess with:  
 
