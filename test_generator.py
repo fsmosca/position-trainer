@@ -101,8 +101,8 @@ def generate_test_positions(pgn_file, engine_file, outputfile='test.json', mem=1
                     game_score_rate = round(score_proba(game_score_cp), 2)
 
                 # If game move is suboptimal, we will save the position to csv.
-                # A suboptimal move is when the gap from engine score rate is 0.2 or more
-                # and the position is still playable or score_cp >= -100.
+                # A suboptimal move is when the gap from engine score rate is 0.2 or more.
+                # Save test position if it is still playable or score_cp >= -100.
                 if engine_score_rate - game_score_rate >= ratemargin and engine_score_cp >= -100:
                     user_moves = {}
 
