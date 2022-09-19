@@ -56,22 +56,13 @@ The command `streamlit run app.py` will run streamlit server and a browser will 
   Network URL: http://192.168.254.104:8501
 ```
 
-### Load and analyze games
-
-![image](https://user-images.githubusercontent.com/22366935/190454799-c6e09b56-5597-488f-b5bb-d099a494a4a6.png)
-
 ### Train
 
-![image](https://user-images.githubusercontent.com/22366935/190455075-e6f039d8-a65d-437e-94c3-81ea7a093399.png)
-
-### Engine
-
-The engine that is used to analyze the moves is in the `engine folder`. It is a stockfish 15 for modern hardware. You may replace it
-but be sure to keep the filename sf15.exe.
+![image](https://user-images.githubusercontent.com/22366935/191024746-147cea23-b86f-43d8-a771-55d5755edf62.png)
 
 ## Load test sets from json test file
 
-Future version of the app will use the output from the **test_generator.py** program.
+Use the **test_generator.py** program to generate test positions.
 
 ### Generate test positions
 
@@ -79,6 +70,7 @@ You need to install python chess with:
 
 `pip install chess`
 
+**Command line**  
 ```
 python test_generator.py --pgn-file ./pgn/stlbli22_4games.pgn --engine-file ./engine/sf15.exe --engine-hash-mb 128 --output-file mytest.json --movetime 1000
 ```
