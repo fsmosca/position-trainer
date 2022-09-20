@@ -84,7 +84,7 @@ def main():
 
             You can download the training positions from the github repository or from google drive.
             * [github](https://github.com/fsmosca/position-trainer/tree/main/data)  
-            * [google drive](https://drive.google.com/file/d/17vAgfjVbjCh8oFYLzcfdZsr_KhaW0hJY/view?usp=sharing)
+            * [google drive](https://drive.google.com/drive/folders/1Epmc0EXAldKRJ41IaW9dOWEg3OO-uvgc)
 
             ### Generate training positions
 
@@ -114,7 +114,7 @@ def main():
                     
     with tab3:
         if len(st.session_state.games) == 0:
-            st.warning('There are no test positions generated')
+            st.warning('There are no test positions loaded, go to the Load Test Positions page.')
 
         # Display the fen, board and legal moves.
         if len(st.session_state.games):
@@ -213,14 +213,15 @@ def main():
 
                     with st.expander('ASSESSMENT', expanded=True):
                         game_player = wp if board.turn else bp
+                        player_rating = wr if board.turn else br
                         if sel_score_cp >= engine_score_cp:
-                            st.write(f'You played like an engine and better than {game_player}!!')
+                            st.write(f'You played like an engine and better than {game_player} ({player_rating})!!')
                         elif sel_score_cp > game_score_cp:
-                            st.write(f'You played better than {game_player}!')
+                            st.write(f'You played better than {game_player} ({player_rating})!')
                         elif sel_score_cp < game_score_cp:
-                            st.write(f'You played below the level of {game_player}.')
+                            st.write(f'You played below the level of {game_player} ({player_rating}).')
                         else:
-                            st.write(f'You played the same level as {game_player}')
+                            st.write(f'You played the same level as {game_player} ({player_rating})')
 
     with tab4:
         cols = st.columns([1, 3, 1])
