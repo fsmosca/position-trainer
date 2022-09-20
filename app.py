@@ -41,7 +41,8 @@ def render_svg(svg, turn):
     html = r'<img src="data:image/svg+xml;base64,%s"/>' % b64
     
     html += '<p></p>'
-    html += 'Side to move: ' + '<strong>' + stm + '</strong>'
+    html += f'Side to move: <span style="color:blue;"><strong>{stm}</strong></span><br>'
+    html += f'Rating Range: <span style="color:red;"><strong>{st.session_state.minrating} - {st.session_state.maxrating}</strong></span>'
     st.write(html, unsafe_allow_html=True)
 
 
