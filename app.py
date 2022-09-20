@@ -48,10 +48,10 @@ def increment():
 
 
 def main():
-    tab1, tab2 = st.tabs(['Load Test Positions', 'Evaluation'])
+    tab1, tab2, tab3 = st.tabs(['Load Test Positions', 'Evaluation', 'Setting'])
     
     with tab1:
-        cols = st.columns([1, 1, 1])
+        cols = st.columns([1, 3, 1])
         with cols[1]:
             fp = None
             with st.expander('Upload json test file'):
@@ -105,16 +105,8 @@ def main():
             flipped = True if not turn else False
 
             with cols[0]:
-                svg_board = chess.svg.board(board, size=400, flipped=flipped)
+                svg_board = chess.svg.board(board, size=st.session_state.board_width, flipped=flipped)
                 render_svg(svg_board, board.turn)
-
-                with st.expander('Position info'):
-                    st.markdown(f'''
-                    **PosNum: {st.session_state.posnum + 1}**  
-                    **{fen}**  
-                    **{wp} {wr}  - {bp} {br}**  
-                    **{event}, {da}**
-                    ''')
 
             # Display the legal move for selection.
             board_legal_moves = list(board.legal_moves)  # python chess format
@@ -123,7 +115,15 @@ def main():
             legal_moves_san.insert(0, 'Select a move')
 
             with cols[1]:
-                st.button('Legal moves', disabled=True, key='key_legalmoves')
+                with st.expander('Position info'):
+                    st.markdown(f'''
+                    **PosNum: {st.session_state.posnum + 1}**  
+                    **{fen}**  
+                    **{wp} {wr}  - {bp} {br}**  
+                    **{event}, {da}**
+                    ''')
+
+                # st.button('Legal moves', disabled=True, key='key_legalmoves')
                 with st.expander('Select a move', expanded=False):
                     sel_move_san = st.radio('', options=legal_moves_san, horizontal=True)
 
@@ -148,12 +148,9 @@ def main():
                         'ScoreRate': [sel_score_rate, game_score_rate, engine_score_rate]
                     }
 
-                    st.markdown('''
-                    ##### Test result summary
-                    ''')
-
-                    dfres = pd.DataFrame(resdata)
-                    st.dataframe(dfres)
+                    with st.expander('RESULT SUMMARY', expanded=True):
+                        dfres = pd.DataFrame(resdata)
+                        st.dataframe(dfres)
 
                     with st.expander('ASSESSMENT', expanded=True):
                         game_player = wp if board.turn else bp
@@ -165,6 +162,12 @@ def main():
                             st.write(f'You played below the level of {game_player}.')
                         else:
                             st.write(f'You played the same level as {game_player}')
+
+    with tab3:
+        cols = st.columns([1, 3, 1])
+
+        with cols[1]:
+            st.number_input('Board width', 150, 800, 400, step=50, key='board_width')
 
 
 if __name__ == '__main__':
