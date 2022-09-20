@@ -79,7 +79,7 @@ def main():
 
             cols = st.columns([1, 2])
 
-            with cols[0]:
+            with cols[1]:
                 c = st.session_state.posnum
                 loadpos = st.button('Load Next', key='key_loadpos', on_click=increment)
                 if loadpos or st.session_state.loadpos:
