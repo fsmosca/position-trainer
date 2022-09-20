@@ -24,6 +24,10 @@ if 'posnum' not in st.session_state:
     st.session_state.posnum = 0
 if 'maxpos' not in st.session_state:
     st.session_state.maxpos = 0
+if 'selmove_from' not in st.session_state:
+    st.session_state.selmove_from = None
+if 'selmove_to' not in st.session_state:
+    st.session_state.selmove_to = None
 
 
 analysis_sec = 1.0
@@ -42,9 +46,22 @@ def render_svg(svg, turn):
 
 
 def increment():
+    st.session_state.selmove_from = None
+    st.session_state.selmove_to = None
     st.session_state.posnum += 1
     if st.session_state.posnum >= st.session_state.maxpos:
         st.session_state.posnum = 0
+
+
+def update_board_arrow(board):
+    sanmove = st.session_state.key_selmove
+    if sanmove == 'Select a move':
+        st.session_state.selmove_from = None
+        st.session_state.selmove_to = None
+    else:
+        pcmove = board.parse_san(sanmove)
+        st.session_state.selmove_from = pcmove.from_square
+        st.session_state.selmove_to = pcmove.to_square
 
 
 def main():
@@ -102,10 +119,20 @@ def main():
 
             board = chess.Board(fen)
             turn = board.turn
-            flipped = True if not turn else False
 
             with cols[0]:
-                svg_board = chess.svg.board(board, size=st.session_state.board_width, flipped=flipped)
+                if st.session_state.selmove_from is not None:
+                    arrow = [chess.svg.Arrow(st.session_state.selmove_from,
+                                             st.session_state.selmove_to)]
+                else:
+                    arrow = []
+
+                svg_board = chess.svg.board(
+                    board,
+                    size=st.session_state.board_width,
+                    orientation=turn,
+                    arrows=arrow
+                )
                 render_svg(svg_board, board.turn)
 
             # Display the legal move for selection.
@@ -125,7 +152,13 @@ def main():
 
                 # st.button('Legal moves', disabled=True, key='key_legalmoves')
                 with st.expander('Select a move', expanded=False):
-                    sel_move_san = st.radio('', options=legal_moves_san, horizontal=True)
+                    sel_move_san = st.radio('', options=legal_moves_san,
+                    horizontal=True,
+                    on_change=update_board_arrow,
+                    args=[board],
+                    key='key_selmove')
+
+            sel_move_san = st.session_state.key_selmove
 
             if sel_move_san != 'Select a move':
                 # Analyze the sel move with the engine.
