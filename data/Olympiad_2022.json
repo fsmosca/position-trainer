@@ -44751,5 +44751,858 @@
             "WhiteElo": "?",
             "BlackElo": "2107"
         }
+    },
+    "r5k1/5ppp/5q2/3B4/1Q1P4/3b2P1/5P1P/2R3K1 b - -": {
+        "stm": "black",
+        "fmvn": 27,
+        "hmvc": 0,
+        "game": {
+            "move": "g6",
+            "score": -954,
+            "rate": 0.03
+        },
+        "engine": {
+            "move": "Re8",
+            "score": -100,
+            "rate": 0.41
+        },
+        "user": {
+            "Kh8": {
+                "score": -990,
+                "rate": 0.02
+            },
+            "Rf8": {
+                "score": -110,
+                "rate": 0.4
+            },
+            "Re8": {
+                "score": -97,
+                "rate": 0.41
+            },
+            "Rd8": {
+                "score": -111,
+                "rate": 0.4
+            },
+            "Rc8": {
+                "score": -31998,
+                "rate": 0.0
+            },
+            "Rb8": {
+                "score": -31998,
+                "rate": 0.0
+            },
+            "Ra7": {
+                "score": -31998,
+                "rate": 0.0
+            },
+            "Ra6": {
+                "score": -31998,
+                "rate": 0.0
+            },
+            "Ra5": {
+                "score": -31998,
+                "rate": 0.0
+            },
+            "Ra4": {
+                "score": -31998,
+                "rate": 0.0
+            },
+            "Ra3": {
+                "score": -31998,
+                "rate": 0.0
+            },
+            "Ra2": {
+                "score": -31998,
+                "rate": 0.0
+            },
+            "Ra1": {
+                "score": -31998,
+                "rate": 0.0
+            },
+            "Qd8": {
+                "score": -840,
+                "rate": 0.04
+            },
+            "Qe7": {
+                "score": -31992,
+                "rate": 0.0
+            },
+            "Qh6": {
+                "score": -870,
+                "rate": 0.03
+            },
+            "Qg6": {
+                "score": -980,
+                "rate": 0.02
+            },
+            "Qe6": {
+                "score": -995,
+                "rate": 0.02
+            },
+            "Qd6": {
+                "score": -31991,
+                "rate": 0.0
+            },
+            "Qc6": {
+                "score": -31985,
+                "rate": 0.0
+            },
+            "Qb6": {
+                "score": -31989,
+                "rate": 0.0
+            },
+            "Qa6": {
+                "score": -829,
+                "rate": 0.04
+            },
+            "Qg5": {
+                "score": -784,
+                "rate": 0.05
+            },
+            "Qf5": {
+                "score": -987,
+                "rate": 0.02
+            },
+            "Qe5": {
+                "score": -31991,
+                "rate": 0.0
+            },
+            "Qh4": {
+                "score": -31992,
+                "rate": 0.0
+            },
+            "Qf4": {
+                "score": -31991,
+                "rate": 0.0
+            },
+            "Qxd4": {
+                "score": -31992,
+                "rate": 0.0
+            },
+            "Qf3": {
+                "score": -1386,
+                "rate": 0.0
+            },
+            "Qxf2+": {
+                "score": -3171,
+                "rate": 0.0
+            },
+            "Bg6": {
+                "score": -1009,
+                "rate": 0.02
+            },
+            "Ba6": {
+                "score": -1023,
+                "rate": 0.02
+            },
+            "Bf5": {
+                "score": -922,
+                "rate": 0.03
+            },
+            "Bb5": {
+                "score": -1279,
+                "rate": 0.01
+            },
+            "Be4": {
+                "score": -1548,
+                "rate": 0.0
+            },
+            "Bc4": {
+                "score": -1428,
+                "rate": 0.0
+            },
+            "Be2": {
+                "score": -996,
+                "rate": 0.02
+            },
+            "Bc2": {
+                "score": -1168,
+                "rate": 0.01
+            },
+            "Bf1": {
+                "score": -1293,
+                "rate": 0.01
+            },
+            "Bb1": {
+                "score": -1400,
+                "rate": 0.0
+            },
+            "h6": {
+                "score": -977,
+                "rate": 0.02
+            },
+            "g6": {
+                "score": -995,
+                "rate": 0.02
+            },
+            "h5": {
+                "score": -876,
+                "rate": 0.03
+            },
+            "g5": {
+                "score": -926,
+                "rate": 0.03
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 1.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "44th Olympiad 2022",
+            "Date": "2022.07.30",
+            "Round": "2.48",
+            "White": "Masango, Spencer",
+            "Black": "Altell, Majed",
+            "WhiteElo": "2170",
+            "BlackElo": "1807"
+        }
+    },
+    "1B6/8/4k2n/1K2P3/p7/P7/8/8 b - -": {
+        "stm": "black",
+        "fmvn": 89,
+        "hmvc": 0,
+        "game": {
+            "move": "Nf7",
+            "score": -1141,
+            "rate": 0.01
+        },
+        "engine": {
+            "move": "Kd7",
+            "score": -46,
+            "rate": 0.46
+        },
+        "user": {
+            "Ng8": {
+                "score": -1109,
+                "rate": 0.01
+            },
+            "Nf7": {
+                "score": -1254,
+                "rate": 0.01
+            },
+            "Nf5": {
+                "score": -422,
+                "rate": 0.17
+            },
+            "Ng4": {
+                "score": -46,
+                "rate": 0.46
+            },
+            "Kf7": {
+                "score": -1321,
+                "rate": 0.01
+            },
+            "Ke7": {
+                "score": -1273,
+                "rate": 0.01
+            },
+            "Kd7": {
+                "score": -46,
+                "rate": 0.46
+            },
+            "Kf5": {
+                "score": -1383,
+                "rate": 0.0
+            },
+            "Kd5": {
+                "score": -46,
+                "rate": 0.46
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 1.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "44th Olympiad 2022",
+            "Date": "2022.07.30",
+            "Round": "2.48",
+            "White": "Zhemba, Jemusse",
+            "Black": "Isam, Gaith",
+            "WhiteElo": "2162",
+            "BlackElo": "1828"
+        }
+    },
+    "r5k1/1p6/rq2b1p1/1N1pPpPp/P1nP1P2/1Q6/R5B1/1R5K w - -": {
+        "stm": "white",
+        "fmvn": 33,
+        "hmvc": 9,
+        "game": {
+            "move": "Nd6",
+            "score": -91,
+            "rate": 0.41
+        },
+        "engine": {
+            "move": "Qb4",
+            "score": 134,
+            "rate": 0.63
+        },
+        "user": {
+            "Nc7": {
+                "score": -440,
+                "rate": 0.16
+            },
+            "Na7": {
+                "score": -588,
+                "rate": 0.09
+            },
+            "Nd6": {
+                "score": -91,
+                "rate": 0.41
+            },
+            "Nc3": {
+                "score": -72,
+                "rate": 0.43
+            },
+            "Na3": {
+                "score": -427,
+                "rate": 0.16
+            },
+            "Qxc4": {
+                "score": -770,
+                "rate": 0.05
+            },
+            "Qb4": {
+                "score": 134,
+                "rate": 0.63
+            },
+            "Qh3": {
+                "score": -5,
+                "rate": 0.5
+            },
+            "Qg3": {
+                "score": -16,
+                "rate": 0.48
+            },
+            "Qf3": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Qe3": {
+                "score": -1236,
+                "rate": 0.01
+            },
+            "Qd3": {
+                "score": 118,
+                "rate": 0.61
+            },
+            "Qc3": {
+                "score": -11,
+                "rate": 0.49
+            },
+            "Qa3": {
+                "score": -1032,
+                "rate": 0.02
+            },
+            "Qc2": {
+                "score": 90,
+                "rate": 0.59
+            },
+            "Qb2": {
+                "score": -739,
+                "rate": 0.06
+            },
+            "Qd1": {
+                "score": 95,
+                "rate": 0.59
+            },
+            "Bxd5": {
+                "score": -627,
+                "rate": 0.08
+            },
+            "Be4": {
+                "score": -692,
+                "rate": 0.07
+            },
+            "Bh3": {
+                "score": 82,
+                "rate": 0.58
+            },
+            "Bf3": {
+                "score": 126,
+                "rate": 0.62
+            },
+            "Bf1": {
+                "score": 95,
+                "rate": 0.59
+            },
+            "Ra3": {
+                "score": -360,
+                "rate": 0.2
+            },
+            "Rf2": {
+                "score": -45,
+                "rate": 0.46
+            },
+            "Re2": {
+                "score": 83,
+                "rate": 0.58
+            },
+            "Rd2": {
+                "score": -1188,
+                "rate": 0.01
+            },
+            "Rc2": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rab2": {
+                "score": -182,
+                "rate": 0.33
+            },
+            "Raa1": {
+                "score": -135,
+                "rate": 0.37
+            },
+            "Kh2": {
+                "score": 128,
+                "rate": 0.62
+            },
+            "Kg1": {
+                "score": 139,
+                "rate": 0.63
+            },
+            "Rbb2": {
+                "score": -278,
+                "rate": 0.26
+            },
+            "Rg1": {
+                "score": 94,
+                "rate": 0.59
+            },
+            "Rf1": {
+                "score": 89,
+                "rate": 0.58
+            },
+            "Re1": {
+                "score": 81,
+                "rate": 0.58
+            },
+            "Rd1": {
+                "score": 92,
+                "rate": 0.59
+            },
+            "Rc1": {
+                "score": 82,
+                "rate": 0.58
+            },
+            "Rba1": {
+                "score": 84,
+                "rate": 0.58
+            },
+            "a5": {
+                "score": 0,
+                "rate": 0.5
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 1.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "44th Olympiad 2022",
+            "Date": "2022.07.30",
+            "Round": "2.48",
+            "White": "Seder, Mohamad",
+            "Black": "Mwadzura, Roy",
+            "WhiteElo": "1950",
+            "BlackElo": "2093"
+        }
+    },
+    "r5k1/r7/2Q1q1p1/5pPp/P7/8/R7/2R4K b - -": {
+        "stm": "black",
+        "fmvn": 39,
+        "hmvc": 3,
+        "game": {
+            "move": "Qxc6+",
+            "score": 34,
+            "rate": 0.53
+        },
+        "engine": {
+            "move": "Qxa2",
+            "score": 873,
+            "rate": 0.97
+        },
+        "user": {
+            "Kh8": {
+                "score": -1261,
+                "rate": 0.01
+            },
+            "Kf8": {
+                "score": -1433,
+                "rate": 0.0
+            },
+            "Kh7": {
+                "score": -1323,
+                "rate": 0.01
+            },
+            "Kg7": {
+                "score": -1510,
+                "rate": 0.0
+            },
+            "Kf7": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rf8": {
+                "score": -1599,
+                "rate": 0.0
+            },
+            "Re8": {
+                "score": 14,
+                "rate": 0.51
+            },
+            "Rd8": {
+                "score": -1782,
+                "rate": 0.0
+            },
+            "Rc8": {
+                "score": -31995,
+                "rate": 0.0
+            },
+            "Rb8": {
+                "score": -1938,
+                "rate": 0.0
+            },
+            "Rh7": {
+                "score": -31993,
+                "rate": 0.0
+            },
+            "Rg7": {
+                "score": -1955,
+                "rate": 0.0
+            },
+            "Rf7": {
+                "score": -2190,
+                "rate": 0.0
+            },
+            "Re7": {
+                "score": -522,
+                "rate": 0.12
+            },
+            "Rd7": {
+                "score": -31994,
+                "rate": 0.0
+            },
+            "Rc7": {
+                "score": -31994,
+                "rate": 0.0
+            },
+            "Rb7": {
+                "score": -1959,
+                "rate": 0.0
+            },
+            "Ra6": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Ra5": {
+                "score": -31996,
+                "rate": 0.0
+            },
+            "Rxa4": {
+                "score": -31994,
+                "rate": 0.0
+            },
+            "Qe8": {
+                "score": 15,
+                "rate": 0.51
+            },
+            "Qc8": {
+                "score": -1292,
+                "rate": 0.01
+            },
+            "Qf7": {
+                "score": 148,
+                "rate": 0.64
+            },
+            "Qe7": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Qd7": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Qf6": {
+                "score": -1955,
+                "rate": 0.0
+            },
+            "Qd6": {
+                "score": -1958,
+                "rate": 0.0
+            },
+            "Qxc6+": {
+                "score": 25,
+                "rate": 0.52
+            },
+            "Qe5": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Qd5+": {
+                "score": -2212,
+                "rate": 0.0
+            },
+            "Qe4+": {
+                "score": 170,
+                "rate": 0.66
+            },
+            "Qc4": {
+                "score": -2057,
+                "rate": 0.0
+            },
+            "Qe3": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Qb3": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Qe2": {
+                "score": -31991,
+                "rate": 0.0
+            },
+            "Qxa2": {
+                "score": 847,
+                "rate": 0.96
+            },
+            "Qe1+": {
+                "score": -31991,
+                "rate": 0.0
+            },
+            "h4": {
+                "score": -31990,
+                "rate": 0.0
+            },
+            "f4": {
+                "score": -1859,
+                "rate": 0.0
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 1.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "44th Olympiad 2022",
+            "Date": "2022.07.30",
+            "Round": "2.48",
+            "White": "Seder, Mohamad",
+            "Black": "Mwadzura, Roy",
+            "WhiteElo": "1950",
+            "BlackElo": "2093"
+        }
+    },
+    "3r2k1/5pp1/4p2p/8/2RPb3/1p2P1qP/1P2Q1P1/3B3K b - -": {
+        "stm": "black",
+        "fmvn": 28,
+        "hmvc": 0,
+        "game": {
+            "move": "Qxh3+",
+            "score": 179,
+            "rate": 0.67
+        },
+        "engine": {
+            "move": "Ra8",
+            "score": 728,
+            "rate": 0.94
+        },
+        "user": {
+            "Kh8": {
+                "score": 263,
+                "rate": 0.73
+            },
+            "Kf8": {
+                "score": 234,
+                "rate": 0.71
+            },
+            "Kh7": {
+                "score": 165,
+                "rate": 0.65
+            },
+            "Rf8": {
+                "score": 247,
+                "rate": 0.72
+            },
+            "Re8": {
+                "score": 263,
+                "rate": 0.73
+            },
+            "Rc8": {
+                "score": -829,
+                "rate": 0.04
+            },
+            "Rb8": {
+                "score": 275,
+                "rate": 0.74
+            },
+            "Ra8": {
+                "score": 701,
+                "rate": 0.94
+            },
+            "Rd7": {
+                "score": 142,
+                "rate": 0.63
+            },
+            "Rd6": {
+                "score": 159,
+                "rate": 0.65
+            },
+            "Rd5": {
+                "score": 239,
+                "rate": 0.71
+            },
+            "Rxd4": {
+                "score": -732,
+                "rate": 0.06
+            },
+            "Ba8": {
+                "score": 11,
+                "rate": 0.51
+            },
+            "Bh7": {
+                "score": -14,
+                "rate": 0.49
+            },
+            "Bb7": {
+                "score": 119,
+                "rate": 0.61
+            },
+            "Bg6": {
+                "score": -10,
+                "rate": 0.49
+            },
+            "Bc6": {
+                "score": -640,
+                "rate": 0.08
+            },
+            "Bf5": {
+                "score": -13,
+                "rate": 0.49
+            },
+            "Bd5": {
+                "score": 124,
+                "rate": 0.62
+            },
+            "Bf3": {
+                "score": -728,
+                "rate": 0.06
+            },
+            "Bd3": {
+                "score": -654,
+                "rate": 0.08
+            },
+            "Bxg2+": {
+                "score": -100,
+                "rate": 0.41
+            },
+            "Bc2": {
+                "score": -28,
+                "rate": 0.47
+            },
+            "Bb1": {
+                "score": -16,
+                "rate": 0.48
+            },
+            "Qb8": {
+                "score": 36,
+                "rate": 0.53
+            },
+            "Qc7": {
+                "score": -1053,
+                "rate": 0.02
+            },
+            "Qg6": {
+                "score": 8,
+                "rate": 0.51
+            },
+            "Qd6": {
+                "score": 33,
+                "rate": 0.53
+            },
+            "Qg5": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Qe5": {
+                "score": -1023,
+                "rate": 0.02
+            },
+            "Qh4": {
+                "score": 32,
+                "rate": 0.53
+            },
+            "Qg4": {
+                "score": -1049,
+                "rate": 0.02
+            },
+            "Qf4": {
+                "score": -1087,
+                "rate": 0.02
+            },
+            "Qxh3+": {
+                "score": 163,
+                "rate": 0.65
+            },
+            "Qf3": {
+                "score": -1030,
+                "rate": 0.02
+            },
+            "Qxe3": {
+                "score": -1060,
+                "rate": 0.02
+            },
+            "Qh2+": {
+                "score": -1080,
+                "rate": 0.02
+            },
+            "Qxg2+": {
+                "score": -620,
+                "rate": 0.08
+            },
+            "Qf2": {
+                "score": -1095,
+                "rate": 0.01
+            },
+            "Qe1+": {
+                "score": -1048,
+                "rate": 0.02
+            },
+            "g6": {
+                "score": 234,
+                "rate": 0.71
+            },
+            "f6": {
+                "score": 23,
+                "rate": 0.52
+            },
+            "h5": {
+                "score": 273,
+                "rate": 0.74
+            },
+            "e5": {
+                "score": 112,
+                "rate": 0.61
+            },
+            "g5": {
+                "score": 237,
+                "rate": 0.71
+            },
+            "f5": {
+                "score": 246,
+                "rate": 0.72
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 1.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "44th Olympiad 2022",
+            "Date": "2022.07.30",
+            "Round": "2.49",
+            "White": "Estur, Gavino Aguilar",
+            "Black": "Kassis, Antoine LIB",
+            "WhiteElo": "1598",
+            "BlackElo": "2202"
+        }
     }
 }
