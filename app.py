@@ -65,9 +65,35 @@ def update_board_arrow(board):
 
 
 def main():
-    tab1, tab2, tab3 = st.tabs(['Load Test Positions', 'Evaluation', 'Setting'])
-    
+    tab1, tab2, tab3, tab4 = st.tabs(['Home', 'Load Test Positions', 'Evaluation', 'Setting'])
+
     with tab1:
+        cols = st.columns([1, 2, 1])
+        with cols[1]:
+            st.markdown('''
+            ### Training idea
+
+            The training positions are from the actual games where a player has played
+            a suboptimal move. You will be tested if you can find a better move as strong
+            as the engine move or better than the move played in the actual game.
+
+            The idea is from Uri Blass from [talkchess forum](https://www.talkchess.com/forum3/viewtopic.php?f=2&t=80593).
+            Some features are not yet implemented, like rating selection and a timer.
+
+            ### Download
+
+            You can download the training positions from the github repository or from google drive.
+            * [github](https://github.com/fsmosca/position-trainer/tree/main/data)  
+            * [google drive](https://drive.google.com/file/d/17vAgfjVbjCh8oFYLzcfdZsr_KhaW0hJY/view?usp=sharing)
+
+            ### Generate training positions
+
+            You can generate a training positions using the **test_generator.py** program that can be found in
+            the [github repository](https://github.com/fsmosca/position-trainer). The guide on how to run it
+            is also in that repository.
+            ''')
+    
+    with tab2:
         cols = st.columns([1, 3, 1])
         with cols[1]:
             fp = None
@@ -86,7 +112,7 @@ def main():
 
                 st.write(f'numpos {len(st.session_state.games)}')
                     
-    with tab2:
+    with tab3:
         if len(st.session_state.games) == 0:
             st.warning('There are no test positions generated')
 
@@ -196,7 +222,7 @@ def main():
                         else:
                             st.write(f'You played the same level as {game_player}')
 
-    with tab3:
+    with tab4:
         cols = st.columns([1, 3, 1])
 
         with cols[1]:
