@@ -1,7 +1,7 @@
 import json
 
 import streamlit as st
-from library.upload import upload_pgn
+from library.upload import upload_file
 import chess.pgn
 import chess.svg
 import chess
@@ -102,7 +102,7 @@ def main():
                 st.number_input('Minimum Rating', 1000, 5000, 1500, step=5, key='minrating')
                 st.number_input('Maximum Rating', 1100, 5000, 5000, step=5, key='maxrating')
 
-                fp = upload_pgn()
+                fp = upload_file()
                 if fp is not None:
                     data = json.load(fp)
 
