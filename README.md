@@ -7,7 +7,7 @@ Simulate from positions with bad moves.
 
 Go to this address https://fsmosca-position-trainer-app-nfsbbl.streamlitapp.com/
 
-Download the json training file inside the data folder or from [here](https://drive.google.com/file/d/17vAgfjVbjCh8oFYLzcfdZsr_KhaW0hJY/view?usp=sharing). It is a test file that is needed for training.
+Download the json training file inside the data folder or from [here](https://drive.google.com/drive/folders/1Epmc0EXAldKRJ41IaW9dOWEg3OO-uvgc). It is a test file that is needed for training.
 
 ### 2. Run the app locally from your browser
 
