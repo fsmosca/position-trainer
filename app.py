@@ -98,14 +98,22 @@ def main():
         with cols[1]:
             fp = None
             with st.expander('Upload json test file'):
+                st.number_input('Minimum Rating', 1000, 5000, 1500, step=5, key='minrating')
+                st.number_input('Maximum Rating', 1100, 5000, 5000, step=5, key='maxrating')
+
                 fp = upload_pgn()
                 if fp is not None:
-                    data = json.load(fp)                    
-                    keys = data.keys()
+                    data = json.load(fp)
 
-                    for i, epd in zip(range(len(data)), keys):
-                        st.session_state.games.update({i: [epd, data[epd]]})
-
+                    cnt = 0
+                    for epd, v in data.items():
+                        stm = v['stm']
+                        prating = v['header']['WhiteElo'] if stm == 'white' else v['header']['BlackElo']
+                        if prating != '?':
+                            prating = int(prating)
+                            if prating >= st.session_state.minrating and prating <= st.session_state.maxrating:
+                                st.session_state.games.update({cnt: [epd, data[epd]]})
+                                cnt += 1
                 else:
                     st.session_state.games = {}
                     st.session_state.posnum = 0
