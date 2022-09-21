@@ -3,6 +3,8 @@ Test your skill to find the best move from the given test position where the pla
 
 You can also generate test positions with the use of `test_generator.py` which can be found in this repository. You need the [stockfish](https://stockfishchess.org/) engine to analyze the positions where the test_generator saves interesting positions in json format. There is also a stockfish 15 compiled for modern hardware under the engine folder.
 
+Take a pgn file from [the week in chess](https://theweekinchess.com/) for example and generate test positions. It is better if the players have WhiteElo and BlackElo in the PGN because Position-Trainer can filter rating range and you can train on positions from those players with that filtered rating.
+
 ## Setup
 
 ### 1. Open the app from the cloud.
