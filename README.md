@@ -79,206 +79,173 @@ python test_generator.py --pgn-file ./pgn/stlbli22_4games.pgn --engine-file ./en
 
 ```
 {
-    "1r2r2k/3bbqpp/3p4/1NpP4/2P1QP2/6P1/1B5P/1R2R1K1 w - -": {
+    "5rk1/6pp/1q6/p2p1pQ1/1n3N2/6P1/2r2P1P/R4RK1 w - -": {
         "stm": "white",
-        "fmvn": 26,
-        "hmvc": 1,
+        "fmvn": 34,
+        "hmvc": 6,
         "game": {
-            "move": "Qf3",
-            "score": 5,
-            "rate": 0.5
+            "move": "Nh5",
+            "score": -237,
+            "rate": 0.29
         },
         "engine": {
-            "move": "Nc7",
-            "score": 319,
-            "rate": 0.77
+            "move": "Qe7",
+            "score": 0,
+            "rate": 0.5
         },
         "user": {
-            "Nc7": {
-                "score": 333,
-                "rate": 0.78
-            },
-            "Na7": {
-                "score": -412,
-                "rate": 0.17
-            },
-            "Nxd6": {
-                "score": -375,
-                "rate": 0.19
-            },
-            "Nd4": {
-                "score": -602,
-                "rate": 0.09
-            },
-            "Nc3": {
-                "score": -459,
-                "rate": 0.15
-            },
-            "Na3": {
-                "score": -354,
-                "rate": 0.2
-            },
-            "Qxh7+": {
-                "score": -986,
-                "rate": 0.02
-            },
-            "Qxe7": {
-                "score": -735,
-                "rate": 0.06
-            },
-            "Qg6": {
-                "score": -1151,
+            "Qd8": {
+                "score": -1229,
                 "rate": 0.01
             },
-            "Qe6": {
-                "score": -674,
-                "rate": 0.07
+            "Qxg7+": {
+                "score": -1090,
+                "rate": 0.02
             },
-            "Qf5": {
+            "Qe7": {
+                "score": -20,
+                "rate": 0.48
+            },
+            "Qh6": {
+                "score": -1159,
+                "rate": 0.01
+            },
+            "Qg6": {
+                "score": -1210,
+                "rate": 0.01
+            },
+            "Qf6": {
+                "score": -1194,
+                "rate": 0.01
+            },
+            "Qh5": {
+                "score": -91,
+                "rate": 0.41
+            },
+            "Qxf5": {
+                "score": -1132,
+                "rate": 0.01
+            },
+            "Qh4": {
+                "score": -84,
+                "rate": 0.42
+            },
+            "Qg4": {
                 "score": -1272,
                 "rate": 0.01
             },
-            "Qe5": {
-                "score": -893,
-                "rate": 0.03
+            "Ng6": {
+                "score": -832,
+                "rate": 0.04
             },
-            "Qd4": {
-                "score": -1014,
-                "rate": 0.02
+            "Ne6": {
+                "score": -799,
+                "rate": 0.04
             },
-            "Qf3": {
-                "score": 0,
-                "rate": 0.5
+            "Nh5": {
+                "score": -232,
+                "rate": 0.29
             },
-            "Qe3": {
-                "score": -51,
-                "rate": 0.45
+            "Nxd5": {
+                "score": -794,
+                "rate": 0.05
             },
-            "Qd3": {
-                "score": -176,
-                "rate": 0.34
-            },
-            "Qg2": {
-                "score": -47,
-                "rate": 0.46
-            },
-            "Qe2": {
-                "score": -71,
-                "rate": 0.43
-            },
-            "Qc2": {
-                "score": -263,
+            "Nh3": {
+                "score": -262,
                 "rate": 0.27
             },
-            "Qh1": {
-                "score": -58,
-                "rate": 0.44
+            "Nd3": {
+                "score": -850,
+                "rate": 0.04
             },
-            "Bxg7+": {
-                "score": -424,
-                "rate": 0.16
+            "Ng2": {
+                "score": -297,
+                "rate": 0.24
             },
-            "Bf6": {
-                "score": -494,
-                "rate": 0.13
-            },
-            "Be5": {
-                "score": -345,
-                "rate": 0.21
-            },
-            "Bd4": {
-                "score": -600,
-                "rate": 0.09
-            },
-            "Bc3": {
-                "score": -133,
-                "rate": 0.38
-            },
-            "Ba3": {
-                "score": -287,
-                "rate": 0.25
-            },
-            "Bc1": {
-                "score": -700,
-                "rate": 0.06
-            },
-            "Ba1": {
-                "score": -211,
-                "rate": 0.31
+            "Ne2": {
+                "score": -900,
+                "rate": 0.03
             },
             "Kg2": {
-                "score": -194,
-                "rate": 0.32
-            },
-            "Kf2": {
-                "score": -178,
-                "rate": 0.34
+                "score": -144,
+                "rate": 0.37
             },
             "Kh1": {
-                "score": -241,
-                "rate": 0.28
-            },
-            "Kf1": {
-                "score": -212,
-                "rate": 0.31
-            },
-            "Re3": {
-                "score": -470,
-                "rate": 0.14
-            },
-            "Re2": {
-                "score": -504,
-                "rate": 0.13
-            },
-            "Rf1": {
-                "score": -204,
-                "rate": 0.31
-            },
-            "Red1": {
-                "score": -220,
-                "rate": 0.3
-            },
-            "Rec1": {
-                "score": -270,
+                "score": -272,
                 "rate": 0.26
             },
-            "Rbd1": {
-                "score": -34,
-                "rate": 0.47
+            "Rfe1": {
+                "score": -31998,
+                "rate": 0.0
             },
-            "Rbc1": {
-                "score": -28,
-                "rate": 0.47
+            "Rfd1": {
+                "score": -31998,
+                "rate": 0.0
             },
-            "Ra1": {
-                "score": -28,
-                "rate": 0.47
+            "Rfc1": {
+                "score": -31998,
+                "rate": 0.0
             },
-            "f5": {
-                "score": -71,
-                "rate": 0.43
+            "Rfb1": {
+                "score": -31998,
+                "rate": 0.0
+            },
+            "Rxa5": {
+                "score": -682,
+                "rate": 0.07
+            },
+            "Ra4": {
+                "score": -132,
+                "rate": 0.38
+            },
+            "Ra3": {
+                "score": -111,
+                "rate": 0.4
+            },
+            "Ra2": {
+                "score": -888,
+                "rate": 0.03
+            },
+            "Rae1": {
+                "score": -121,
+                "rate": 0.39
+            },
+            "Rad1": {
+                "score": -79,
+                "rate": 0.42
+            },
+            "Rac1": {
+                "score": -141,
+                "rate": 0.37
+            },
+            "Rab1": {
+                "score": -209,
+                "rate": 0.31
             },
             "g4": {
-                "score": -476,
-                "rate": 0.14
+                "score": -499,
+                "rate": 0.13
             },
             "h3": {
-                "score": -323,
-                "rate": 0.22
+                "score": -84,
+                "rate": 0.42
             },
             "h4": {
-                "score": -228,
-                "rate": 0.29
+                "score": -79,
+                "rate": 0.42
             }
         },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 1.0,
+        "analysis_depth": 1000,
         "header": {
-            "Event": "Saint Louis Blitz 2022",
-            "Date": "2022.08.29",
+            "Event": "44th Olympiad 2022",
+            "Date": "2022.07.29",
             "Round": "1.1",
-            "White": "Nakamura, Hikaru",
-            "Black": "Caruana, Fabiano",
-            "WhiteElo": "2768",
-            "BlackElo": "2776"
+            "White": "Masango, Spencer",
+            "Black": "Erigaisi, Arjun",
+            "WhiteElo": "2170",
+            "BlackElo": "2689"
         }
     }
 }
