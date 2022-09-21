@@ -80,6 +80,20 @@ python test_generator.py --pgn-file ./pgn/stlbli22_4games.pgn --engine-file ./en
 
 ### Sample output
 
+The rate is based on the formula.
+
+```python
+def score_proba(score_cp):
+    K = 6
+    score_p = score_cp/100
+    return 1 / (1 + 10 **(-score_p/K))
+```
+
+`fmvn` is fullmove number  
+`hmvc` is half-move clock
+
+The `"analysis_movetime": 1.0,` is in seconds.
+
 ```
 {
     "5rk1/6pp/1q6/p2p1pQ1/1n3N2/6P1/2r2P1P/R4RK1 w - -": {
