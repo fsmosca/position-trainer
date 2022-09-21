@@ -65,15 +65,15 @@ The command `streamlit run app.py` will run streamlit server and a browser will 
   Network URL: http://192.168.254.104:8501
 ```
 
-## Generate training file in json format
+## Generate training positions
 
-Use the **test_generator.py** program to generate test positions.
+Use the **test_generator.py** program to generate test positions. The output is in json format that can be used by Position-Trainer.
 
 You need to install python chess with:  
 
 `pip install chess`
 
-**Command line**  
+**Run from the command line**  
 ```
 python test_generator.py --pgn-file ./pgn/stlbli22_4games.pgn --engine-file ./engine/sf15.exe --engine-hash-mb 128 --output-file mytest.json --movetime 1000
 ```
