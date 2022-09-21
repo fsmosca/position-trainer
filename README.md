@@ -4,6 +4,8 @@
 
 Test your skill to find the best move from the given test position where the player from the test sets fails to find. It generates a summary table with your selected move, the game move and the engine move. The test sets in json format can be found under the data folder.
 
+![image](https://user-images.githubusercontent.com/22366935/191389905-b44e4c0b-fcbc-4c40-af82-dd9ca3351e32.png)
+
 You can also generate test positions with the use of `test_generator.py` which can be found in this repository. You need the [stockfish](https://stockfishchess.org/) engine to analyze the positions where the test_generator saves interesting positions in json format. There is also a stockfish 15 compiled for modern hardware under the engine folder.
 
 Take a pgn file from [the week in chess](https://theweekinchess.com/) for example and generate test positions. It is better if the players have WhiteElo and BlackElo in the PGN because Position-Trainer can filter rating range and you can train on positions from those players with that filtered rating.
@@ -62,10 +64,6 @@ The command `streamlit run app.py` will run streamlit server and a browser will 
   Local URL: http://localhost:8501
   Network URL: http://192.168.254.104:8501
 ```
-
-### Train
-
-![image](https://user-images.githubusercontent.com/22366935/191387009-2ebf4e2a-9c87-460c-b9bf-e714d35dac9d.png)
 
 ## Generate training file in json format
 
