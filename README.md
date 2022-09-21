@@ -1,5 +1,7 @@
 # Position-Trainer
-Test your skill to find the best move from the given position where the player from the test sets fails to find. It generates a summary table with your selected move, the game move and the engine move. The test sets in json format can be found under the data folder.
+Test your skill to find the best move from the given test position where the player from the test sets fails to find. It generates a summary table with your selected move, the game move and the engine move. The test sets in json format can be found under the data folder.
+
+You can also generate test positions with the use of `test_generator.py` which can be found in this repository. You need the [stockfish](https://stockfishchess.org/) engine to analyze the positions where the test_generator saves interesting positions in json format. There is also a stockfish 15 compiled for modern hardware under the engine folder.
 
 ## Setup
 
