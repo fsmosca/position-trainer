@@ -58,7 +58,7 @@ The command `streamlit run app.py` will run streamlit server and a browser will 
 
 ### Train
 
-![image](https://user-images.githubusercontent.com/22366935/191024746-147cea23-b86f-43d8-a771-55d5755edf62.png)
+![image](https://user-images.githubusercontent.com/22366935/191387009-2ebf4e2a-9c87-460c-b9bf-e714d35dac9d.png)
 
 ## Generate training file in json format
 
