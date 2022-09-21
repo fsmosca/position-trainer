@@ -1,5 +1,5 @@
 # Position-Trainer
-Simulate from positions with bad moves.
+Test your skill to find the best move from the given position where the player from the test sets fails to find. It generates a summary table with your selected move, the game move and the engine move. The test sets in json format can be found under the data folder.
 
 ## Setup
 
