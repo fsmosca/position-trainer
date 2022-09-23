@@ -7,6 +7,7 @@ import chess.svg
 import chess
 import base64
 import pandas as pd
+from library.perf import expected_rating_diff
 
 
 st.set_page_config(
@@ -28,6 +29,8 @@ if 'selmove_from' not in st.session_state:
     st.session_state.selmove_from = None
 if 'selmove_to' not in st.session_state:
     st.session_state.selmove_to = None
+if 'user_perf_rating' not in st.session_state:
+    st.session_state.user_perf_rating = []
 
 
 analysis_sec = 1.0
@@ -44,6 +47,10 @@ def render_svg(svg, turn):
     html += f'Side to move: <span style="color:blue;"><strong>{stm}</strong></span><br>'
     html += f'Rating Range: <span style="color:red;"><strong>{st.session_state.minrating} - {st.session_state.maxrating}</strong></span>'
     st.write(html, unsafe_allow_html=True)
+
+
+def reset_perf():
+    st.session_state.user_perf_rating = []
 
 
 def increment():
@@ -145,6 +152,7 @@ def main():
             engine_move_san = st.session_state.games[c][1]['engine']['move']
             engine_score_cp = st.session_state.games[c][1]['engine']['score']
             engine_score_rate = st.session_state.games[c][1]['engine']['rate']
+            
             wp = st.session_state.games[c][1]['header']['White']
             bp = st.session_state.games[c][1]['header']['Black']
             wr = st.session_state.games[c][1]['header']['WhiteElo']
@@ -154,6 +162,8 @@ def main():
 
             board = chess.Board(fen)
             turn = board.turn
+
+            opp_rating = st.session_state.games[c][1]['header']['BlackElo' if turn else 'WhiteElo']
 
             with cols[0]:
                 if st.session_state.selmove_from is not None:
@@ -232,11 +242,27 @@ def main():
                         else:
                             st.write(f'You played the same level as {game_player} ({player_rating})')
 
+                    with st.expander('PERFORMANCE RATING'):
+                        engine_rd = expected_rating_diff(engine_score_rate)
+                        user_rd = expected_rating_diff(sel_score_rate)
+                        if opp_rating != '?':
+                            rd_diff = user_rd - engine_rd
+                            st.session_state.user_perf_rating.append(int(opp_rating) + round(rd_diff))
+
+                        average_perf = round(sum(st.session_state.user_perf_rating) / len(st.session_state.user_perf_rating))
+                        st.markdown(f'''
+                        User Performance Rating: <span style="color:green;"><strong>{average_perf}</strong></span>
+                        ''',
+                        unsafe_allow_html=True)
+                        st.write(st.session_state.user_perf_rating)
+
     with tab4:
         cols = st.columns([1, 3, 1])
 
         with cols[1]:
             st.number_input('Board width', 150, 800, 400, step=50, key='board_width')
+            st.button('Reset performance Rating', key='k_reset_perf', on_click=reset_perf,
+                       help='Press the "Load Next" button first in the Evaluation tab, before pressing this reset.')
 
 
 if __name__ == '__main__':
