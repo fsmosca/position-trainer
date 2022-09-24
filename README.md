@@ -4,7 +4,7 @@
 
 Test your skill to find the best move from the given test position where the player from the test sets fails to find. It generates a summary table with your selected move, the game move and the engine move. The test sets in json format can be found under the data folder.
 
-![image](https://user-images.githubusercontent.com/22366935/191389905-b44e4c0b-fcbc-4c40-af82-dd9ca3351e32.png)
+![image](https://user-images.githubusercontent.com/22366935/192098234-a5d947c7-aa45-4278-bbeb-26bb50777803.png)
 
 You can also generate test positions with the use of `test_generator.py` which can be found in this repository. You need the [stockfish](https://stockfishchess.org/) engine to analyze the positions where the test_generator saves interesting positions in json format. There is also a stockfish 15 compiled for modern hardware under the engine folder.
 
