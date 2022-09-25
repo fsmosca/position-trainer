@@ -1,4 +1,5 @@
 import json
+import random
 
 import streamlit as st
 from library.upload import upload_file
@@ -31,6 +32,10 @@ if 'selmove_to' not in st.session_state:
     st.session_state.selmove_to = None
 if 'user_perf_rating' not in st.session_state:
     st.session_state.user_perf_rating = []
+if 'is_test_pos_sorted' not in st.session_state:
+    st.session_state.is_test_pos_sorted = False
+if 'key_selmove' not in st.session_state:
+    st.session_state.key_selmove = 'Select a move'
 
 
 analysis_sec = 1.0
@@ -51,6 +56,8 @@ def render_svg(svg, turn):
 
 def reset_perf():
     st.session_state.user_perf_rating = []
+    st.session_state.key_selmove = 'Select a move'
+    increment()
 
 
 def increment():
@@ -61,9 +68,9 @@ def increment():
         st.session_state.posnum = 0
 
 
-def update_board_arrow(board):
+def update_board_arrow(board=None):
     sanmove = st.session_state.key_selmove
-    if sanmove == 'Select a move':
+    if sanmove == 'Select a move' or board is None:
         st.session_state.selmove_from = None
         st.session_state.selmove_to = None
     else:
@@ -109,22 +116,34 @@ def main():
                 st.number_input('Minimum Rating', 1000, 5000, 1500, step=5, key='minrating')
                 st.number_input('Maximum Rating', 1100, 5000, 5000, step=5, key='maxrating')
 
+                # Load test file.
                 fp = upload_file()
                 if fp is not None:
                     data = json.load(fp)
 
-                    cnt = 0
-                    for epd, v in data.items():
-                        stm = v['stm']
-                        prating = v['header']['WhiteElo'] if stm == 'white' else v['header']['BlackElo']
-                        if prating != '?':
-                            prating = int(prating)
-                            if prating >= st.session_state.minrating and prating <= st.session_state.maxrating:
-                                st.session_state.games.update({cnt: [epd, data[epd]]})
-                                cnt += 1
+                    # Shuffle
+                    if not st.session_state.is_test_pos_sorted:
+                        st.session_state.is_test_pos_sorted = True
+                        data_list = list(data.items())
+                        random.shuffle(data_list)
+                        data = dict(data_list)
+                        update_board_arrow(None)
+
+                        # Reformat data and save to games dict that is suitable for the app.
+                        cnt = 0
+                        for epd, v in data.items():
+                            stm = v['stm']
+                            prating = v['header']['WhiteElo'] if stm == 'white' else v['header']['BlackElo']
+                            if prating != '?':
+                                prating = int(prating)
+                                if prating >= st.session_state.minrating and prating <= st.session_state.maxrating:
+                                    st.session_state.games.update({cnt: [epd, data[epd]]})
+                                    cnt += 1
                 else:
+                    # Reset if new test file is loaded.
                     st.session_state.games = {}
                     st.session_state.posnum = 0
+                    st.session_state.is_test_pos_sorted = False
 
                 st.write(f'numpos {len(st.session_state.games)}')
                     
@@ -195,7 +214,8 @@ def main():
                     **{event}, {da}**
                     ''')
 
-                # st.button('Legal moves', disabled=True, key='key_legalmoves')
+                sel_move_san = st.session_state.key_selmove
+
                 with st.expander('Select a move', expanded=False):
                     sel_move_san = st.radio('', options=legal_moves_san,
                     horizontal=True,
@@ -203,10 +223,7 @@ def main():
                     args=[board],
                     key='key_selmove')
 
-            sel_move_san = st.session_state.key_selmove
-
             if sel_move_san != 'Select a move':
-                # Analyze the sel move with the engine.
                 if sel_move_san == engine_move_san:
                     sel_score_cp = engine_score_cp
                     sel_score_rate = engine_score_rate
@@ -261,8 +278,7 @@ def main():
 
         with cols[1]:
             st.number_input('Board width', 150, 800, 400, step=50, key='board_width')
-            st.button('Reset performance Rating', key='k_reset_perf', on_click=reset_perf,
-                       help='Press the "Load Next" button first in the Evaluation tab, before pressing this reset.')
+            st.button('Reset performance Rating', key='k_reset_perf', on_click=reset_perf)
 
 
 if __name__ == '__main__':
