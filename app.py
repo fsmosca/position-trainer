@@ -93,7 +93,9 @@ def main():
             as the engine move or better than the move played in the actual game.
 
             The idea is from Uri Blass from [talkchess forum](https://www.talkchess.com/forum3/viewtopic.php?f=2&t=80593).
-            Some features are not yet implemented, like rating selection and a timer.
+            Solving timer is not yet implemented.
+
+            If you solve a test position, the performance rating will be calculated.
 
             ### Download
 
