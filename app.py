@@ -36,6 +36,8 @@ if 'is_test_pos_sorted' not in st.session_state:
     st.session_state.is_test_pos_sorted = False
 if 'key_selmove' not in st.session_state:
     st.session_state.key_selmove = 'Select a move'
+if 'sort_test_set' not in st.session_state:
+    st.session_state.sort_test_set = False
 
 
 analysis_sec = 1.0
@@ -54,6 +56,10 @@ def render_svg(svg, turn):
     st.write(html, unsafe_allow_html=True)
 
 
+def sort_test_set():
+    st.session_state.sort_test_set = True
+    increment()
+
 def reset_perf():
     st.session_state.user_perf_rating = []
     st.session_state.key_selmove = 'Select a move'
@@ -66,6 +72,18 @@ def increment():
     st.session_state.posnum += 1
     if st.session_state.posnum >= st.session_state.maxpos:
         st.session_state.posnum = 0
+
+
+def update_games(data):
+    cnt = 0
+    for epd, v in data.items():
+        stm = v['stm']
+        prating = v['header']['WhiteElo'] if stm == 'white' else v['header']['BlackElo']
+        if prating != '?':
+            prating = int(prating)
+            if prating >= st.session_state.minrating and prating <= st.session_state.maxrating:
+                st.session_state.games.update({cnt: [epd, data[epd]]})
+                cnt += 1
 
 
 def update_board_arrow(board=None):
@@ -117,6 +135,7 @@ def main():
             with st.expander('Upload json test file'):
                 st.number_input('Minimum Rating', 1000, 5000, 1500, step=5, key='minrating')
                 st.number_input('Maximum Rating', 1100, 5000, 5000, step=5, key='maxrating')
+                st.session_state.sort_test_set = st.checkbox('Sort test set', value=False, key='k_sort_test_set')
 
                 # Load test file.
                 fp = upload_file()
@@ -124,23 +143,19 @@ def main():
                     data = json.load(fp)
 
                     # Shuffle
-                    if not st.session_state.is_test_pos_sorted:
-                        st.session_state.is_test_pos_sorted = True
-                        data_list = list(data.items())
-                        random.shuffle(data_list)
-                        data = dict(data_list)
-                        update_board_arrow(None)
+                    if st.session_state.sort_test_set:
+                        if not st.session_state.is_test_pos_sorted:
+                            st.session_state.is_test_pos_sorted = True
+                            data_list = list(data.items())
+                            random.shuffle(data_list)
+                            data = dict(data_list)
+                            update_board_arrow(None)
 
-                        # Reformat data and save to games dict that is suitable for the app.
-                        cnt = 0
-                        for epd, v in data.items():
-                            stm = v['stm']
-                            prating = v['header']['WhiteElo'] if stm == 'white' else v['header']['BlackElo']
-                            if prating != '?':
-                                prating = int(prating)
-                                if prating >= st.session_state.minrating and prating <= st.session_state.maxrating:
-                                    st.session_state.games.update({cnt: [epd, data[epd]]})
-                                    cnt += 1
+                            # Reformat data and save to games dict that is suitable for the app.
+                            update_games(data)
+                    else:
+                        update_games(data)
+
                 else:
                     # Reset if new test file is loaded.
                     st.session_state.games = {}
