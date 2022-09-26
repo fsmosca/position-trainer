@@ -22,6 +22,6 @@ def expected_rating_diff(rate: float, K=600):
     Returns:
       The expected rating difference.
     """
-    rate = max(0.01, rate)
+    rate = min(0.99, max(0.01, rate))
     rd = -K * math.log10((1.0 - rate)/rate)
     return min(700, max(-700, rd))
