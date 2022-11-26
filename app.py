@@ -14,7 +14,12 @@ from library.perf import expected_rating_diff
 st.set_page_config(
     page_title="Position Trainer",
     page_icon="🧊",
-    layout="wide"
+    layout="wide",
+    menu_items={
+        'Get Help': 'https://github.com/fsmosca/position-trainer',
+        'Report a bug': "https://github.com/fsmosca/position-trainer/issues",
+        'About': "#### Train on chess positions from amateur to Grandmasters."
+    }
 )
 
 
@@ -38,10 +43,8 @@ if 'key_selmove' not in st.session_state:
     st.session_state.key_selmove = 'Select a move'
 if 'sort_test_set' not in st.session_state:
     st.session_state.sort_test_set = False
-
-
-analysis_sec = 1.0
-engine_file = 'engine/sf15.exe'  # Todo: load by button
+if 'board_width' not in st.session_state:
+    st.session_state.board_width = 400
 
 
 def render_svg(svg, turn):
@@ -124,45 +127,88 @@ def main():
             ### Generate training positions
 
             You can generate a training positions using the **test_generator.py** program that can be found in
-            the [github repository](https://github.com/fsmosca/position-trainer). The guide on how to run it
+            the [github repository](https://github.com/fsmosca/position-trainer). The guide to run it,
             is also in that repository.
+
+            ### Starting a training
+
+            * Go to Load Test Position tab.  
+            * Go to Evaluation to tab.
             ''')
     
     with tab2:
         cols = st.columns([1, 3, 1])
         with cols[1]:
             fp = None
-            with st.expander('Upload json test file'):
-                st.number_input('Minimum Rating', 1000, 5000, 1500, step=5, key='minrating')
+
+            with st.expander('Guide', expanded=False):
+                st.markdown(f'''
+                After loading the file either via upload or from built-in test file selection,
+                select the Evaluation tab to start solving positions.
+                ''')
+
+
+            with st.expander('Upload json test file', expanded=True):
+                st.number_input(
+                    'Minimum Rating', 1000, 5000, 1500, step=5,
+                    key='minrating',
+                    help='The minimum rating in the test position. '
+                    'Increase this number if you want to train on positions '
+                    'where strong players failed to find the best move.')
                 st.number_input('Maximum Rating', 1100, 5000, 5000, step=5, key='maxrating')
-                st.session_state.sort_test_set = st.checkbox('Sort test set', value=False, key='k_sort_test_set')
+                st.session_state.sort_test_set = st.checkbox('Shuffle test positions', value=True, key='k_sort_test_set')
+                is_load_pre_built = st.checkbox('Load Pre-built Position File', value=True)
 
                 # Load test file.
-                fp = upload_file()
-                if fp is not None:
-                    data = json.load(fp)
+                if is_load_pre_built:
+                    file_list = ['european_ind_2022.json', 'Olympiad_2022.json',
+                                 'ftx_crypto_2022.json', 'Saint_Louis_Blitz_2022.json']
+                    loaded_fn = st.selectbox('Select pre-built test file', options=file_list)
+                    with open(f'./data/{loaded_fn}') as fp:
+                        data = json.load(fp)
 
-                    # Shuffle
-                    if st.session_state.sort_test_set:
-                        if not st.session_state.is_test_pos_sorted:
-                            st.session_state.is_test_pos_sorted = True
-                            data_list = list(data.items())
-                            random.shuffle(data_list)
-                            data = dict(data_list)
-                            update_board_arrow(None)
+                        # Shuffle
+                        if st.session_state.sort_test_set:
+                            if not st.session_state.is_test_pos_sorted:
+                                st.session_state.is_test_pos_sorted = True
+                                data_list = list(data.items())
+                                random.shuffle(data_list)
+                                data = dict(data_list)
+                                update_board_arrow(None)
 
-                            # Reformat data and save to games dict that is suitable for the app.
+                                # Reformat data and save to games dict that is suitable for the app.
+                                update_games(data)
+                        else:
                             update_games(data)
-                    else:
-                        update_games(data)
+
+                        st.write(f'pos file: {loaded_fn}, numpos {len(data)}')
 
                 else:
-                    # Reset if new test file is loaded.
-                    st.session_state.games = {}
-                    st.session_state.posnum = 0
-                    st.session_state.is_test_pos_sorted = False
+                    fp = upload_file()
+                    if fp is not None:
+                        data = json.load(fp)
 
-                st.write(f'numpos {len(st.session_state.games)}')
+                        # Shuffle
+                        if st.session_state.sort_test_set:
+                            if not st.session_state.is_test_pos_sorted:
+                                st.session_state.is_test_pos_sorted = True
+                                data_list = list(data.items())
+                                random.shuffle(data_list)
+                                data = dict(data_list)
+                                update_board_arrow(None)
+
+                                # Reformat data and save to games dict that is suitable for the app.
+                                update_games(data)
+                        else:
+                            update_games(data)
+
+                    else:
+                        # Reset if new test file is loaded.
+                        st.session_state.games = {}
+                        st.session_state.posnum = 0
+                        st.session_state.is_test_pos_sorted = False
+
+                    st.write(f'numpos {len(st.session_state.games)}')
                     
     with tab3:
         if len(st.session_state.games) == 0:
@@ -233,7 +279,7 @@ def main():
 
                 sel_move_san = st.session_state.key_selmove
 
-                with st.expander('Select a move', expanded=False):
+                with st.expander('Select a move', expanded=True):
                     sel_move_san = st.radio('', options=legal_moves_san,
                     horizontal=True,
                     on_change=update_board_arrow,
