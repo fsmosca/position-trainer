@@ -156,14 +156,20 @@ def main():
                     'Increase this number if you want to train on positions '
                     'where strong players failed to find the best move.')
                 st.number_input('Maximum Rating', 1100, 5000, 5000, step=5, key='maxrating')
-                st.session_state.sort_test_set = st.checkbox('Shuffle test positions', value=True, key='k_sort_test_set')
-                is_load_pre_built = st.checkbox('Load Pre-built Position File', value=True)
+                st.session_state.sort_test_set = st.checkbox(
+                    label='Shuffle test positions', value=True,
+                    key='k_sort_test_set')
+                is_load_pre_built = st.checkbox(
+                    label='Load Pre-built Position File', value=True,
+                    key='pre_built')
 
                 # Load test file.
                 if is_load_pre_built:
                     file_list = ['european_ind_2022.json', 'Olympiad_2022.json',
                                  'ftx_crypto_2022.json', 'Saint_Louis_Blitz_2022.json']
-                    loaded_fn = st.selectbox('Select pre-built test file', options=file_list)
+                    loaded_fn = st.selectbox(
+                        label='Select pre-built test file',
+                        options=file_list)
                     with open(f'./data/{loaded_fn}') as fp:
                         data = json.load(fp)
 
