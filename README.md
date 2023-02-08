@@ -1,5 +1,5 @@
 # Position-Trainer
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fsmosca-position-trainer-app-nfsbbl.streamlitapp.com/) 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://position-trainer.streamlit.app/) 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/release/python-3914/)
 
 Test your skill to find the best move from the given test position where the player from the test sets fails to find. It generates a summary table with your selected move, the game move and the engine move. The test sets in json format can be found under the data folder.
@@ -14,7 +14,7 @@ Take a pgn file from [the week in chess](https://theweekinchess.com/) for exampl
 
 ### 1. Open the app from the cloud.
 
-Go to this address https://fsmosca-position-trainer-app-nfsbbl.streamlitapp.com/
+Go to this address https://position-trainer.streamlit.app/
 
 Download the json training file inside the data folder or from [here](https://drive.google.com/drive/folders/1Epmc0EXAldKRJ41IaW9dOWEg3OO-uvgc). It is a test file that is needed for training.
 
