@@ -65,6 +65,12 @@ def reset_test_data():
     st.session_state.is_test_pos_sorted = False
 
 
+@st.cache_data(ttl=300)
+def read_positions(fn):
+    with open(f'./data/{fn}') as fp:
+        data = json.load(fp)
+    return data
+
 def sort_test_set():
     st.session_state.sort_test_set = True
     increment()
@@ -176,28 +182,27 @@ def main():
                     loaded_fn = st.selectbox(
                         label='Select pre-built test file',
                         options=file_list)
-                    with open(f'./data/{loaded_fn}') as fp:
-                        data = json.load(fp)
 
-                        # Shuffle
-                        if st.session_state.sort_test_set:
-                            if not st.session_state.is_test_pos_sorted:
-                                st.session_state.is_test_pos_sorted = True
-                                data_list = list(data.items())
-                                random.shuffle(data_list)
-                                data = dict(data_list)
-                                update_board_arrow(None)
+                    data = read_positions(loaded_fn)
+                    
+                    # Shuffle
+                    if st.session_state.sort_test_set:
+                        if not st.session_state.is_test_pos_sorted:
+                            st.session_state.is_test_pos_sorted = True
+                            data_list = list(data.items())
+                            random.shuffle(data_list)
+                            data = dict(data_list)
+                            update_board_arrow(None)
 
-                                # Reformat data and save to games dict that is suitable for the app.
-                                st.session_state.games = {}
-                                st.session_state.posnum = 0
-                                update_games(data)
-                            else:
-                                update_games(data)
+                            st.session_state.games = {}
+                            st.session_state.posnum = 0
+                            update_games(data)
                         else:
                             update_games(data)
+                    else:
+                        update_games(data)
 
-                        st.write(f'pos file: {loaded_fn}, numpos {len(data)}')
+                    st.write(f'pos file: {loaded_fn}, numpos {len(data)}')
 
                 else:
                     fp = upload_file()
