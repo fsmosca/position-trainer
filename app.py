@@ -286,11 +286,12 @@ def main():
                 sel_move_san = st.session_state.key_selmove
 
                 with st.expander('Select a move', expanded=True):
-                    sel_move_san = st.radio('', options=legal_moves_san,
+                    sel_move_san = st.radio('Select a move', options=legal_moves_san,
                     horizontal=True,
                     on_change=update_board_arrow,
                     args=[board],
-                    key='key_selmove')
+                    key='key_selmove',
+                    label_visibility='collapsed')
 
             if sel_move_san != 'Select a move':
                 if sel_move_san == engine_move_san:
