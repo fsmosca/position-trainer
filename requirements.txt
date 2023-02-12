@@ -1,2 +1,2 @@
-streamlit
-chess
+streamlit==1.18.1
+chess==1.9.3
