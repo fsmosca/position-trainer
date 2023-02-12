@@ -59,6 +59,12 @@ def render_svg(svg, turn):
     st.write(html, unsafe_allow_html=True)
 
 
+def reset_test_data():
+    st.session_state.games = {}
+    st.session_state.posnum = 0
+    st.session_state.is_test_pos_sorted = False
+
+
 def sort_test_set():
     st.session_state.sort_test_set = True
     increment()
@@ -183,6 +189,10 @@ def main():
                                 update_board_arrow(None)
 
                                 # Reformat data and save to games dict that is suitable for the app.
+                                st.session_state.games = {}
+                                st.session_state.posnum = 0
+                                update_games(data)
+                            else:
                                 update_games(data)
                         else:
                             update_games(data)
@@ -209,16 +219,16 @@ def main():
                             update_games(data)
 
                     else:
-                        # Reset if new test file is loaded.
-                        st.session_state.games = {}
-                        st.session_state.posnum = 0
-                        st.session_state.is_test_pos_sorted = False
+                        reset_test_data()
 
                     st.write(f'numpos {len(st.session_state.games)}')
                     
     with tab3:
         if len(st.session_state.games) == 0:
-            st.warning('There are no test positions loaded, go to the Load Test Positions page.')
+            st.warning("""
+            There are no test positions loaded, go to the Load Test Positions page. 
+            Adjust the rating range if necessary.
+            """)
 
         # Display the fen, board and legal moves.
         if len(st.session_state.games):
