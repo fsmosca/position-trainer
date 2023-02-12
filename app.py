@@ -113,7 +113,9 @@ def update_board_arrow(board=None):
 
 
 def main():
-    tab1, tab2, tab3, tab4 = st.tabs(['Home', 'Load Test Positions', 'Evaluation', 'Setting'])
+    tab1, tab2, tab3, tab4 = st.tabs(
+        [':church: Home', ':bowl_with_spoon: Load Test Positions',
+         ':chart_with_upwards_trend: Evaluation', ':pick: Setting'])
 
     with tab1:
         cols = st.columns([1, 2, 1])
