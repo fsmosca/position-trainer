@@ -1,0 +1,5110 @@
+{
+    "3rrk2/8/bp3q2/2p2Npp/1P1bB1p1/8/P1Q2P1P/2RR2K1 w - -": {
+        "stm": "white",
+        "fmvn": 31,
+        "hmvc": 1,
+        "game": {
+            "move": "a3",
+            "score": -298,
+            "rate": 0.24
+        },
+        "engine": {
+            "move": "a4",
+            "score": -45,
+            "rate": 0.46
+        },
+        "user": {
+            "Ng7": {
+                "score": -1036,
+                "rate": 0.02
+            },
+            "Ne7": {
+                "score": -1089,
+                "rate": 0.02
+            },
+            "Nh6": {
+                "score": -721,
+                "rate": 0.06
+            },
+            "Nd6": {
+                "score": -1073,
+                "rate": 0.02
+            },
+            "Nh4": {
+                "score": -1097,
+                "rate": 0.01
+            },
+            "Nxd4": {
+                "score": -276,
+                "rate": 0.26
+            },
+            "Ng3": {
+                "score": -496,
+                "rate": 0.13
+            },
+            "Ne3": {
+                "score": -492,
+                "rate": 0.13
+            },
+            "Ba8": {
+                "score": -1069,
+                "rate": 0.02
+            },
+            "Bb7": {
+                "score": -1001,
+                "rate": 0.02
+            },
+            "Bc6": {
+                "score": -1067,
+                "rate": 0.02
+            },
+            "Bd5": {
+                "score": -1111,
+                "rate": 0.01
+            },
+            "Bf3": {
+                "score": -928,
+                "rate": 0.03
+            },
+            "Bd3": {
+                "score": -916,
+                "rate": 0.03
+            },
+            "Bg2": {
+                "score": -761,
+                "rate": 0.05
+            },
+            "Bh1": {
+                "score": -1080,
+                "rate": 0.02
+            },
+            "Qxc5+": {
+                "score": -1592,
+                "rate": 0.0
+            },
+            "Qc4": {
+                "score": -1542,
+                "rate": 0.0
+            },
+            "Qa4": {
+                "score": -692,
+                "rate": 0.07
+            },
+            "Qd3": {
+                "score": -1805,
+                "rate": 0.0
+            },
+            "Qc3": {
+                "score": -1634,
+                "rate": 0.0
+            },
+            "Qb3": {
+                "score": -923,
+                "rate": 0.03
+            },
+            "Qe2": {
+                "score": -1720,
+                "rate": 0.0
+            },
+            "Qd2": {
+                "score": -1097,
+                "rate": 0.01
+            },
+            "Qb2": {
+                "score": -1776,
+                "rate": 0.0
+            },
+            "Qb1": {
+                "score": -232,
+                "rate": 0.29
+            },
+            "Kg2": {
+                "score": -370,
+                "rate": 0.19
+            },
+            "Kh1": {
+                "score": -463,
+                "rate": 0.14
+            },
+            "Rxd4": {
+                "score": -625,
+                "rate": 0.08
+            },
+            "Rd3": {
+                "score": -879,
+                "rate": 0.03
+            },
+            "Rd2": {
+                "score": -273,
+                "rate": 0.26
+            },
+            "Rf1": {
+                "score": -593,
+                "rate": 0.09
+            },
+            "Re1": {
+                "score": -362,
+                "rate": 0.2
+            },
+            "Rb1": {
+                "score": -212,
+                "rate": 0.31
+            },
+            "Ra1": {
+                "score": -927,
+                "rate": 0.03
+            },
+            "bxc5": {
+                "score": -298,
+                "rate": 0.24
+            },
+            "b5": {
+                "score": -375,
+                "rate": 0.19
+            },
+            "h3": {
+                "score": -471,
+                "rate": 0.14
+            },
+            "a3": {
+                "score": -328,
+                "rate": 0.22
+            },
+            "h4": {
+                "score": -461,
+                "rate": 0.15
+            },
+            "a4": {
+                "score": -95,
+                "rate": 0.41
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.14",
+            "Round": "1.3",
+            "White": "Gukesh, D",
+            "Black": "Ding, Liren",
+            "WhiteElo": "2725",
+            "BlackElo": "2811"
+        }
+    },
+    "5k2/3R4/8/P5PK/r7/7P/3b1P2/8 b - -": {
+        "stm": "black",
+        "fmvn": 44,
+        "hmvc": 6,
+        "game": {
+            "move": "Bc3",
+            "score": -321,
+            "rate": 0.23
+        },
+        "engine": {
+            "move": "Be1",
+            "score": -66,
+            "rate": 0.44
+        },
+        "user": {
+            "Kg8": {
+                "score": -1186,
+                "rate": 0.01
+            },
+            "Ke8": {
+                "score": -1193,
+                "rate": 0.01
+            },
+            "Rxa5": {
+                "score": -1362,
+                "rate": 0.01
+            },
+            "Rh4+": {
+                "score": -2561,
+                "rate": 0.0
+            },
+            "Rg4": {
+                "score": -31974,
+                "rate": 0.0
+            },
+            "Rf4": {
+                "score": -1366,
+                "rate": 0.01
+            },
+            "Re4": {
+                "score": -1424,
+                "rate": 0.0
+            },
+            "Rd4": {
+                "score": -2411,
+                "rate": 0.0
+            },
+            "Rc4": {
+                "score": -1430,
+                "rate": 0.0
+            },
+            "Rb4": {
+                "score": -1458,
+                "rate": 0.0
+            },
+            "Ra3": {
+                "score": -1418,
+                "rate": 0.0
+            },
+            "Ra2": {
+                "score": -507,
+                "rate": 0.13
+            },
+            "Ra1": {
+                "score": -1463,
+                "rate": 0.0
+            },
+            "Bxg5": {
+                "score": -757,
+                "rate": 0.05
+            },
+            "Bxa5": {
+                "score": -1046,
+                "rate": 0.02
+            },
+            "Bf4": {
+                "score": -512,
+                "rate": 0.12
+            },
+            "Bb4": {
+                "score": -1451,
+                "rate": 0.0
+            },
+            "Be3": {
+                "score": -1629,
+                "rate": 0.0
+            },
+            "Bc3": {
+                "score": -321,
+                "rate": 0.23
+            },
+            "Be1": {
+                "score": -112,
+                "rate": 0.39
+            },
+            "Bc1": {
+                "score": -523,
+                "rate": 0.12
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.15",
+            "Round": "2.2",
+            "White": "Ding, Liren",
+            "Black": "Maghsoodloo, Parham",
+            "WhiteElo": "2811",
+            "BlackElo": "2719"
+        }
+    },
+    "5k2/3R3K/8/6PP/r7/2b5/5P2/8 b - -": {
+        "stm": "black",
+        "fmvn": 48,
+        "hmvc": 0,
+        "game": {
+            "move": "Rf4",
+            "score": -558,
+            "rate": 0.11
+        },
+        "engine": {
+            "move": "Ke8",
+            "score": -57,
+            "rate": 0.45
+        },
+        "user": {
+            "Ke8": {
+                "score": -56,
+                "rate": 0.45
+            },
+            "Ra8": {
+                "score": -1038,
+                "rate": 0.02
+            },
+            "Ra7": {
+                "score": -2602,
+                "rate": 0.0
+            },
+            "Ra6": {
+                "score": -1156,
+                "rate": 0.01
+            },
+            "Ra5": {
+                "score": -512,
+                "rate": 0.12
+            },
+            "Rh4": {
+                "score": -943,
+                "rate": 0.03
+            },
+            "Rg4": {
+                "score": -1121,
+                "rate": 0.01
+            },
+            "Rf4": {
+                "score": -670,
+                "rate": 0.07
+            },
+            "Re4": {
+                "score": -1227,
+                "rate": 0.01
+            },
+            "Rd4": {
+                "score": -2190,
+                "rate": 0.0
+            },
+            "Rc4": {
+                "score": -1241,
+                "rate": 0.01
+            },
+            "Rb4": {
+                "score": -1228,
+                "rate": 0.01
+            },
+            "Ra3": {
+                "score": -1270,
+                "rate": 0.01
+            },
+            "Ra2": {
+                "score": -874,
+                "rate": 0.03
+            },
+            "Ra1": {
+                "score": -1281,
+                "rate": 0.01
+            },
+            "Bh8": {
+                "score": -1938,
+                "rate": 0.0
+            },
+            "Bg7": {
+                "score": -15265,
+                "rate": 0.0
+            },
+            "Bf6": {
+                "score": -1289,
+                "rate": 0.01
+            },
+            "Be5": {
+                "score": -1297,
+                "rate": 0.01
+            },
+            "Ba5": {
+                "score": -1360,
+                "rate": 0.01
+            },
+            "Bd4": {
+                "score": -1447,
+                "rate": 0.0
+            },
+            "Bb4": {
+                "score": -1424,
+                "rate": 0.0
+            },
+            "Bd2": {
+                "score": -1626,
+                "rate": 0.0
+            },
+            "Bb2": {
+                "score": -1207,
+                "rate": 0.01
+            },
+            "Be1": {
+                "score": -1370,
+                "rate": 0.01
+            },
+            "Ba1": {
+                "score": -1370,
+                "rate": 0.01
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.15",
+            "Round": "2.2",
+            "White": "Ding, Liren",
+            "Black": "Maghsoodloo, Parham",
+            "WhiteElo": "2811",
+            "BlackElo": "2719"
+        }
+    },
+    "5k2/3R3K/8/6PP/5r2/2b5/5P2/8 w - -": {
+        "stm": "white",
+        "fmvn": 49,
+        "hmvc": 1,
+        "game": {
+            "move": "Rd3",
+            "score": 103,
+            "rate": 0.6
+        },
+        "engine": {
+            "move": "Rc7",
+            "score": 734,
+            "rate": 0.94
+        },
+        "user": {
+            "Kh6": {
+                "score": 29,
+                "rate": 0.53
+            },
+            "Kg6": {
+                "score": 50,
+                "rate": 0.55
+            },
+            "Rd8+": {
+                "score": 636,
+                "rate": 0.92
+            },
+            "Rg7": {
+                "score": -31984,
+                "rate": 0.0
+            },
+            "Rf7+": {
+                "score": -31982,
+                "rate": 0.0
+            },
+            "Re7": {
+                "score": -31985,
+                "rate": 0.0
+            },
+            "Rc7": {
+                "score": 744,
+                "rate": 0.95
+            },
+            "Rb7": {
+                "score": 133,
+                "rate": 0.62
+            },
+            "Ra7": {
+                "score": 132,
+                "rate": 0.62
+            },
+            "Rd6": {
+                "score": 48,
+                "rate": 0.55
+            },
+            "Rd5": {
+                "score": 44,
+                "rate": 0.54
+            },
+            "Rd4": {
+                "score": -31983,
+                "rate": 0.0
+            },
+            "Rd3": {
+                "score": 110,
+                "rate": 0.6
+            },
+            "Rd2": {
+                "score": -31980,
+                "rate": 0.0
+            },
+            "Rd1": {
+                "score": 39,
+                "rate": 0.54
+            },
+            "h6": {
+                "score": 123,
+                "rate": 0.62
+            },
+            "g6": {
+                "score": 256,
+                "rate": 0.73
+            },
+            "f3": {
+                "score": 123,
+                "rate": 0.62
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.15",
+            "Round": "2.2",
+            "White": "Ding, Liren",
+            "Black": "Maghsoodloo, Parham",
+            "WhiteElo": "2811",
+            "BlackElo": "2719"
+        }
+    },
+    "rn1r2k1/pp2qpp1/1bb1p2p/8/2BPN3/P4N2/1PQ1RPPP/4R1K1 b - -": {
+        "stm": "black",
+        "fmvn": 17,
+        "hmvc": 8,
+        "game": {
+            "move": "Kh8",
+            "score": -306,
+            "rate": 0.24
+        },
+        "engine": {
+            "move": "Bd5",
+            "score": -57,
+            "rate": 0.45
+        },
+        "user": {
+            "Kh8": {
+                "score": -291,
+                "rate": 0.25
+            },
+            "Kf8": {
+                "score": -591,
+                "rate": 0.09
+            },
+            "Kh7": {
+                "score": -31998,
+                "rate": 0.0
+            },
+            "Rf8": {
+                "score": -874,
+                "rate": 0.03
+            },
+            "Re8": {
+                "score": -592,
+                "rate": 0.09
+            },
+            "Rc8": {
+                "score": -650,
+                "rate": 0.08
+            },
+            "Rd7": {
+                "score": -698,
+                "rate": 0.06
+            },
+            "Rd6": {
+                "score": -1085,
+                "rate": 0.02
+            },
+            "Rd5": {
+                "score": -597,
+                "rate": 0.09
+            },
+            "Rxd4": {
+                "score": -300,
+                "rate": 0.24
+            },
+            "Nd7": {
+                "score": -234,
+                "rate": 0.29
+            },
+            "Na6": {
+                "score": -115,
+                "rate": 0.39
+            },
+            "Qf8": {
+                "score": -1073,
+                "rate": 0.02
+            },
+            "Qe8": {
+                "score": -969,
+                "rate": 0.02
+            },
+            "Qd7": {
+                "score": -790,
+                "rate": 0.05
+            },
+            "Qc7": {
+                "score": -1072,
+                "rate": 0.02
+            },
+            "Qf6": {
+                "score": -31990,
+                "rate": 0.0
+            },
+            "Qd6": {
+                "score": -1172,
+                "rate": 0.01
+            },
+            "Qg5": {
+                "score": -2057,
+                "rate": 0.0
+            },
+            "Qc5": {
+                "score": -1336,
+                "rate": 0.01
+            },
+            "Qh4": {
+                "score": -1094,
+                "rate": 0.01
+            },
+            "Qb4": {
+                "score": -1179,
+                "rate": 0.01
+            },
+            "Qxa3": {
+                "score": -1101,
+                "rate": 0.01
+            },
+            "Be8": {
+                "score": -607,
+                "rate": 0.09
+            },
+            "Bd7": {
+                "score": -387,
+                "rate": 0.18
+            },
+            "Bd5": {
+                "score": -58,
+                "rate": 0.44
+            },
+            "Bb5": {
+                "score": -694,
+                "rate": 0.07
+            },
+            "Bxe4": {
+                "score": -481,
+                "rate": 0.14
+            },
+            "Ba4": {
+                "score": -677,
+                "rate": 0.07
+            },
+            "Bc7": {
+                "score": -686,
+                "rate": 0.07
+            },
+            "Bc5": {
+                "score": -781,
+                "rate": 0.05
+            },
+            "Ba5": {
+                "score": -829,
+                "rate": 0.04
+            },
+            "Bxd4": {
+                "score": -383,
+                "rate": 0.19
+            },
+            "g6": {
+                "score": -717,
+                "rate": 0.06
+            },
+            "f6": {
+                "score": -1990,
+                "rate": 0.0
+            },
+            "a6": {
+                "score": -466,
+                "rate": 0.14
+            },
+            "h5": {
+                "score": -1343,
+                "rate": 0.01
+            },
+            "e5": {
+                "score": -902,
+                "rate": 0.03
+            },
+            "g5": {
+                "score": -1062,
+                "rate": 0.02
+            },
+            "f5": {
+                "score": -845,
+                "rate": 0.04
+            },
+            "a5": {
+                "score": -479,
+                "rate": 0.14
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.15",
+            "Round": "2.6",
+            "White": "Giri, Anish",
+            "Black": "Gukesh, D",
+            "WhiteElo": "2764",
+            "BlackElo": "2725"
+        }
+    },
+    "8/6p1/1N2Pk2/p2K3p/1b6/6P1/6P1/8 w - -": {
+        "stm": "white",
+        "fmvn": 55,
+        "hmvc": 8,
+        "game": {
+            "move": "g4",
+            "score": -335,
+            "rate": 0.22
+        },
+        "engine": {
+            "move": "Nd7+",
+            "score": -62,
+            "rate": 0.44
+        },
+        "user": {
+            "Nc8": {
+                "score": -902,
+                "rate": 0.03
+            },
+            "Na8": {
+                "score": -885,
+                "rate": 0.03
+            },
+            "Nd7+": {
+                "score": -62,
+                "rate": 0.44
+            },
+            "Nc4": {
+                "score": -762,
+                "rate": 0.05
+            },
+            "Na4": {
+                "score": -575,
+                "rate": 0.1
+            },
+            "Kc6": {
+                "score": -934,
+                "rate": 0.03
+            },
+            "Ke4": {
+                "score": -740,
+                "rate": 0.06
+            },
+            "Kd4": {
+                "score": -741,
+                "rate": 0.06
+            },
+            "Kc4": {
+                "score": -799,
+                "rate": 0.04
+            },
+            "e7": {
+                "score": -884,
+                "rate": 0.03
+            },
+            "g4": {
+                "score": -375,
+                "rate": 0.19
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.16",
+            "Round": "3.5",
+            "White": "Erigaisi, Arjun",
+            "Black": "Aronian, Levon",
+            "WhiteElo": "2722",
+            "BlackElo": "2735"
+        }
+    },
+    "8/4k1p1/1N2P3/p3K3/6pb/8/6P1/8 b - -": {
+        "stm": "black",
+        "fmvn": 60,
+        "hmvc": 9,
+        "game": {
+            "move": "Kd8",
+            "score": 55,
+            "rate": 0.55
+        },
+        "engine": {
+            "move": "Bg3+",
+            "score": 505,
+            "rate": 0.87
+        },
+        "user": {
+            "Kf8": {
+                "score": 55,
+                "rate": 0.55
+            },
+            "Ke8": {
+                "score": 445,
+                "rate": 0.85
+            },
+            "Kd8": {
+                "score": 54,
+                "rate": 0.55
+            },
+            "Bf6+": {
+                "score": 479,
+                "rate": 0.86
+            },
+            "Bg5": {
+                "score": 53,
+                "rate": 0.55
+            },
+            "Bg3+": {
+                "score": 485,
+                "rate": 0.87
+            },
+            "Bf2": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Be1": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "g6": {
+                "score": 53,
+                "rate": 0.55
+            },
+            "a4": {
+                "score": -50,
+                "rate": 0.45
+            },
+            "g3": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "g5": {
+                "score": -1075,
+                "rate": 0.02
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.16",
+            "Round": "3.5",
+            "White": "Erigaisi, Arjun",
+            "Black": "Aronian, Levon",
+            "WhiteElo": "2722",
+            "BlackElo": "2735"
+        }
+    },
+    "r2qr1k1/2p2pbp/p1n1bnp1/1p4B1/3pN3/2P2N1P/PPB2PP1/R2QR1K1 w - -": {
+        "stm": "white",
+        "fmvn": 17,
+        "hmvc": 2,
+        "game": {
+            "move": "Bb3",
+            "score": 27,
+            "rate": 0.53
+        },
+        "engine": {
+            "move": "cxd4",
+            "score": 287,
+            "rate": 0.75
+        },
+        "user": {
+            "Bh6": {
+                "score": -769,
+                "rate": 0.05
+            },
+            "Bxf6": {
+                "score": -52,
+                "rate": 0.45
+            },
+            "Bh4": {
+                "score": 42,
+                "rate": 0.54
+            },
+            "Bf4": {
+                "score": -222,
+                "rate": 0.3
+            },
+            "Be3": {
+                "score": -742,
+                "rate": 0.05
+            },
+            "Bd2": {
+                "score": -184,
+                "rate": 0.33
+            },
+            "Bc1": {
+                "score": -264,
+                "rate": 0.27
+            },
+            "Nxf6+": {
+                "score": 89,
+                "rate": 0.58
+            },
+            "Nd6": {
+                "score": -744,
+                "rate": 0.05
+            },
+            "Nc5": {
+                "score": -44,
+                "rate": 0.46
+            },
+            "Ng3": {
+                "score": -243,
+                "rate": 0.28
+            },
+            "Ned2": {
+                "score": -284,
+                "rate": 0.25
+            },
+            "Ne5": {
+                "score": -614,
+                "rate": 0.09
+            },
+            "Nh4": {
+                "score": -103,
+                "rate": 0.4
+            },
+            "Nxd4": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Nh2": {
+                "score": -32,
+                "rate": 0.47
+            },
+            "Nfd2": {
+                "score": -124,
+                "rate": 0.38
+            },
+            "Ba4": {
+                "score": -496,
+                "rate": 0.13
+            },
+            "Bd3": {
+                "score": -102,
+                "rate": 0.4
+            },
+            "Bb3": {
+                "score": 39,
+                "rate": 0.54
+            },
+            "Bb1": {
+                "score": -138,
+                "rate": 0.37
+            },
+            "Kh2": {
+                "score": -52,
+                "rate": 0.45
+            },
+            "Kh1": {
+                "score": -80,
+                "rate": 0.42
+            },
+            "Kf1": {
+                "score": -33,
+                "rate": 0.47
+            },
+            "Re3": {
+                "score": -604,
+                "rate": 0.09
+            },
+            "Re2": {
+                "score": -53,
+                "rate": 0.45
+            },
+            "Rf1": {
+                "score": -104,
+                "rate": 0.4
+            },
+            "Qxd4": {
+                "score": -660,
+                "rate": 0.07
+            },
+            "Qd3": {
+                "score": -36,
+                "rate": 0.47
+            },
+            "Qe2": {
+                "score": -85,
+                "rate": 0.42
+            },
+            "Qd2": {
+                "score": 45,
+                "rate": 0.54
+            },
+            "Qc1": {
+                "score": 67,
+                "rate": 0.56
+            },
+            "Qb1": {
+                "score": -136,
+                "rate": 0.37
+            },
+            "Rc1": {
+                "score": -17,
+                "rate": 0.48
+            },
+            "Rb1": {
+                "score": -50,
+                "rate": 0.45
+            },
+            "cxd4": {
+                "score": 282,
+                "rate": 0.75
+            },
+            "h4": {
+                "score": -35,
+                "rate": 0.47
+            },
+            "c4": {
+                "score": -42,
+                "rate": 0.46
+            },
+            "g3": {
+                "score": -140,
+                "rate": 0.37
+            },
+            "b3": {
+                "score": -12,
+                "rate": 0.49
+            },
+            "a3": {
+                "score": -4,
+                "rate": 0.5
+            },
+            "g4": {
+                "score": -29,
+                "rate": 0.47
+            },
+            "b4": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "a4": {
+                "score": 114,
+                "rate": 0.61
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.17",
+            "Round": "4.4",
+            "White": "Abdusattorov, Nodirbek",
+            "Black": "Maghsoodloo, Parham",
+            "WhiteElo": "2713",
+            "BlackElo": "2719"
+        }
+    },
+    "3b2k1/5p2/6p1/2p1P3/PpP4P/5NP1/5P2/1nB3K1 b - -": {
+        "stm": "black",
+        "fmvn": 34,
+        "hmvc": 0,
+        "game": {
+            "move": "b3",
+            "score": -363,
+            "rate": 0.2
+        },
+        "engine": {
+            "move": "Nc3",
+            "score": -87,
+            "rate": 0.42
+        },
+        "user": {
+            "Kh8": {
+                "score": -665,
+                "rate": 0.07
+            },
+            "Kf8": {
+                "score": -565,
+                "rate": 0.1
+            },
+            "Kh7": {
+                "score": -638,
+                "rate": 0.08
+            },
+            "Kg7": {
+                "score": -554,
+                "rate": 0.11
+            },
+            "Be7": {
+                "score": -717,
+                "rate": 0.06
+            },
+            "Bc7": {
+                "score": -584,
+                "rate": 0.1
+            },
+            "Bf6": {
+                "score": -1159,
+                "rate": 0.01
+            },
+            "Bb6": {
+                "score": -633,
+                "rate": 0.08
+            },
+            "Bg5": {
+                "score": -1140,
+                "rate": 0.01
+            },
+            "Ba5": {
+                "score": -400,
+                "rate": 0.18
+            },
+            "Bxh4": {
+                "score": -900,
+                "rate": 0.03
+            },
+            "Nc3": {
+                "score": -78,
+                "rate": 0.43
+            },
+            "Na3": {
+                "score": -605,
+                "rate": 0.09
+            },
+            "Nd2": {
+                "score": -1016,
+                "rate": 0.02
+            },
+            "f6": {
+                "score": -524,
+                "rate": 0.12
+            },
+            "g5": {
+                "score": -601,
+                "rate": 0.09
+            },
+            "b3": {
+                "score": -455,
+                "rate": 0.15
+            },
+            "f5": {
+                "score": -565,
+                "rate": 0.1
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.20",
+            "Round": "6.1",
+            "White": "So, Wesley",
+            "Black": "Keymer, Vincent",
+            "WhiteElo": "2760",
+            "BlackElo": "2696"
+        }
+    },
+    "8/8/8/4K1k1/6pp/3q4/6P1/6Q1 b - -": {
+        "stm": "black",
+        "fmvn": 84,
+        "hmvc": 5,
+        "game": {
+            "move": "Qe2+",
+            "score": 216,
+            "rate": 0.7
+        },
+        "engine": {
+            "move": "Qf5+",
+            "score": 562,
+            "rate": 0.9
+        },
+        "user": {
+            "Kh6": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Kg6": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Kh5": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Qd8": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Qh7": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Qd7": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Qg6": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Qd6+": {
+                "score": -31992,
+                "rate": 0.0
+            },
+            "Qa6": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Qf5+": {
+                "score": 562,
+                "rate": 0.9
+            },
+            "Qd5+": {
+                "score": -31993,
+                "rate": 0.0
+            },
+            "Qb5+": {
+                "score": 407,
+                "rate": 0.83
+            },
+            "Qe4+": {
+                "score": -31992,
+                "rate": 0.0
+            },
+            "Qd4+": {
+                "score": -31995,
+                "rate": 0.0
+            },
+            "Qc4": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Qh3": {
+                "score": -31994,
+                "rate": 0.0
+            },
+            "Qg3+": {
+                "score": 192,
+                "rate": 0.68
+            },
+            "Qf3": {
+                "score": -31994,
+                "rate": 0.0
+            },
+            "Qe3+": {
+                "score": -31994,
+                "rate": 0.0
+            },
+            "Qc3+": {
+                "score": 557,
+                "rate": 0.89
+            },
+            "Qb3": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Qa3": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Qe2+": {
+                "score": 192,
+                "rate": 0.68
+            },
+            "Qd2": {
+                "score": 192,
+                "rate": 0.68
+            },
+            "Qc2": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Qf1": {
+                "score": -31995,
+                "rate": 0.0
+            },
+            "Qd1": {
+                "score": -31994,
+                "rate": 0.0
+            },
+            "Qb1": {
+                "score": -31996,
+                "rate": 0.0
+            },
+            "h3": {
+                "score": 257,
+                "rate": 0.73
+            },
+            "g3": {
+                "score": 0,
+                "rate": 0.5
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.21",
+            "Round": "7.3",
+            "White": "Maghsoodloo, Parham",
+            "Black": "Caruana, Fabiano",
+            "WhiteElo": "2719",
+            "BlackElo": "2766"
+        }
+    },
+    "2kr3r/pp3pp1/2p2q2/2b2b1p/3Pp3/2N1B3/PP2BKPP/R2Q1R2 b - -": {
+        "stm": "black",
+        "fmvn": 19,
+        "hmvc": 1,
+        "game": {
+            "move": "Qh4+",
+            "score": -375,
+            "rate": 0.19
+        },
+        "engine": {
+            "move": "Bxd4",
+            "score": -96,
+            "rate": 0.41
+        },
+        "user": {
+            "Rhg8": {
+                "score": -194,
+                "rate": 0.32
+            },
+            "Rhf8": {
+                "score": -179,
+                "rate": 0.33
+            },
+            "Rhe8": {
+                "score": -189,
+                "rate": 0.33
+            },
+            "Rh7": {
+                "score": -273,
+                "rate": 0.26
+            },
+            "Rh6": {
+                "score": -263,
+                "rate": 0.27
+            },
+            "Rdg8": {
+                "score": -1056,
+                "rate": 0.02
+            },
+            "Rdf8": {
+                "score": -998,
+                "rate": 0.02
+            },
+            "Rde8": {
+                "score": -1034,
+                "rate": 0.02
+            },
+            "Rd7": {
+                "score": -200,
+                "rate": 0.32
+            },
+            "Rd6": {
+                "score": -381,
+                "rate": 0.19
+            },
+            "Rd5": {
+                "score": -1094,
+                "rate": 0.01
+            },
+            "Rxd4": {
+                "score": -219,
+                "rate": 0.3
+            },
+            "Kb8": {
+                "score": -204,
+                "rate": 0.31
+            },
+            "Kd7": {
+                "score": -1049,
+                "rate": 0.02
+            },
+            "Kc7": {
+                "score": -553,
+                "rate": 0.11
+            },
+            "Qe7": {
+                "score": -362,
+                "rate": 0.2
+            },
+            "Qh6": {
+                "score": -959,
+                "rate": 0.02
+            },
+            "Qg6": {
+                "score": -318,
+                "rate": 0.23
+            },
+            "Qe6": {
+                "score": -400,
+                "rate": 0.18
+            },
+            "Qd6": {
+                "score": -756,
+                "rate": 0.05
+            },
+            "Qg5": {
+                "score": -973,
+                "rate": 0.02
+            },
+            "Qe5": {
+                "score": -1137,
+                "rate": 0.01
+            },
+            "Qh4+": {
+                "score": -377,
+                "rate": 0.19
+            },
+            "Qxd4": {
+                "score": -460,
+                "rate": 0.15
+            },
+            "Bh7+": {
+                "score": -544,
+                "rate": 0.11
+            },
+            "Bd7+": {
+                "score": -477,
+                "rate": 0.14
+            },
+            "Bg6+": {
+                "score": -193,
+                "rate": 0.32
+            },
+            "Be6+": {
+                "score": -153,
+                "rate": 0.36
+            },
+            "Bg4+": {
+                "score": -407,
+                "rate": 0.17
+            },
+            "Bh3+": {
+                "score": -362,
+                "rate": 0.2
+            },
+            "Bf8": {
+                "score": -555,
+                "rate": 0.11
+            },
+            "Be7": {
+                "score": -545,
+                "rate": 0.11
+            },
+            "Bd6": {
+                "score": -376,
+                "rate": 0.19
+            },
+            "Bb6": {
+                "score": -189,
+                "rate": 0.33
+            },
+            "Bxd4": {
+                "score": -121,
+                "rate": 0.39
+            },
+            "Bb4": {
+                "score": -548,
+                "rate": 0.11
+            },
+            "Ba3": {
+                "score": -987,
+                "rate": 0.02
+            },
+            "g6": {
+                "score": -122,
+                "rate": 0.39
+            },
+            "b6": {
+                "score": -642,
+                "rate": 0.08
+            },
+            "a6": {
+                "score": -215,
+                "rate": 0.3
+            },
+            "h4": {
+                "score": -239,
+                "rate": 0.29
+            },
+            "g5": {
+                "score": -475,
+                "rate": 0.14
+            },
+            "b5": {
+                "score": -535,
+                "rate": 0.11
+            },
+            "a5": {
+                "score": -321,
+                "rate": 0.23
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.21",
+            "Round": "7.6",
+            "White": "Carlsen, Magnus",
+            "Black": "Rapport, Richard",
+            "WhiteElo": "2859",
+            "BlackElo": "2740"
+        }
+    },
+    "8/8/1p2kpp1/2p1P2p/5P2/P1R3PK/1P5P/3r4 w - -": {
+        "stm": "white",
+        "fmvn": 48,
+        "hmvc": 0,
+        "game": {
+            "move": "Rb3",
+            "score": 0,
+            "rate": 0.5
+        },
+        "engine": {
+            "move": "exf6",
+            "score": 238,
+            "rate": 0.71
+        },
+        "user": {
+            "Kh4": {
+                "score": -3,
+                "rate": 0.5
+            },
+            "Kg2": {
+                "score": -2,
+                "rate": 0.5
+            },
+            "Rxc5": {
+                "score": -1060,
+                "rate": 0.02
+            },
+            "Rc4": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rf3": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Re3": {
+                "score": 9,
+                "rate": 0.51
+            },
+            "Rd3": {
+                "score": -1288,
+                "rate": 0.01
+            },
+            "Rb3": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rc2": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rc1": {
+                "score": -1163,
+                "rate": 0.01
+            },
+            "exf6": {
+                "score": 234,
+                "rate": 0.71
+            },
+            "f5+": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "g4": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "a4": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "b3": {
+                "score": -17,
+                "rate": 0.48
+            },
+            "b4": {
+                "score": 0,
+                "rate": 0.5
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.21",
+            "Round": "7.7",
+            "White": "Keymer, Vincent",
+            "Black": "Ding, Liren",
+            "WhiteElo": "2696",
+            "BlackElo": "2811"
+        }
+    },
+    "1r1qrbk1/2p2pp1/p1b2n1p/P3P3/3P4/NB4BP/6P1/R2QR1K1 w - -": {
+        "stm": "white",
+        "fmvn": 22,
+        "hmvc": 1,
+        "game": {
+            "move": "Bc2",
+            "score": -388,
+            "rate": 0.18
+        },
+        "engine": {
+            "move": "Qc2",
+            "score": -6,
+            "rate": 0.49
+        },
+        "user": {
+            "Bh4": {
+                "score": -61,
+                "rate": 0.44
+            },
+            "Bf4": {
+                "score": -218,
+                "rate": 0.3
+            },
+            "Bh2": {
+                "score": -412,
+                "rate": 0.17
+            },
+            "Bf2": {
+                "score": -150,
+                "rate": 0.36
+            },
+            "Bxf7+": {
+                "score": -384,
+                "rate": 0.19
+            },
+            "Be6": {
+                "score": -861,
+                "rate": 0.04
+            },
+            "Bd5": {
+                "score": -971,
+                "rate": 0.02
+            },
+            "Bc4": {
+                "score": -61,
+                "rate": 0.44
+            },
+            "Ba4": {
+                "score": -160,
+                "rate": 0.35
+            },
+            "Bc2": {
+                "score": -437,
+                "rate": 0.16
+            },
+            "Ba2": {
+                "score": -285,
+                "rate": 0.25
+            },
+            "Nb5": {
+                "score": -556,
+                "rate": 0.11
+            },
+            "Nc4": {
+                "score": -69,
+                "rate": 0.43
+            },
+            "Nc2": {
+                "score": -661,
+                "rate": 0.07
+            },
+            "Nb1": {
+                "score": -748,
+                "rate": 0.05
+            },
+            "Kh2": {
+                "score": -65,
+                "rate": 0.44
+            },
+            "Kf2": {
+                "score": -826,
+                "rate": 0.04
+            },
+            "Kh1": {
+                "score": -272,
+                "rate": 0.26
+            },
+            "Kf1": {
+                "score": -687,
+                "rate": 0.07
+            },
+            "Re4": {
+                "score": -1074,
+                "rate": 0.02
+            },
+            "Re3": {
+                "score": -43,
+                "rate": 0.46
+            },
+            "Re2": {
+                "score": -824,
+                "rate": 0.04
+            },
+            "Rf1": {
+                "score": -31,
+                "rate": 0.47
+            },
+            "Qh5": {
+                "score": -1761,
+                "rate": 0.0
+            },
+            "Qg4": {
+                "score": -1776,
+                "rate": 0.0
+            },
+            "Qf3": {
+                "score": -1336,
+                "rate": 0.01
+            },
+            "Qd3": {
+                "score": -37,
+                "rate": 0.46
+            },
+            "Qe2": {
+                "score": -993,
+                "rate": 0.02
+            },
+            "Qd2": {
+                "score": -1011,
+                "rate": 0.02
+            },
+            "Qc2": {
+                "score": -22,
+                "rate": 0.48
+            },
+            "Qc1": {
+                "score": -800,
+                "rate": 0.04
+            },
+            "Qb1": {
+                "score": -747,
+                "rate": 0.05
+            },
+            "Ra2": {
+                "score": -279,
+                "rate": 0.26
+            },
+            "Rc1": {
+                "score": -46,
+                "rate": 0.46
+            },
+            "Rb1": {
+                "score": -240,
+                "rate": 0.28
+            },
+            "exf6": {
+                "score": -508,
+                "rate": 0.12
+            },
+            "e6": {
+                "score": -71,
+                "rate": 0.43
+            },
+            "d5": {
+                "score": -131,
+                "rate": 0.38
+            },
+            "h4": {
+                "score": -378,
+                "rate": 0.19
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.22",
+            "Round": "8.2",
+            "White": "Caruana, Fabiano",
+            "Black": "Carlsen, Magnus",
+            "WhiteElo": "2766",
+            "BlackElo": "2859"
+        }
+    },
+    "1Q6/5pk1/7p/P4np1/8/6PP/2r2qB1/6RK w - -": {
+        "stm": "white",
+        "fmvn": 41,
+        "hmvc": 7,
+        "game": {
+            "move": "a6",
+            "score": -331,
+            "rate": 0.22
+        },
+        "engine": {
+            "move": "g4",
+            "score": 0,
+            "rate": 0.5
+        },
+        "user": {
+            "Qh8+": {
+                "score": -31995,
+                "rate": 0.0
+            },
+            "Qg8+": {
+                "score": -31995,
+                "rate": 0.0
+            },
+            "Qf8+": {
+                "score": -31995,
+                "rate": 0.0
+            },
+            "Qe8": {
+                "score": -31993,
+                "rate": 0.0
+            },
+            "Qd8": {
+                "score": -31993,
+                "rate": 0.0
+            },
+            "Qc8": {
+                "score": -31994,
+                "rate": 0.0
+            },
+            "Qa8": {
+                "score": -31991,
+                "rate": 0.0
+            },
+            "Qc7": {
+                "score": -31994,
+                "rate": 0.0
+            },
+            "Qb7": {
+                "score": -31991,
+                "rate": 0.0
+            },
+            "Qa7": {
+                "score": -31993,
+                "rate": 0.0
+            },
+            "Qd6": {
+                "score": -31996,
+                "rate": 0.0
+            },
+            "Qb6": {
+                "score": -31993,
+                "rate": 0.0
+            },
+            "Qe5+": {
+                "score": -121,
+                "rate": 0.39
+            },
+            "Qb5": {
+                "score": -31993,
+                "rate": 0.0
+            },
+            "Qf4": {
+                "score": -31995,
+                "rate": 0.0
+            },
+            "Qb4": {
+                "score": -958,
+                "rate": 0.02
+            },
+            "Qb3": {
+                "score": -943,
+                "rate": 0.03
+            },
+            "Qb2+": {
+                "score": -31995,
+                "rate": 0.0
+            },
+            "Qb1": {
+                "score": -31993,
+                "rate": 0.0
+            },
+            "Ba8": {
+                "score": -31999,
+                "rate": 0.0
+            },
+            "Bb7": {
+                "score": -31999,
+                "rate": 0.0
+            },
+            "Bc6": {
+                "score": -31999,
+                "rate": 0.0
+            },
+            "Bd5": {
+                "score": -31999,
+                "rate": 0.0
+            },
+            "Be4": {
+                "score": -31999,
+                "rate": 0.0
+            },
+            "Bf3": {
+                "score": -31999,
+                "rate": 0.0
+            },
+            "Bf1": {
+                "score": -31999,
+                "rate": 0.0
+            },
+            "Kh2": {
+                "score": -691,
+                "rate": 0.07
+            },
+            "Rf1": {
+                "score": -31999,
+                "rate": 0.0
+            },
+            "Re1": {
+                "score": -31999,
+                "rate": 0.0
+            },
+            "Rd1": {
+                "score": -31999,
+                "rate": 0.0
+            },
+            "Rc1": {
+                "score": -31999,
+                "rate": 0.0
+            },
+            "Rb1": {
+                "score": -31999,
+                "rate": 0.0
+            },
+            "Ra1": {
+                "score": -31999,
+                "rate": 0.0
+            },
+            "a6": {
+                "score": -337,
+                "rate": 0.22
+            },
+            "h4": {
+                "score": -31995,
+                "rate": 0.0
+            },
+            "g4": {
+                "score": 0,
+                "rate": 0.5
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.22",
+            "Round": "8.7",
+            "White": "Gukesh, D",
+            "Black": "Maghsoodloo, Parham",
+            "WhiteElo": "2725",
+            "BlackElo": "2719"
+        }
+    },
+    "1Q6/5pk1/P6p/5np1/8/6PP/2r2qB1/6RK b - -": {
+        "stm": "black",
+        "fmvn": 41,
+        "hmvc": 0,
+        "game": {
+            "move": "Ra2",
+            "score": 0,
+            "rate": 0.5
+        },
+        "engine": {
+            "move": "Nxg3+",
+            "score": 402,
+            "rate": 0.82
+        },
+        "user": {
+            "Kh7": {
+                "score": -716,
+                "rate": 0.06
+            },
+            "Kg6": {
+                "score": -720,
+                "rate": 0.06
+            },
+            "Kf6": {
+                "score": -533,
+                "rate": 0.11
+            },
+            "Ne7": {
+                "score": -402,
+                "rate": 0.18
+            },
+            "Nd6": {
+                "score": -716,
+                "rate": 0.06
+            },
+            "Nh4": {
+                "score": -845,
+                "rate": 0.04
+            },
+            "Nd4": {
+                "score": -625,
+                "rate": 0.08
+            },
+            "Nxg3+": {
+                "score": 406,
+                "rate": 0.83
+            },
+            "Ne3": {
+                "score": -694,
+                "rate": 0.07
+            },
+            "Qa7": {
+                "score": -1328,
+                "rate": 0.01
+            },
+            "Qb6": {
+                "score": -1641,
+                "rate": 0.0
+            },
+            "Qc5": {
+                "score": -468,
+                "rate": 0.14
+            },
+            "Qf4": {
+                "score": -1819,
+                "rate": 0.0
+            },
+            "Qd4": {
+                "score": -494,
+                "rate": 0.13
+            },
+            "Qxg3": {
+                "score": -454,
+                "rate": 0.15
+            },
+            "Qf3": {
+                "score": -2133,
+                "rate": 0.0
+            },
+            "Qe3": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Qxg2+": {
+                "score": -1542,
+                "rate": 0.0
+            },
+            "Qe2": {
+                "score": -653,
+                "rate": 0.08
+            },
+            "Qd2": {
+                "score": -879,
+                "rate": 0.03
+            },
+            "Qxg1+": {
+                "score": -1075,
+                "rate": 0.02
+            },
+            "Qf1": {
+                "score": -31974,
+                "rate": 0.0
+            },
+            "Qe1": {
+                "score": -3537,
+                "rate": 0.0
+            },
+            "Rc8": {
+                "score": -693,
+                "rate": 0.07
+            },
+            "Rc7": {
+                "score": -1426,
+                "rate": 0.0
+            },
+            "Rc6": {
+                "score": -1267,
+                "rate": 0.01
+            },
+            "Rc5": {
+                "score": -476,
+                "rate": 0.14
+            },
+            "Rc4": {
+                "score": -479,
+                "rate": 0.14
+            },
+            "Rc3": {
+                "score": -1062,
+                "rate": 0.02
+            },
+            "Re2": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rd2": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rb2": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Ra2": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rc1": {
+                "score": -1399,
+                "rate": 0.0
+            },
+            "f6": {
+                "score": -81,
+                "rate": 0.42
+            },
+            "h5": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "g4": {
+                "score": 0,
+                "rate": 0.5
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.22",
+            "Round": "8.7",
+            "White": "Gukesh, D",
+            "Black": "Maghsoodloo, Parham",
+            "WhiteElo": "2725",
+            "BlackElo": "2719"
+        }
+    },
+    "8/5pk1/P6p/4Qnp1/8/6PP/r4qB1/6RK b - -": {
+        "stm": "black",
+        "fmvn": 42,
+        "hmvc": 2,
+        "game": {
+            "move": "Kg6",
+            "score": -291,
+            "rate": 0.25
+        },
+        "engine": {
+            "move": "Kh7",
+            "score": 0,
+            "rate": 0.5
+        },
+        "user": {
+            "Kg8": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Kf8": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Kh7": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Kg6": {
+                "score": -291,
+                "rate": 0.25
+            },
+            "f6": {
+                "score": 0,
+                "rate": 0.5
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.22",
+            "Round": "8.7",
+            "White": "Gukesh, D",
+            "Black": "Maghsoodloo, Parham",
+            "WhiteElo": "2725",
+            "BlackElo": "2719"
+        }
+    },
+    "8/8/8/3p3R/1r1k1pP1/5K2/5P2/8 w - -": {
+        "stm": "white",
+        "fmvn": 57,
+        "hmvc": 3,
+        "game": {
+            "move": "Rh8",
+            "score": 0,
+            "rate": 0.5
+        },
+        "engine": {
+            "move": "Rf5",
+            "score": 236,
+            "rate": 0.71
+        },
+        "user": {
+            "Rh8": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rh7": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rh6": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rg5": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rf5": {
+                "score": 350,
+                "rate": 0.79
+            },
+            "Re5": {
+                "score": -31978,
+                "rate": 0.0
+            },
+            "Rxd5+": {
+                "score": -31981,
+                "rate": 0.0
+            },
+            "Rh4": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rh3": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rh2": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rh1": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Kxf4": {
+                "score": 32,
+                "rate": 0.53
+            },
+            "Kg2": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Ke2": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "g5": {
+                "score": 0,
+                "rate": 0.5
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.24",
+            "Round": "9.1",
+            "White": "Keymer, Vincent",
+            "Black": "Abdusattorov, Nodirbek",
+            "WhiteElo": "2696",
+            "BlackElo": "2713"
+        }
+    },
+    "5R2/8/5k2/3p4/1r3pP1/5K2/5P2/8 b - -": {
+        "stm": "black",
+        "fmvn": 59,
+        "hmvc": 8,
+        "game": {
+            "move": "Kg6",
+            "score": -279,
+            "rate": 0.26
+        },
+        "engine": {
+            "move": "Ke5",
+            "score": 0,
+            "rate": 0.5
+        },
+        "user": {
+            "Kg7": {
+                "score": -681,
+                "rate": 0.07
+            },
+            "Ke7": {
+                "score": -305,
+                "rate": 0.24
+            },
+            "Kg6": {
+                "score": -343,
+                "rate": 0.21
+            },
+            "Ke6": {
+                "score": -322,
+                "rate": 0.23
+            },
+            "Kg5": {
+                "score": -707,
+                "rate": 0.06
+            },
+            "Ke5": {
+                "score": 0,
+                "rate": 0.5
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.24",
+            "Round": "9.1",
+            "White": "Keymer, Vincent",
+            "Black": "Abdusattorov, Nodirbek",
+            "WhiteElo": "2696",
+            "BlackElo": "2713"
+        }
+    },
+    "5R2/8/6k1/3p4/1r3pP1/5K2/5P2/8 w - -": {
+        "stm": "white",
+        "fmvn": 60,
+        "hmvc": 9,
+        "game": {
+            "move": "Rf5",
+            "score": 63,
+            "rate": 0.56
+        },
+        "engine": {
+            "move": "Rd8",
+            "score": 350,
+            "rate": 0.79
+        },
+        "user": {
+            "Rh8": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rg8+": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Re8": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rd8": {
+                "score": 337,
+                "rate": 0.78
+            },
+            "Rc8": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rb8": {
+                "score": -31987,
+                "rate": 0.0
+            },
+            "Ra8": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rf7": {
+                "score": -31985,
+                "rate": 0.0
+            },
+            "Rf6+": {
+                "score": -31987,
+                "rate": 0.0
+            },
+            "Rf5": {
+                "score": 66,
+                "rate": 0.56
+            },
+            "Rxf4": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Kg2": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Ke2": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "g5": {
+                "score": 0,
+                "rate": 0.5
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.24",
+            "Round": "9.1",
+            "White": "Keymer, Vincent",
+            "Black": "Abdusattorov, Nodirbek",
+            "WhiteElo": "2696",
+            "BlackElo": "2713"
+        }
+    },
+    "8/8/5k2/3R4/1r1pKpP1/8/5P2/8 b - -": {
+        "stm": "black",
+        "fmvn": 62,
+        "hmvc": 3,
+        "game": {
+            "move": "d3+",
+            "score": -761,
+            "rate": 0.05
+        },
+        "engine": {
+            "move": "f3",
+            "score": 0,
+            "rate": 0.5
+        },
+        "user": {
+            "Kg7": {
+                "score": -998,
+                "rate": 0.02
+            },
+            "Kf7": {
+                "score": -1094,
+                "rate": 0.01
+            },
+            "Ke7": {
+                "score": -1248,
+                "rate": 0.01
+            },
+            "Kg6": {
+                "score": -830,
+                "rate": 0.04
+            },
+            "Ke6": {
+                "score": -1294,
+                "rate": 0.01
+            },
+            "Rb8": {
+                "score": -1009,
+                "rate": 0.02
+            },
+            "Rb7": {
+                "score": -1135,
+                "rate": 0.01
+            },
+            "Rb6": {
+                "score": -1132,
+                "rate": 0.01
+            },
+            "Rb5": {
+                "score": -31988,
+                "rate": 0.0
+            },
+            "Rc4": {
+                "score": -971,
+                "rate": 0.02
+            },
+            "Ra4": {
+                "score": -1174,
+                "rate": 0.01
+            },
+            "Rb3": {
+                "score": -1290,
+                "rate": 0.01
+            },
+            "Rb2": {
+                "score": -1141,
+                "rate": 0.01
+            },
+            "Rb1": {
+                "score": -1290,
+                "rate": 0.01
+            },
+            "f3": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "d3+": {
+                "score": -705,
+                "rate": 0.06
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.24",
+            "Round": "9.1",
+            "White": "Keymer, Vincent",
+            "Black": "Abdusattorov, Nodirbek",
+            "WhiteElo": "2696",
+            "BlackElo": "2713"
+        }
+    },
+    "8/8/5k2/1r6/5pP1/R7/5PK1/8 w - -": {
+        "stm": "white",
+        "fmvn": 67,
+        "hmvc": 5,
+        "game": {
+            "move": "Ra8",
+            "score": 0,
+            "rate": 0.5
+        },
+        "engine": {
+            "move": "Rh3",
+            "score": 734,
+            "rate": 0.94
+        },
+        "user": {
+            "Ra8": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Ra7": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Ra6+": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Ra5": {
+                "score": -31985,
+                "rate": 0.0
+            },
+            "Ra4": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rh3": {
+                "score": 734,
+                "rate": 0.94
+            },
+            "Rg3": {
+                "score": -31969,
+                "rate": 0.0
+            },
+            "Rf3": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Re3": {
+                "score": -31971,
+                "rate": 0.0
+            },
+            "Rd3": {
+                "score": 18,
+                "rate": 0.52
+            },
+            "Rc3": {
+                "score": 19,
+                "rate": 0.52
+            },
+            "Rb3": {
+                "score": -31987,
+                "rate": 0.0
+            },
+            "Ra2": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Ra1": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Kh3": {
+                "score": 6,
+                "rate": 0.51
+            },
+            "Kf3": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Kh2": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Kh1": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Kg1": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Kf1": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "g5+": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "f3": {
+                "score": 0,
+                "rate": 0.5
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.24",
+            "Round": "9.1",
+            "White": "Keymer, Vincent",
+            "Black": "Abdusattorov, Nodirbek",
+            "WhiteElo": "2696",
+            "BlackElo": "2713"
+        }
+    },
+    "R7/8/5k2/1r6/5pP1/8/5PK1/8 b - -": {
+        "stm": "black",
+        "fmvn": 67,
+        "hmvc": 6,
+        "game": {
+            "move": "Rb3",
+            "score": -734,
+            "rate": 0.06
+        },
+        "engine": {
+            "move": "Kg5",
+            "score": 0,
+            "rate": 0.5
+        },
+        "user": {
+            "Kg7": {
+                "score": -1213,
+                "rate": 0.01
+            },
+            "Kf7": {
+                "score": -1241,
+                "rate": 0.01
+            },
+            "Ke7": {
+                "score": -1265,
+                "rate": 0.01
+            },
+            "Kg6": {
+                "score": -734,
+                "rate": 0.06
+            },
+            "Ke6": {
+                "score": -1286,
+                "rate": 0.01
+            },
+            "Kg5": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Ke5": {
+                "score": -1243,
+                "rate": 0.01
+            },
+            "Rb8": {
+                "score": -31987,
+                "rate": 0.0
+            },
+            "Rb7": {
+                "score": -735,
+                "rate": 0.06
+            },
+            "Rb6": {
+                "score": -735,
+                "rate": 0.06
+            },
+            "Rh5": {
+                "score": -31990,
+                "rate": 0.0
+            },
+            "Rg5": {
+                "score": -1284,
+                "rate": 0.01
+            },
+            "Rf5": {
+                "score": -31985,
+                "rate": 0.0
+            },
+            "Re5": {
+                "score": -1284,
+                "rate": 0.01
+            },
+            "Rd5": {
+                "score": -1163,
+                "rate": 0.01
+            },
+            "Rc5": {
+                "score": -799,
+                "rate": 0.04
+            },
+            "Ra5": {
+                "score": -31988,
+                "rate": 0.0
+            },
+            "Rb4": {
+                "score": -735,
+                "rate": 0.06
+            },
+            "Rb3": {
+                "score": -735,
+                "rate": 0.06
+            },
+            "Rb2": {
+                "score": -735,
+                "rate": 0.06
+            },
+            "Rb1": {
+                "score": -735,
+                "rate": 0.06
+            },
+            "f3+": {
+                "score": -1284,
+                "rate": 0.01
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.24",
+            "Round": "9.1",
+            "White": "Keymer, Vincent",
+            "Black": "Abdusattorov, Nodirbek",
+            "WhiteElo": "2696",
+            "BlackElo": "2713"
+        }
+    },
+    "8/8/5R2/4k1P1/5p1K/5P2/8/r7 w - -": {
+        "stm": "white",
+        "fmvn": 80,
+        "hmvc": 5,
+        "game": {
+            "move": "Rb6",
+            "score": 0,
+            "rate": 0.5
+        },
+        "engine": {
+            "move": "Rf8",
+            "score": 879,
+            "rate": 0.97
+        },
+        "user": {
+            "Rf8": {
+                "score": 879,
+                "rate": 0.97
+            },
+            "Rf7": {
+                "score": 879,
+                "rate": 0.97
+            },
+            "Rh6": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rg6": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Re6+": {
+                "score": -31989,
+                "rate": 0.0
+            },
+            "Rd6": {
+                "score": -31988,
+                "rate": 0.0
+            },
+            "Rc6": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rb6": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Ra6": {
+                "score": -31989,
+                "rate": 0.0
+            },
+            "Rf5+": {
+                "score": -31990,
+                "rate": 0.0
+            },
+            "Rxf4": {
+                "score": -31990,
+                "rate": 0.0
+            },
+            "Kh5": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Kg4": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Kh3": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "g6": {
+                "score": -31990,
+                "rate": 0.0
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.24",
+            "Round": "9.1",
+            "White": "Keymer, Vincent",
+            "Black": "Abdusattorov, Nodirbek",
+            "WhiteElo": "2696",
+            "BlackElo": "2713"
+        }
+    },
+    "r1b2rk1/pp3qpp/2n5/2b2p2/4PNn1/P4N2/1P1BQPRP/R3KB2 b Q -": {
+        "stm": "black",
+        "fmvn": 16,
+        "hmvc": 3,
+        "game": {
+            "move": "Qe7",
+            "score": -83,
+            "rate": 0.42
+        },
+        "engine": {
+            "move": "fxe4",
+            "score": 139,
+            "rate": 0.63
+        },
+        "user": {
+            "Kh8": {
+                "score": 10,
+                "rate": 0.51
+            },
+            "Re8": {
+                "score": -237,
+                "rate": 0.29
+            },
+            "Rd8": {
+                "score": -574,
+                "rate": 0.1
+            },
+            "Bd7": {
+                "score": 4,
+                "rate": 0.5
+            },
+            "Be6": {
+                "score": -624,
+                "rate": 0.08
+            },
+            "Rb8": {
+                "score": -143,
+                "rate": 0.37
+            },
+            "Qe8": {
+                "score": -251,
+                "rate": 0.28
+            },
+            "Qe7": {
+                "score": -147,
+                "rate": 0.36
+            },
+            "Qd7": {
+                "score": -566,
+                "rate": 0.1
+            },
+            "Qc7": {
+                "score": -585,
+                "rate": 0.1
+            },
+            "Qg6": {
+                "score": -1243,
+                "rate": 0.01
+            },
+            "Qf6": {
+                "score": -430,
+                "rate": 0.16
+            },
+            "Qe6": {
+                "score": -973,
+                "rate": 0.02
+            },
+            "Qh5": {
+                "score": -1463,
+                "rate": 0.0
+            },
+            "Qd5": {
+                "score": -1371,
+                "rate": 0.01
+            },
+            "Qc4": {
+                "score": -1883,
+                "rate": 0.0
+            },
+            "Qb3": {
+                "score": -186,
+                "rate": 0.33
+            },
+            "Qa2": {
+                "score": -1201,
+                "rate": 0.01
+            },
+            "Nd8": {
+                "score": -379,
+                "rate": 0.19
+            },
+            "Nb8": {
+                "score": -541,
+                "rate": 0.11
+            },
+            "Ne7": {
+                "score": -529,
+                "rate": 0.12
+            },
+            "Nce5": {
+                "score": -251,
+                "rate": 0.28
+            },
+            "Na5": {
+                "score": -316,
+                "rate": 0.23
+            },
+            "Nd4": {
+                "score": 1,
+                "rate": 0.5
+            },
+            "Nb4": {
+                "score": -695,
+                "rate": 0.06
+            },
+            "Be7": {
+                "score": -104,
+                "rate": 0.4
+            },
+            "Bd6": {
+                "score": 32,
+                "rate": 0.53
+            },
+            "Bb6": {
+                "score": -100,
+                "rate": 0.41
+            },
+            "Bd4": {
+                "score": 62,
+                "rate": 0.56
+            },
+            "Bb4": {
+                "score": -609,
+                "rate": 0.09
+            },
+            "Be3": {
+                "score": -607,
+                "rate": 0.09
+            },
+            "Bxa3": {
+                "score": -469,
+                "rate": 0.14
+            },
+            "Bxf2+": {
+                "score": -261,
+                "rate": 0.27
+            },
+            "Nh6": {
+                "score": -440,
+                "rate": 0.16
+            },
+            "Nf6": {
+                "score": -174,
+                "rate": 0.34
+            },
+            "Nge5": {
+                "score": -266,
+                "rate": 0.26
+            },
+            "Ne3": {
+                "score": -863,
+                "rate": 0.04
+            },
+            "Nxh2": {
+                "score": -613,
+                "rate": 0.09
+            },
+            "Nxf2": {
+                "score": -469,
+                "rate": 0.14
+            },
+            "fxe4": {
+                "score": 163,
+                "rate": 0.65
+            },
+            "h6": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "g6": {
+                "score": -355,
+                "rate": 0.2
+            },
+            "b6": {
+                "score": -35,
+                "rate": 0.47
+            },
+            "a6": {
+                "score": -177,
+                "rate": 0.34
+            },
+            "h5": {
+                "score": -561,
+                "rate": 0.1
+            },
+            "g5": {
+                "score": -786,
+                "rate": 0.05
+            },
+            "b5": {
+                "score": -510,
+                "rate": 0.12
+            },
+            "a5": {
+                "score": -168,
+                "rate": 0.34
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.25",
+            "Round": "10.6",
+            "White": "Gukesh, D",
+            "Black": "Praggnanandhaa, R",
+            "WhiteElo": "2725",
+            "BlackElo": "2684"
+        }
+    },
+    "r4rk1/pp2q1pp/3bb3/5p2/5Nn1/P1B2Q1P/1P3PR1/2KR1B2 b - -": {
+        "stm": "black",
+        "fmvn": 21,
+        "hmvc": 0,
+        "game": {
+            "move": "Be5",
+            "score": -450,
+            "rate": 0.15
+        },
+        "engine": {
+            "move": "Bxf4+",
+            "score": -85,
+            "rate": 0.42
+        },
+        "user": {
+            "Kh8": {
+                "score": -626,
+                "rate": 0.08
+            },
+            "Kf7": {
+                "score": -1225,
+                "rate": 0.01
+            },
+            "Rfe8": {
+                "score": -769,
+                "rate": 0.05
+            },
+            "Rfd8": {
+                "score": -678,
+                "rate": 0.07
+            },
+            "Rfc8": {
+                "score": -577,
+                "rate": 0.1
+            },
+            "Rfb8": {
+                "score": -852,
+                "rate": 0.04
+            },
+            "Rf7": {
+                "score": -664,
+                "rate": 0.07
+            },
+            "Rf6": {
+                "score": -719,
+                "rate": 0.06
+            },
+            "Rae8": {
+                "score": -640,
+                "rate": 0.08
+            },
+            "Rad8": {
+                "score": -645,
+                "rate": 0.08
+            },
+            "Rac8": {
+                "score": -466,
+                "rate": 0.14
+            },
+            "Rab8": {
+                "score": -703,
+                "rate": 0.06
+            },
+            "Qe8": {
+                "score": -981,
+                "rate": 0.02
+            },
+            "Qd8": {
+                "score": -1343,
+                "rate": 0.01
+            },
+            "Qf7": {
+                "score": -1001,
+                "rate": 0.02
+            },
+            "Qd7": {
+                "score": -830,
+                "rate": 0.04
+            },
+            "Qc7": {
+                "score": -1414,
+                "rate": 0.0
+            },
+            "Qf6": {
+                "score": -1266,
+                "rate": 0.01
+            },
+            "Qg5": {
+                "score": -947,
+                "rate": 0.03
+            },
+            "Qh4": {
+                "score": -1075,
+                "rate": 0.02
+            },
+            "Bc8": {
+                "score": -924,
+                "rate": 0.03
+            },
+            "Bf7": {
+                "score": -559,
+                "rate": 0.1
+            },
+            "Bd7": {
+                "score": -870,
+                "rate": 0.03
+            },
+            "Bd5": {
+                "score": -1241,
+                "rate": 0.01
+            },
+            "Bc4": {
+                "score": -1613,
+                "rate": 0.0
+            },
+            "Bb3": {
+                "score": -232,
+                "rate": 0.29
+            },
+            "Ba2": {
+                "score": -432,
+                "rate": 0.16
+            },
+            "Bb8": {
+                "score": -844,
+                "rate": 0.04
+            },
+            "Bc7": {
+                "score": -796,
+                "rate": 0.05
+            },
+            "Be5": {
+                "score": -456,
+                "rate": 0.15
+            },
+            "Bc5": {
+                "score": -866,
+                "rate": 0.03
+            },
+            "Bxf4+": {
+                "score": -66,
+                "rate": 0.44
+            },
+            "Bb4": {
+                "score": -1000,
+                "rate": 0.02
+            },
+            "Bxa3": {
+                "score": -651,
+                "rate": 0.08
+            },
+            "Nh6": {
+                "score": -1450,
+                "rate": 0.0
+            },
+            "Nf6": {
+                "score": -287,
+                "rate": 0.25
+            },
+            "Ne5": {
+                "score": -368,
+                "rate": 0.2
+            },
+            "Ne3": {
+                "score": -966,
+                "rate": 0.02
+            },
+            "Nh2": {
+                "score": -440,
+                "rate": 0.16
+            },
+            "Nxf2": {
+                "score": -1258,
+                "rate": 0.01
+            },
+            "h6": {
+                "score": -769,
+                "rate": 0.05
+            },
+            "g6": {
+                "score": -832,
+                "rate": 0.04
+            },
+            "b6": {
+                "score": -812,
+                "rate": 0.04
+            },
+            "a6": {
+                "score": -714,
+                "rate": 0.06
+            },
+            "h5": {
+                "score": -634,
+                "rate": 0.08
+            },
+            "g5": {
+                "score": -986,
+                "rate": 0.02
+            },
+            "b5": {
+                "score": -712,
+                "rate": 0.06
+            },
+            "a5": {
+                "score": -783,
+                "rate": 0.05
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.25",
+            "Round": "10.6",
+            "White": "Gukesh, D",
+            "Black": "Praggnanandhaa, R",
+            "WhiteElo": "2725",
+            "BlackElo": "2684"
+        }
+    },
+    "8/3k4/p3rp2/P4R2/5K2/8/8/8 w - -": {
+        "stm": "white",
+        "fmvn": 54,
+        "hmvc": 0,
+        "game": {
+            "move": "Rh5",
+            "score": -348,
+            "rate": 0.21
+        },
+        "engine": {
+            "move": "Rd5+",
+            "score": 0,
+            "rate": 0.5
+        },
+        "user": {
+            "Rxf6": {
+                "score": -31984,
+                "rate": 0.0
+            },
+            "Rh5": {
+                "score": -376,
+                "rate": 0.19
+            },
+            "Rg5": {
+                "score": -31984,
+                "rate": 0.0
+            },
+            "Re5": {
+                "score": -31989,
+                "rate": 0.0
+            },
+            "Rd5+": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rc5": {
+                "score": -500,
+                "rate": 0.13
+            },
+            "Rb5": {
+                "score": -31989,
+                "rate": 0.0
+            },
+            "Kg4": {
+                "score": -544,
+                "rate": 0.11
+            },
+            "Kg3": {
+                "score": -560,
+                "rate": 0.1
+            },
+            "Kf3": {
+                "score": -569,
+                "rate": 0.1
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.25",
+            "Round": "10.7",
+            "White": "Van Foreest, Jorden",
+            "Black": "Keymer, Vincent",
+            "WhiteElo": "2681",
+            "BlackElo": "2696"
+        }
+    },
+    "8/3k4/p3rp2/P6R/5K2/8/8/8 b - -": {
+        "stm": "black",
+        "fmvn": 54,
+        "hmvc": 1,
+        "game": {
+            "move": "Kc6",
+            "score": 14,
+            "rate": 0.51
+        },
+        "engine": {
+            "move": "Re1",
+            "score": 412,
+            "rate": 0.83
+        },
+        "user": {
+            "Ke8": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Kd8": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Kc8": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Ke7": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Kc7": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Kd6": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Kc6": {
+                "score": 8,
+                "rate": 0.51
+            },
+            "Re8": {
+                "score": 7,
+                "rate": 0.51
+            },
+            "Re7": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rd6": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rc6": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rb6": {
+                "score": -31964,
+                "rate": 0.0
+            },
+            "Re5": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Re4+": {
+                "score": -31982,
+                "rate": 0.0
+            },
+            "Re3": {
+                "score": -31984,
+                "rate": 0.0
+            },
+            "Re2": {
+                "score": 368,
+                "rate": 0.8
+            },
+            "Re1": {
+                "score": 465,
+                "rate": 0.86
+            },
+            "f5": {
+                "score": 0,
+                "rate": 0.5
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.25",
+            "Round": "10.7",
+            "White": "Van Foreest, Jorden",
+            "Black": "Keymer, Vincent",
+            "WhiteElo": "2681",
+            "BlackElo": "2696"
+        }
+    },
+    "8/8/p1k1rp2/P6R/5K2/8/8/8 w - -": {
+        "stm": "white",
+        "fmvn": 55,
+        "hmvc": 2,
+        "game": {
+            "move": "Rf5",
+            "score": -550,
+            "rate": 0.11
+        },
+        "engine": {
+            "move": "Rh1",
+            "score": 0,
+            "rate": 0.5
+        },
+        "user": {
+            "Rh8": {
+                "score": -434,
+                "rate": 0.16
+            },
+            "Rh7": {
+                "score": -459,
+                "rate": 0.15
+            },
+            "Rh6": {
+                "score": -462,
+                "rate": 0.15
+            },
+            "Rg5": {
+                "score": -31987,
+                "rate": 0.0
+            },
+            "Rf5": {
+                "score": -552,
+                "rate": 0.11
+            },
+            "Re5": {
+                "score": -31989,
+                "rate": 0.0
+            },
+            "Rd5": {
+                "score": -31986,
+                "rate": 0.0
+            },
+            "Rc5+": {
+                "score": -31988,
+                "rate": 0.0
+            },
+            "Rb5": {
+                "score": -31988,
+                "rate": 0.0
+            },
+            "Rh4": {
+                "score": -470,
+                "rate": 0.14
+            },
+            "Rh3": {
+                "score": -453,
+                "rate": 0.15
+            },
+            "Rh2": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rh1": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Kf5": {
+                "score": -31975,
+                "rate": 0.0
+            },
+            "Kg4": {
+                "score": -542,
+                "rate": 0.11
+            },
+            "Kg3": {
+                "score": -517,
+                "rate": 0.12
+            },
+            "Kf3": {
+                "score": -557,
+                "rate": 0.11
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.25",
+            "Round": "10.7",
+            "White": "Van Foreest, Jorden",
+            "Black": "Keymer, Vincent",
+            "WhiteElo": "2681",
+            "BlackElo": "2696"
+        }
+    },
+    "8/8/p3kp2/P3r3/5K2/8/R7/8 b - -": {
+        "stm": "black",
+        "fmvn": 61,
+        "hmvc": 15,
+        "game": {
+            "move": "Rf5+",
+            "score": 142,
+            "rate": 0.63
+        },
+        "engine": {
+            "move": "Kd6",
+            "score": 731,
+            "rate": 0.94
+        },
+        "user": {
+            "Kf7": {
+                "score": 237,
+                "rate": 0.71
+            },
+            "Ke7": {
+                "score": 323,
+                "rate": 0.78
+            },
+            "Kd7": {
+                "score": 550,
+                "rate": 0.89
+            },
+            "Kd6": {
+                "score": 732,
+                "rate": 0.94
+            },
+            "Kd5": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rh5": {
+                "score": 312,
+                "rate": 0.77
+            },
+            "Rg5": {
+                "score": 586,
+                "rate": 0.9
+            },
+            "Rf5+": {
+                "score": 386,
+                "rate": 0.81
+            },
+            "Rd5": {
+                "score": 407,
+                "rate": 0.83
+            },
+            "Rc5": {
+                "score": 438,
+                "rate": 0.84
+            },
+            "Rb5": {
+                "score": 440,
+                "rate": 0.84
+            },
+            "Rxa5": {
+                "score": -31978,
+                "rate": 0.0
+            },
+            "Re4+": {
+                "score": -31983,
+                "rate": 0.0
+            },
+            "Re3": {
+                "score": -31984,
+                "rate": 0.0
+            },
+            "Re2": {
+                "score": -31984,
+                "rate": 0.0
+            },
+            "Re1": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "f5": {
+                "score": 10,
+                "rate": 0.51
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.25",
+            "Round": "10.7",
+            "White": "Van Foreest, Jorden",
+            "Black": "Keymer, Vincent",
+            "WhiteElo": "2681",
+            "BlackElo": "2696"
+        }
+    },
+    "8/8/p3k3/P4p2/8/5K2/R7/4r3 b - -": {
+        "stm": "black",
+        "fmvn": 67,
+        "hmvc": 1,
+        "game": {
+            "move": "Re5",
+            "score": 9,
+            "rate": 0.51
+        },
+        "engine": {
+            "move": "Ke5",
+            "score": 369,
+            "rate": 0.8
+        },
+        "user": {
+            "Kf7": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Ke7": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Kd7": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Kf6": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Kd6": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Ke5": {
+                "score": 428,
+                "rate": 0.84
+            },
+            "Kd5": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Re5": {
+                "score": 9,
+                "rate": 0.51
+            },
+            "Re4": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Re3+": {
+                "score": -31985,
+                "rate": 0.0
+            },
+            "Re2": {
+                "score": -31985,
+                "rate": 0.0
+            },
+            "Rh1": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rg1": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rf1+": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rd1": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rc1": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rb1": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Ra1": {
+                "score": -31985,
+                "rate": 0.0
+            },
+            "f4": {
+                "score": 0,
+                "rate": 0.5
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.25",
+            "Round": "10.7",
+            "White": "Van Foreest, Jorden",
+            "Black": "Keymer, Vincent",
+            "WhiteElo": "2681",
+            "BlackElo": "2696"
+        }
+    },
+    "1r3rk1/p1p2ppp/8/2p4P/2BP4/q1n1PN2/P1Q2PP1/5RK1 b - -": {
+        "stm": "black",
+        "fmvn": 23,
+        "hmvc": 0,
+        "game": {
+            "move": "Qb4",
+            "score": -379,
+            "rate": 0.19
+        },
+        "engine": {
+            "move": "Rb6",
+            "score": -49,
+            "rate": 0.45
+        },
+        "user": {
+            "Kh8": {
+                "score": -787,
+                "rate": 0.05
+            },
+            "Rfe8": {
+                "score": -730,
+                "rate": 0.06
+            },
+            "Rfd8": {
+                "score": -996,
+                "rate": 0.02
+            },
+            "Rfc8": {
+                "score": -1025,
+                "rate": 0.02
+            },
+            "Rbe8": {
+                "score": -710,
+                "rate": 0.06
+            },
+            "Rbd8": {
+                "score": -1130,
+                "rate": 0.01
+            },
+            "Rbc8": {
+                "score": -1249,
+                "rate": 0.01
+            },
+            "Ra8": {
+                "score": -1222,
+                "rate": 0.01
+            },
+            "Rb7": {
+                "score": -1129,
+                "rate": 0.01
+            },
+            "Rb6": {
+                "score": -48,
+                "rate": 0.45
+            },
+            "Rb5": {
+                "score": -1082,
+                "rate": 0.02
+            },
+            "Rb4": {
+                "score": -54,
+                "rate": 0.45
+            },
+            "Rb3": {
+                "score": -1165,
+                "rate": 0.01
+            },
+            "Rb2": {
+                "score": -524,
+                "rate": 0.12
+            },
+            "Rb1": {
+                "score": -1051,
+                "rate": 0.02
+            },
+            "Nd5": {
+                "score": -807,
+                "rate": 0.04
+            },
+            "Nb5": {
+                "score": -1096,
+                "rate": 0.01
+            },
+            "Ne4": {
+                "score": -862,
+                "rate": 0.04
+            },
+            "Na4": {
+                "score": -1300,
+                "rate": 0.01
+            },
+            "Ne2+": {
+                "score": -634,
+                "rate": 0.08
+            },
+            "Nxa2": {
+                "score": -1353,
+                "rate": 0.01
+            },
+            "Nd1": {
+                "score": -1537,
+                "rate": 0.0
+            },
+            "Nb1": {
+                "score": -1196,
+                "rate": 0.01
+            },
+            "Qa6": {
+                "score": -1149,
+                "rate": 0.01
+            },
+            "Qa5": {
+                "score": -1053,
+                "rate": 0.02
+            },
+            "Qb4": {
+                "score": -299,
+                "rate": 0.24
+            },
+            "Qa4": {
+                "score": -691,
+                "rate": 0.07
+            },
+            "Qb3": {
+                "score": -1243,
+                "rate": 0.01
+            },
+            "Qb2": {
+                "score": -742,
+                "rate": 0.05
+            },
+            "Qxa2": {
+                "score": -1135,
+                "rate": 0.01
+            },
+            "Qc1": {
+                "score": -1258,
+                "rate": 0.01
+            },
+            "cxd4": {
+                "score": -549,
+                "rate": 0.11
+            },
+            "h6": {
+                "score": -392,
+                "rate": 0.18
+            },
+            "g6": {
+                "score": -731,
+                "rate": 0.06
+            },
+            "c6": {
+                "score": -1012,
+                "rate": 0.02
+            },
+            "a6": {
+                "score": -1009,
+                "rate": 0.02
+            },
+            "g5": {
+                "score": -1541,
+                "rate": 0.0
+            },
+            "a5": {
+                "score": -1022,
+                "rate": 0.02
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.28",
+            "Round": "12.2",
+            "White": "Van Foreest, Jorden",
+            "Black": "Giri, Anish",
+            "WhiteElo": "2681",
+            "BlackElo": "2764"
+        }
+    },
+    "5rk1/p1p2p1p/1r4p1/2p3NP/1qBP4/2nQP3/P4PP1/5RK1 w - -": {
+        "stm": "white",
+        "fmvn": 26,
+        "hmvc": 2,
+        "game": {
+            "move": "dxc5",
+            "score": 109,
+            "rate": 0.6
+        },
+        "engine": {
+            "move": "Rc1",
+            "score": 490,
+            "rate": 0.87
+        },
+        "user": {
+            "Nxh7": {
+                "score": -350,
+                "rate": 0.21
+            },
+            "Nxf7": {
+                "score": 154,
+                "rate": 0.64
+            },
+            "Ne6": {
+                "score": -420,
+                "rate": 0.17
+            },
+            "Ne4": {
+                "score": -675,
+                "rate": 0.07
+            },
+            "Nh3": {
+                "score": -208,
+                "rate": 0.31
+            },
+            "Nf3": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Bxf7+": {
+                "score": -232,
+                "rate": 0.29
+            },
+            "Be6": {
+                "score": -517,
+                "rate": 0.12
+            },
+            "Ba6": {
+                "score": -452,
+                "rate": 0.15
+            },
+            "Bd5": {
+                "score": -798,
+                "rate": 0.04
+            },
+            "Bb5": {
+                "score": -817,
+                "rate": 0.04
+            },
+            "Bb3": {
+                "score": -280,
+                "rate": 0.25
+            },
+            "Qxg6+": {
+                "score": -1212,
+                "rate": 0.01
+            },
+            "Qf5": {
+                "score": -1357,
+                "rate": 0.01
+            },
+            "Qe4": {
+                "score": -1166,
+                "rate": 0.01
+            },
+            "Qxc3": {
+                "score": -986,
+                "rate": 0.02
+            },
+            "Qe2": {
+                "score": -1172,
+                "rate": 0.01
+            },
+            "Qd2": {
+                "score": -841,
+                "rate": 0.04
+            },
+            "Qc2": {
+                "score": -859,
+                "rate": 0.04
+            },
+            "Qd1": {
+                "score": -1109,
+                "rate": 0.01
+            },
+            "Qb1": {
+                "score": -1130,
+                "rate": 0.01
+            },
+            "Kh2": {
+                "score": -135,
+                "rate": 0.37
+            },
+            "Kh1": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Re1": {
+                "score": -262,
+                "rate": 0.27
+            },
+            "Rd1": {
+                "score": -890,
+                "rate": 0.03
+            },
+            "Rc1": {
+                "score": 482,
+                "rate": 0.86
+            },
+            "Rb1": {
+                "score": -1115,
+                "rate": 0.01
+            },
+            "Ra1": {
+                "score": -21,
+                "rate": 0.48
+            },
+            "hxg6": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "dxc5": {
+                "score": 150,
+                "rate": 0.64
+            },
+            "h6": {
+                "score": 188,
+                "rate": 0.67
+            },
+            "d5": {
+                "score": -33,
+                "rate": 0.47
+            },
+            "e4": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "g3": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "f3": {
+                "score": -9,
+                "rate": 0.49
+            },
+            "a3": {
+                "score": 165,
+                "rate": 0.65
+            },
+            "g4": {
+                "score": -25,
+                "rate": 0.48
+            },
+            "f4": {
+                "score": 8,
+                "rate": 0.51
+            },
+            "a4": {
+                "score": 0,
+                "rate": 0.5
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.28",
+            "Round": "12.2",
+            "White": "Van Foreest, Jorden",
+            "Black": "Giri, Anish",
+            "WhiteElo": "2681",
+            "BlackElo": "2764"
+        }
+    },
+    "5rk1/p1p2p1p/6r1/2P3N1/1qB2P2/2nQP3/P5P1/5RK1 b - -": {
+        "stm": "black",
+        "fmvn": 28,
+        "hmvc": 0,
+        "game": {
+            "move": "Rg7",
+            "score": -297,
+            "rate": 0.24
+        },
+        "engine": {
+            "move": "c6",
+            "score": -23,
+            "rate": 0.48
+        },
+        "user": {
+            "Kh8": {
+                "score": -881,
+                "rate": 0.03
+            },
+            "Kg7": {
+                "score": -492,
+                "rate": 0.13
+            },
+            "Re8": {
+                "score": -1343,
+                "rate": 0.01
+            },
+            "Rd8": {
+                "score": -1311,
+                "rate": 0.01
+            },
+            "Rc8": {
+                "score": -1463,
+                "rate": 0.0
+            },
+            "Rb8": {
+                "score": -1412,
+                "rate": 0.0
+            },
+            "Ra8": {
+                "score": -1485,
+                "rate": 0.0
+            },
+            "Rg7": {
+                "score": -307,
+                "rate": 0.24
+            },
+            "Rh6": {
+                "score": -706,
+                "rate": 0.06
+            },
+            "Rf6": {
+                "score": -31999,
+                "rate": 0.0
+            },
+            "Re6": {
+                "score": -31999,
+                "rate": 0.0
+            },
+            "Rd6": {
+                "score": -31999,
+                "rate": 0.0
+            },
+            "Rc6": {
+                "score": -31999,
+                "rate": 0.0
+            },
+            "Rb6": {
+                "score": -31999,
+                "rate": 0.0
+            },
+            "Ra6": {
+                "score": -31999,
+                "rate": 0.0
+            },
+            "Rxg5": {
+                "score": -828,
+                "rate": 0.04
+            },
+            "Qb8": {
+                "score": -794,
+                "rate": 0.05
+            },
+            "Qb7": {
+                "score": -741,
+                "rate": 0.06
+            },
+            "Qb6": {
+                "score": -1684,
+                "rate": 0.0
+            },
+            "Qxc5": {
+                "score": -664,
+                "rate": 0.07
+            },
+            "Qb5": {
+                "score": -1073,
+                "rate": 0.02
+            },
+            "Qa5": {
+                "score": -943,
+                "rate": 0.03
+            },
+            "Qxc4": {
+                "score": -1008,
+                "rate": 0.02
+            },
+            "Qa4": {
+                "score": -781,
+                "rate": 0.05
+            },
+            "Qb3": {
+                "score": -1478,
+                "rate": 0.0
+            },
+            "Qa3": {
+                "score": -264,
+                "rate": 0.27
+            },
+            "Qb2": {
+                "score": -38,
+                "rate": 0.46
+            },
+            "Qb1": {
+                "score": -1205,
+                "rate": 0.01
+            },
+            "Nd5": {
+                "score": -812,
+                "rate": 0.04
+            },
+            "Nb5": {
+                "score": -630,
+                "rate": 0.08
+            },
+            "Ne4": {
+                "score": -902,
+                "rate": 0.03
+            },
+            "Na4": {
+                "score": -537,
+                "rate": 0.11
+            },
+            "Ne2+": {
+                "score": -649,
+                "rate": 0.08
+            },
+            "Nxa2": {
+                "score": -525,
+                "rate": 0.12
+            },
+            "Nd1": {
+                "score": -815,
+                "rate": 0.04
+            },
+            "Nb1": {
+                "score": -742,
+                "rate": 0.05
+            },
+            "h6": {
+                "score": -31998,
+                "rate": 0.0
+            },
+            "c6": {
+                "score": -19,
+                "rate": 0.48
+            },
+            "a6": {
+                "score": -387,
+                "rate": 0.18
+            },
+            "h5": {
+                "score": -31998,
+                "rate": 0.0
+            },
+            "a5": {
+                "score": -398,
+                "rate": 0.18
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.28",
+            "Round": "12.2",
+            "White": "Van Foreest, Jorden",
+            "Black": "Giri, Anish",
+            "WhiteElo": "2681",
+            "BlackElo": "2764"
+        }
+    },
+    "8/R4p2/8/3K1kpP/8/P5r1/1P6/8 b - -": {
+        "stm": "black",
+        "fmvn": 50,
+        "hmvc": 1,
+        "game": {
+            "move": "g4",
+            "score": -312,
+            "rate": 0.23
+        },
+        "engine": {
+            "move": "Kf6",
+            "score": 0,
+            "rate": 0.5
+        },
+        "user": {
+            "Kf6": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Kg4": {
+                "score": -512,
+                "rate": 0.12
+            },
+            "Kf4": {
+                "score": -827,
+                "rate": 0.04
+            },
+            "Rg4": {
+                "score": -31999,
+                "rate": 0.0
+            },
+            "Rh3": {
+                "score": -825,
+                "rate": 0.04
+            },
+            "Rf3": {
+                "score": -31983,
+                "rate": 0.0
+            },
+            "Re3": {
+                "score": -962,
+                "rate": 0.02
+            },
+            "Rd3+": {
+                "score": -552,
+                "rate": 0.11
+            },
+            "Rc3": {
+                "score": -31986,
+                "rate": 0.0
+            },
+            "Rb3": {
+                "score": -827,
+                "rate": 0.04
+            },
+            "Rxa3": {
+                "score": -31986,
+                "rate": 0.0
+            },
+            "Rg2": {
+                "score": -958,
+                "rate": 0.02
+            },
+            "Rg1": {
+                "score": -1044,
+                "rate": 0.02
+            },
+            "f6": {
+                "score": -287,
+                "rate": 0.25
+            },
+            "g4": {
+                "score": -350,
+                "rate": 0.21
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.28",
+            "Round": "12.5",
+            "White": "Gukesh, D",
+            "Black": "Aronian, Levon",
+            "WhiteElo": "2725",
+            "BlackElo": "2735"
+        }
+    },
+    "8/5R2/8/3K2kP/6p1/P5r1/1P6/8 w - -": {
+        "stm": "white",
+        "fmvn": 52,
+        "hmvc": 1,
+        "game": {
+            "move": "Kc4",
+            "score": 52,
+            "rate": 0.55
+        },
+        "engine": {
+            "move": "Rf1",
+            "score": 358,
+            "rate": 0.8
+        },
+        "user": {
+            "Rf8": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rh7": {
+                "score": 38,
+                "rate": 0.54
+            },
+            "Rg7+": {
+                "score": 40,
+                "rate": 0.54
+            },
+            "Re7": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rd7": {
+                "score": -1352,
+                "rate": 0.01
+            },
+            "Rc7": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rb7": {
+                "score": 73,
+                "rate": 0.57
+            },
+            "Ra7": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rf6": {
+                "score": -1545,
+                "rate": 0.0
+            },
+            "Rf5+": {
+                "score": -1688,
+                "rate": 0.0
+            },
+            "Rf4": {
+                "score": -31986,
+                "rate": 0.0
+            },
+            "Rf3": {
+                "score": -31990,
+                "rate": 0.0
+            },
+            "Rf2": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rf1": {
+                "score": 372,
+                "rate": 0.81
+            },
+            "Ke6": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Kd6": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Kc6": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Ke5": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Kc5": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Ke4": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Kd4": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Kc4": {
+                "score": 22,
+                "rate": 0.52
+            },
+            "h6": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "a4": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "b3": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "b4": {
+                "score": 0,
+                "rate": 0.5
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.28",
+            "Round": "12.5",
+            "White": "Gukesh, D",
+            "Black": "Aronian, Levon",
+            "WhiteElo": "2725",
+            "BlackElo": "2735"
+        }
+    },
+    "8/8/6k1/8/P4r2/K5p1/1P6/6R1 b - -": {
+        "stm": "black",
+        "fmvn": 59,
+        "hmvc": 1,
+        "game": {
+            "move": "Rg4",
+            "score": -350,
+            "rate": 0.21
+        },
+        "engine": {
+            "move": "Rf3+",
+            "score": 0,
+            "rate": 0.5
+        },
+        "user": {
+            "Kh7": {
+                "score": -1279,
+                "rate": 0.01
+            },
+            "Kg7": {
+                "score": -1346,
+                "rate": 0.01
+            },
+            "Kf7": {
+                "score": -1435,
+                "rate": 0.0
+            },
+            "Kh6": {
+                "score": -1435,
+                "rate": 0.0
+            },
+            "Kf6": {
+                "score": -1435,
+                "rate": 0.0
+            },
+            "Kh5": {
+                "score": -1435,
+                "rate": 0.0
+            },
+            "Kg5": {
+                "score": -1666,
+                "rate": 0.0
+            },
+            "Kf5": {
+                "score": -1600,
+                "rate": 0.0
+            },
+            "Rf8": {
+                "score": -1666,
+                "rate": 0.0
+            },
+            "Rf7": {
+                "score": -1925,
+                "rate": 0.0
+            },
+            "Rf6": {
+                "score": -1942,
+                "rate": 0.0
+            },
+            "Rf5": {
+                "score": -1943,
+                "rate": 0.0
+            },
+            "Rh4": {
+                "score": -1951,
+                "rate": 0.0
+            },
+            "Rg4": {
+                "score": -355,
+                "rate": 0.2
+            },
+            "Re4": {
+                "score": -1951,
+                "rate": 0.0
+            },
+            "Rd4": {
+                "score": -1952,
+                "rate": 0.0
+            },
+            "Rc4": {
+                "score": -1964,
+                "rate": 0.0
+            },
+            "Rb4": {
+                "score": -31986,
+                "rate": 0.0
+            },
+            "Rxa4+": {
+                "score": -31984,
+                "rate": 0.0
+            },
+            "Rf3+": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rf2": {
+                "score": -1964,
+                "rate": 0.0
+            },
+            "Rf1": {
+                "score": -31985,
+                "rate": 0.0
+            },
+            "g2": {
+                "score": -1868,
+                "rate": 0.0
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.28",
+            "Round": "12.5",
+            "White": "Gukesh, D",
+            "Black": "Aronian, Levon",
+            "WhiteElo": "2725",
+            "BlackElo": "2735"
+        }
+    },
+    "8/8/6k1/8/P5r1/K5p1/1P6/6R1 w - -": {
+        "stm": "white",
+        "fmvn": 60,
+        "hmvc": 2,
+        "game": {
+            "move": "a5",
+            "score": 0,
+            "rate": 0.5
+        },
+        "engine": {
+            "move": "b4",
+            "score": 354,
+            "rate": 0.8
+        },
+        "user": {
+            "Kb3": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Ka2": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rxg3": {
+                "score": -802,
+                "rate": 0.04
+            },
+            "Rg2": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rh1": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rf1": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Re1": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rd1": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rc1": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Rb1": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Ra1": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "a5": {
+                "score": 11,
+                "rate": 0.51
+            },
+            "b3": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "b4": {
+                "score": 354,
+                "rate": 0.8
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.28",
+            "Round": "12.5",
+            "White": "Gukesh, D",
+            "Black": "Aronian, Levon",
+            "WhiteElo": "2725",
+            "BlackElo": "2735"
+        }
+    },
+    "4r1k1/4B1b1/3P2pp/p4PN1/bpR2Q2/7P/q4P2/6K1 w - -": {
+        "stm": "white",
+        "fmvn": 32,
+        "hmvc": 0,
+        "game": {
+            "move": "f6",
+            "score": 25,
+            "rate": 0.52
+        },
+        "engine": {
+            "move": "Kg2",
+            "score": 312,
+            "rate": 0.77
+        },
+        "user": {
+            "Bf8": {
+                "score": -1104,
+                "rate": 0.01
+            },
+            "Bd8": {
+                "score": -770,
+                "rate": 0.05
+            },
+            "Bf6": {
+                "score": -802,
+                "rate": 0.04
+            },
+            "Nh7": {
+                "score": -453,
+                "rate": 0.15
+            },
+            "Nf7": {
+                "score": -249,
+                "rate": 0.28
+            },
+            "Ne6": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Ne4": {
+                "score": 239,
+                "rate": 0.71
+            },
+            "Nf3": {
+                "score": -295,
+                "rate": 0.24
+            },
+            "Qe5": {
+                "score": -1720,
+                "rate": 0.0
+            },
+            "Qh4": {
+                "score": -772,
+                "rate": 0.05
+            },
+            "Qg4": {
+                "score": -113,
+                "rate": 0.39
+            },
+            "Qe4": {
+                "score": 7,
+                "rate": 0.51
+            },
+            "Qd4": {
+                "score": -5785,
+                "rate": 0.0
+            },
+            "Qg3": {
+                "score": -992,
+                "rate": 0.02
+            },
+            "Qf3": {
+                "score": -1057,
+                "rate": 0.02
+            },
+            "Qe3": {
+                "score": -996,
+                "rate": 0.02
+            },
+            "Qh2": {
+                "score": -1190,
+                "rate": 0.01
+            },
+            "Qd2": {
+                "score": -1640,
+                "rate": 0.0
+            },
+            "Qc1": {
+                "score": -475,
+                "rate": 0.14
+            },
+            "Rc8": {
+                "score": -1049,
+                "rate": 0.02
+            },
+            "Rc7": {
+                "score": -567,
+                "rate": 0.1
+            },
+            "Rc6": {
+                "score": -1218,
+                "rate": 0.01
+            },
+            "Rc5": {
+                "score": -268,
+                "rate": 0.26
+            },
+            "Re4": {
+                "score": -865,
+                "rate": 0.03
+            },
+            "Rd4": {
+                "score": -1059,
+                "rate": 0.02
+            },
+            "Rxb4": {
+                "score": -775,
+                "rate": 0.05
+            },
+            "Rc3": {
+                "score": -1000,
+                "rate": 0.02
+            },
+            "Rc2": {
+                "score": -989,
+                "rate": 0.02
+            },
+            "Rc1": {
+                "score": -534,
+                "rate": 0.11
+            },
+            "Kh2": {
+                "score": -976,
+                "rate": 0.02
+            },
+            "Kg2": {
+                "score": 260,
+                "rate": 0.73
+            },
+            "Kh1": {
+                "score": -699,
+                "rate": 0.06
+            },
+            "Kf1": {
+                "score": -737,
+                "rate": 0.06
+            },
+            "fxg6": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "d7": {
+                "score": -79,
+                "rate": 0.42
+            },
+            "f6": {
+                "score": 54,
+                "rate": 0.55
+            },
+            "h4": {
+                "score": -566,
+                "rate": 0.1
+            },
+            "f3": {
+                "score": -682,
+                "rate": 0.07
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.28",
+            "Round": "12.7",
+            "White": "Maghsoodloo, Parham",
+            "Black": "Erigaisi, Arjun",
+            "WhiteElo": "2719",
+            "BlackElo": "2722"
+        }
+    },
+    "8/4BQbk/3P2p1/p7/bpR2p2/7P/q4P2/6K1 b - -": {
+        "stm": "black",
+        "fmvn": 35,
+        "hmvc": 1,
+        "game": {
+            "move": "Be8",
+            "score": -500,
+            "rate": 0.13
+        },
+        "engine": {
+            "move": "Qa1+",
+            "score": -29,
+            "rate": 0.47
+        },
+        "user": {
+            "Kh8": {
+                "score": -31994,
+                "rate": 0.0
+            },
+            "Kh6": {
+                "score": -1539,
+                "rate": 0.0
+            },
+            "Be8": {
+                "score": -565,
+                "rate": 0.1
+            },
+            "Bd7": {
+                "score": -31994,
+                "rate": 0.0
+            },
+            "Bc6": {
+                "score": -628,
+                "rate": 0.08
+            },
+            "Bb5": {
+                "score": -31994,
+                "rate": 0.0
+            },
+            "Bb3": {
+                "score": -31995,
+                "rate": 0.0
+            },
+            "Bc2": {
+                "score": -31994,
+                "rate": 0.0
+            },
+            "Bd1": {
+                "score": -31996,
+                "rate": 0.0
+            },
+            "Qxc4": {
+                "score": -1374,
+                "rate": 0.01
+            },
+            "Qb3": {
+                "score": -31994,
+                "rate": 0.0
+            },
+            "Qa3": {
+                "score": -31995,
+                "rate": 0.0
+            },
+            "Qxf2+": {
+                "score": -31993,
+                "rate": 0.0
+            },
+            "Qe2": {
+                "score": -31987,
+                "rate": 0.0
+            },
+            "Qd2": {
+                "score": -31987,
+                "rate": 0.0
+            },
+            "Qc2": {
+                "score": -31994,
+                "rate": 0.0
+            },
+            "Qb2": {
+                "score": -747,
+                "rate": 0.05
+            },
+            "Qb1+": {
+                "score": -618,
+                "rate": 0.09
+            },
+            "Qa1+": {
+                "score": -32,
+                "rate": 0.47
+            },
+            "g5": {
+                "score": -2324,
+                "rate": 0.0
+            },
+            "f3": {
+                "score": -31999,
+                "rate": 0.0
+            },
+            "b3": {
+                "score": -31994,
+                "rate": 0.0
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.28",
+            "Round": "12.7",
+            "White": "Maghsoodloo, Parham",
+            "Black": "Erigaisi, Arjun",
+            "WhiteElo": "2719",
+            "BlackElo": "2722"
+        }
+    },
+    "8/p4pk1/3p1b1p/1p2qp1N/2r3P1/2P2Q1P/PP6/3R2K1 b - -": {
+        "stm": "black",
+        "fmvn": 34,
+        "hmvc": 3,
+        "game": {
+            "move": "Kg6",
+            "score": -696,
+            "rate": 0.06
+        },
+        "engine": {
+            "move": "Kg8",
+            "score": 0,
+            "rate": 0.5
+        },
+        "user": {
+            "Kh8": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Kg8": {
+                "score": 0,
+                "rate": 0.5
+            },
+            "Kf8": {
+                "score": -20,
+                "rate": 0.48
+            },
+            "Kh7": {
+                "score": -36,
+                "rate": 0.47
+            },
+            "Kg6": {
+                "score": -739,
+                "rate": 0.06
+            }
+        },
+        "analysis_engine": "Stockfish 15",
+        "analysis_movetime": 5.0,
+        "analysis_depth": 1000,
+        "header": {
+            "Event": "85th Tata Steel Masters",
+            "Date": "2023.01.29",
+            "Round": "13.2",
+            "White": "Giri, Anish",
+            "Black": "Rapport, Richard",
+            "WhiteElo": "2764",
+            "BlackElo": "2740"
+        }
+    }
+}
