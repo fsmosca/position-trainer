@@ -180,7 +180,8 @@ def main():
                 # Load test file.
                 if is_load_pre_built:
                     file_list = ['european_ind_2022.json', 'Olympiad_2022.json',
-                                 'ftx_crypto_2022.json', 'Saint_Louis_Blitz_2022.json']
+                                 'ftx_crypto_2022.json', 'Saint_Louis_Blitz_2022.json',
+                                 'tata_steel_master_2023.json']
                     loaded_fn = st.selectbox(
                         label='Select pre-built test file',
                         options=file_list)
