@@ -1,5 +1,6 @@
 import json
 import random
+import pathlib
 
 import streamlit as st
 from library.upload import upload_file
@@ -179,9 +180,12 @@ def main():
 
                 # Load test file.
                 if is_load_pre_built:
-                    file_list = ['european_ind_2022.json', 'Olympiad_2022.json',
-                                 'ftx_crypto_2022.json', 'Saint_Louis_Blitz_2022.json',
-                                 'tata_steel_master_2023.json']
+                    # Get all the file names in the data folder.
+                    file_list = []
+                    for p in pathlib.Path('./data/').iterdir():
+                        if p.is_file():
+                            file_list.append(p.name)
+
                     loaded_fn = st.selectbox(
                         label='Select pre-built test file',
                         options=file_list)
